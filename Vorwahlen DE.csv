@@ -1,0 +1,5203 @@
+primary_key;phone_area_code;city;active
+1;201;Essen;false
+2;202;Wuppertal;false
+3;203;Duisburg;false
+4;2041;Bottrop;false
+5;2043;Gladbeck;false
+6;2045;Bottrop-Kirchhellen;false
+7;2051;Velbert;false
+8;2052;Velbert-Langenberg;false
+9;2053;Velbert-Neviges;false
+10;2054;Essen-Kettwig;false
+11;2056;Heiligenhaus;false
+12;2058;Wülfrath;false
+13;2064;Dinslaken;false
+14;2065;Duisburg-Rheinhausen;false
+15;2066;Duisburg-Homberg;false
+16;208;Oberhausen Rheinl;false
+17;209;Gelsenkirchen;false
+18;2102;Ratingen;false
+19;2103;Hilden;false
+20;2104;Mettmann;false
+21;211;Düsseldorf;false
+22;212;Solingen;false
+23;2129;Haan Rheinl;false
+24;2131;Neuss;false
+25;2132;Meerbusch-Büderich;false
+26;2133;Dormagen;false
+27;2137;Neuss-Norf;false
+28;214;Leverkusen;false
+29;2150;Meerbusch-Lank;false
+30;2151;Krefeld;false
+31;2152;Kempen;false
+32;2153;Nettetal-Lobberich;false
+33;2154;Willich;false
+34;2156;Willich-Anrath;false
+35;2157;Nettetal-Kaldenkirchen;false
+36;2158;Grefrath b Krefeld;false
+37;2159;Meerbusch-Osterath;false
+38;2161;Mönchengladbach;false
+39;2162;Viersen;false
+40;2163;Schwalmtal Niederrhein;false
+41;2164;Jüchen-Otzenrath;false
+42;2165;Jüchen;false
+43;2166;Mönchengladbach-Rheydt;false
+44;2171;Leverkusen-Opladen;false
+45;2173;Langenfeld Rheinland;false
+46;2174;Burscheid Rheinl;false
+47;2175;Leichlingen Rheinland;false
+48;2181;Grevenbroich;false
+49;2182;Grevenbroich-Kapellen;false
+50;2183;Rommerskirchen;false
+51;2191;Remscheid;false
+52;2192;Hückeswagen;false
+53;2193;Dabringhausen;false
+54;2195;Radevormwald;false
+55;2196;Wermelskirchen;false
+56;2202;Bergisch Gladbach;false
+57;2203;Köln-Porz;false
+58;2204;Bensberg;false
+59;2205;Rösrath;false
+60;2206;Overath;false
+61;2207;Kürten-Dürscheid;false
+62;2208;Niederkassel;false
+63;221;Köln;false
+64;2222;Bornheim Rheinl;false
+65;2223;Königswinter;false
+66;2224;Bad Honnef;false
+67;2225;Meckenheim Rheinl;false
+68;2226;Rheinbach;false
+69;2227;Bornheim-Merten;false
+70;2228;Remagen-Rolandseck;false
+71;2232;Brühl Rheinl;false
+72;2233;Hürth Rheinl;false
+73;2234;Frechen;false
+74;2235;Erftstadt;false
+75;2236;Wesseling Rheinl;false
+76;2237;Kerpen Rheinl-Türnich;false
+77;2238;Pulheim;false
+78;2241;Siegburg;false
+79;2242;Hennef Sieg;false
+80;2243;Eitorf;false
+81;2244;Königswinter-Oberpleis;false
+82;2245;Much;false
+83;2246;Lohmar Rheinland;false
+84;2247;Neunkirchen-Seelscheid;false
+85;2248;Hennef-Uckerath;false
+86;2251;Euskirchen;false
+87;2252;Zülpich;false
+88;2253;Bad Münstereifel;false
+89;2254;Weilerswist;false
+90;2255;Euskirchen-Flamersheim;false
+91;2256;Mechernich-Satzvey;false
+92;2257;Reckerscheid;false
+93;2261;Gummersbach;false
+94;2262;Wiehl;false
+95;2263;Engelskirchen;false
+96;2264;Marienheide;false
+97;2265;Reichshof-Eckenhagen;false
+98;2266;Lindlar;false
+99;2267;Wipperfürth;false
+100;2268;Kürten;false
+101;2269;Kierspe-Rönsahl;false
+102;2271;Bergheim Erft;false
+103;2272;Bedburg Erft;false
+104;2273;Kerpen-Horrem;false
+105;2274;Elsdorf Rheinl;false
+106;2275;Kerpen-Buir;false
+107;228;Bonn;false
+108;2291;Waldbröl;false
+109;2292;Windeck Sieg;false
+110;2293;Nümbrecht;false
+111;2294;Morsbach Sieg;false
+112;2295;Ruppichteroth;false
+113;2296;Reichshof-Brüchermühle;false
+114;2297;Wildbergerhütte;false
+115;2301;Holzwickede;false
+116;2302;Witten;false
+117;2303;Unna;false
+118;2304;Schwerte;false
+119;2305;Castrop-Rauxel;false
+120;2306;Lünen;false
+121;2307;Kamen;false
+122;2308;Unna-Hemmerde;false
+123;2309;Waltrop;false
+124;231;Dortmund;false
+125;2323;Herne;false
+126;2324;Hattingen Ruhr;false
+127;2325;Wanne-Eickel;false
+128;2327;Bochum-Wattenscheid;false
+129;2330;Herdecke;false
+130;2331;Hagen Westf;false
+131;2332;Gevelsberg;false
+132;2333;Ennepetal;false
+133;2334;Hagen-Hohenlimburg;false
+134;2335;Wetter Ruhr;false
+135;2336;Schwelm;false
+136;2337;Hagen-Dahl;false
+137;2338;Breckerfeld;false
+138;2339;Sprockhövel-Haßlinghausen;false
+139;234;Bochum;false
+140;2351;Lüdenscheid;false
+141;2352;Altena Westf;false
+142;2353;Halver;false
+143;2354;Meinerzhagen;false
+144;2355;Schalksmühle;false
+145;2357;Herscheid Westf;false
+146;2358;Meinerzhagen-Valbert;false
+147;2359;Kierspe;false
+148;2360;Haltern-Lippramsdorf;false
+149;2361;Recklinghausen;false
+150;2362;Dorsten;false
+151;2363;Datteln;false
+152;2364;Haltern Westf;false
+153;2365;Marl;false
+154;2366;Herten Westf;false
+155;2367;Henrichenburg;false
+156;2368;Oer-Erkenschwick;false
+157;2369;Dorsten-Wulfen;false
+158;2371;Iserlohn;false
+159;2372;Hemer;false
+160;2373;Menden Sauerland;false
+161;2374;Iserlohn-Letmathe;false
+162;2375;Balve;false
+163;2377;Wickede Ruhr;false
+164;2378;Fröndenberg-Langschede;false
+165;2379;Menden-Asbeck;false
+166;2381;Hamm Westf;false
+167;2382;Ahlen Westf;false
+168;2383;Bönen;false
+169;2384;Welver;false
+170;2385;Hamm-Rhynern;false
+171;2387;Drensteinfurt-Walstedde;false
+172;2388;Hamm-Uentrop;false
+173;2389;Werne;false
+174;2391;Plettenberg;false
+175;2392;Werdohl;false
+176;2393;Sundern-Allendorf;false
+177;2394;Neuenrade-Affeln;false
+178;2395;Finnentrop-Rönkhausen;false
+179;2401;Baesweiler;false
+180;2402;Stolberg Rheinl;false
+181;2403;Eschweiler Rheinl;false
+182;2404;Alsdorf Rheinl;false
+183;2405;Würselen;false
+184;2406;Herzogenrath;false
+185;2407;Herzogenrath-Kohlscheid;false
+186;2408;Aachen-Kornelimünster;false
+187;2409;Stolberg-Gressenich;false
+188;241;Aachen;false
+189;2421;Düren;false
+190;2422;Kreuzau;false
+191;2423;Langerwehe;false
+192;2424;Vettweiss;false
+193;2425;Nideggen-Embken;false
+194;2426;Nörvenich;false
+195;2427;Nideggen;false
+196;2428;Niederzier;false
+197;2429;Hürtgenwald;false
+198;2431;Erkelenz;false
+199;2432;Wassenberg;false
+200;2433;Hückelhoven;false
+201;2434;Wegberg;false
+202;2435;Erkelenz-Lövenich;false
+203;2436;Wegberg-Rödgen;false
+204;2440;Nettersheim-Tondorf;false
+205;2441;Kall;false
+206;2443;Mechernich;false
+207;2444;Schleiden-Gemünd;false
+208;2445;Schleiden Eifel;false
+209;2446;Heimbach Eifel;false
+210;2447;Dahlem b Kall;false
+211;2448;Hellenthal-Rescheid;false
+212;2449;Blankenheim Ahr;false
+213;2451;Geilenkirchen;false
+214;2452;Heinsberg Rheinl;false
+215;2453;Heinsberg-Randerath;false
+216;2454;Gangelt;false
+217;2455;Waldfeucht;false
+218;2456;Selfkant;false
+219;2461;Jülich;false
+220;2462;Linnich;false
+221;2463;Titz;false
+222;2464;Aldenhoven b Jülich;false
+223;2465;Inden;false
+224;2471;Roetgen Eifel;false
+225;2472;Monschau;false
+226;2473;Simmerath;false
+227;2474;Nideggen-Schmidt;false
+228;2482;Hellenthal;false
+229;2484;Mechernich-Eiserfey;false
+230;2485;Schleiden-Dreiborn;false
+231;2486;Nettersheim;false
+232;2501;Münster-Hiltrup;false
+233;2502;Nottuln;false
+234;2504;Telgte;false
+235;2505;Altenberge Westf;false
+236;2506;Münster-Wolbeck;false
+237;2507;Havixbeck;false
+238;2508;Drensteinfurt;false
+239;2509;Nottuln-Appelhülsen;false
+240;251;Münster;false
+241;2520;Wadersloh-Diestedde;false
+242;2521;Beckum;false
+243;2522;Oelde;false
+244;2523;Wadersloh;false
+245;2524;Ennigerloh;false
+246;2525;Beckum-Neubeckum;false
+247;2526;Sendenhorst;false
+248;2527;Lippetal-Lippborg;false
+249;2528;Ennigerloh-Enniger;false
+250;2529;Oelde-Stromberg;false
+251;2532;Ostbevern;false
+252;2533;Münster-Nienberge;false
+253;2534;Münster-Roxel;false
+254;2535;Sendenhorst-Albersloh;false
+255;2536;Münster-Albachten;false
+256;2538;Drensteinfurt-Rinkerode;false
+257;2541;Coesfeld;false
+258;2542;Gescher;false
+259;2543;Billerbeck Westf;false
+260;2545;Rosendahl-Darfeld;false
+261;2546;Coesfeld-Lette;false
+262;2547;Rosendahl-Osterwick;false
+263;2548;Dülmen-Rorup;false
+264;2551;Steinfurt-Burgsteinfurt;false
+265;2552;Steinfurt-Borghorst;false
+266;2553;Ochtrup;false
+267;2554;Laer Kr Steinfurt;false
+268;2555;Schöppingen;false
+269;2556;Metelen;false
+270;2557;Wettringen Kr Steinfurt;false
+271;2558;Horstmar;false
+272;2561;Ahaus;false
+273;2562;Gronau Westfalen;false
+274;2563;Stadtlohn;false
+275;2564;Vreden;false
+276;2565;Gronau-Epe;false
+277;2566;Legden;false
+278;2567;Ahaus-Alstätte;false
+279;2568;Heek;false
+280;2571;Greven Westf;false
+281;2572;Emsdetten;false
+282;2573;Nordwalde;false
+283;2574;Saerbeck;false
+284;2575;Greven-Reckenfeld;false
+285;2581;Warendorf;false
+286;2582;Everswinkel;false
+287;2583;Sassenberg;false
+288;2584;Warendorf-Milte;false
+289;2585;Warendorf-Hoetmar;false
+290;2586;Beelen;false
+291;2587;Ennigerloh-Westkirchen;false
+292;2588;Harsewinkel-Greffen;false
+293;2590;Dülmen-Buldern;false
+294;2591;Lüdinghausen;false
+295;2592;Selm;false
+296;2593;Ascheberg Westf;false
+297;2594;Dülmen;false
+298;2595;Olfen;false
+299;2596;Nordkirchen;false
+300;2597;Senden Westf;false
+301;2598;Senden-Ottmarsbocholt;false
+302;2599;Ascheberg-Herbern;false
+303;2601;Nauort;false
+304;2602;Montabaur;false
+305;2603;Bad Ems;false
+306;2604;Nassau Lahn;false
+307;2605;Löf;false
+308;2606;Winningen Mosel;false
+309;2607;Kobern-Gondorf;false
+310;2608;Welschneudorf;false
+311;261;Koblenz a Rhein;false
+312;2620;Neuhäusel Westerw;false
+313;2621;Lahnstein;false
+314;2622;Bendorf Rhein;false
+315;2623;Ransbach-Baumbach;false
+316;2624;Höhr-Grenzhausen;false
+317;2625;Ochtendung;false
+318;2626;Selters Westferwald;false
+319;2627;Braubach;false
+320;2628;Rhens;false
+321;2630;Mülheim-Kärlich;false
+322;2631;Neuwied;false
+323;2632;Andernach;false
+324;2633;Brohl-Lützing;false
+325;2634;Rengsdorf;false
+326;2635;Rheinbrohl;false
+327;2636;Burgbrohl;false
+328;2637;Weissenthurm;false
+329;2638;Waldbreitbach;false
+330;2639;Anhausen Kr Neuwied;false
+331;2641;Bad Neuenahr-Ahrweiler;false
+332;2642;Remagen;false
+333;2643;Altenahr;false
+334;2644;Linz am Rhein;false
+335;2645;Vettelschoss;false
+336;2646;Königsfeld Eifel;false
+337;2647;Kesseling;false
+338;2651;Mayen;false
+339;2652;Mendig;false
+340;2653;Kaisersesch;false
+341;2654;Polch;false
+342;2655;Weibern;false
+343;2656;Virneburg;false
+344;2657;Uersfeld;false
+345;2661;Bad Marienberg Westerwald;false
+346;2662;Hachenburg;false
+347;2663;Westerburg Westerw;false
+348;2664;Rennerod;false
+349;2666;Freilingen Westerw;false
+350;2667;Stein-Neukirch;false
+351;2671;Cochem;false
+352;2672;Treis-Karden;false
+353;2673;Ellenz-Poltersdorf;false
+354;2674;Bad Bertrich;false
+355;2675;Ediger-Eller;false
+356;2676;Ulmen;false
+357;2677;Lutzerath;false
+358;2678;Büchel b Cochem;false
+359;2680;Mündersbach;false
+360;2681;Altenkirchen Westerwald;false
+361;2682;Hamm Sieg;false
+362;2683;Asbach Westerw;false
+363;2684;Puderbach Westerw;false
+364;2685;Flammersfeld;false
+365;2686;Weyerbusch;false
+366;2687;Horhausen Westerwald;false
+367;2688;Kroppach;false
+368;2689;Dierdorf;false
+369;2691;Adenau;false
+370;2692;Kelberg;false
+371;2693;Antweiler;false
+372;2694;Wershofen;false
+373;2695;Insul;false
+374;2696;Nohn Eifel;false
+375;2697;Blankenheim-Ahrhütte;false
+376;271;Siegen;false
+377;2721;Lennestadt;false
+378;2722;Attendorn;false
+379;2723;Kirchhundem;false
+380;2724;Finnentrop-Serkenrode;false
+381;2725;Lennestadt-Oedingen;false
+382;2732;Kreuztal;false
+383;2733;Hilchenbach;false
+384;2734;Freudenberg Westf;false
+385;2735;Neunkirchen Siegerl;false
+386;2736;Burbach Siegerl;false
+387;2737;Netphen-Deuz;false
+388;2738;Netphen;false
+389;2739;Wilnsdorf;false
+390;2741;Betzdorf;false
+391;2742;Wissen;false
+392;2743;Daaden;false
+393;2744;Herdorf;false
+394;2745;Brachbach Sieg;false
+395;2747;Molzhain;false
+396;2750;Diedenshausen;false
+397;2751;Bad Berleburg;false
+398;2752;Bad Laasphe;false
+399;2753;Erndtebrück;false
+400;2754;Bad Laasphe-Feudingen;false
+401;2755;Bad Berleburg-Schwarzenau;false
+402;2758;Bad Berleburg-Girkhausen;false
+403;2759;Bad Berleburg-Aue;false
+404;2761;Olpe Biggesee;false
+405;2762;Wenden Südsauerland;false
+406;2763;Drolshagen-Bleche;false
+407;2764;Welschen Ennest;false
+408;2770;Eschenburg;false
+409;2771;Dillenburg;false
+410;2772;Herborn Hess;false
+411;2773;Haiger;false
+412;2774;Dietzhölztal;false
+413;2775;Driedorf;false
+414;2776;Bad Endbach-Hartenrod;false
+415;2777;Breitscheid Hess;false
+416;2778;Siegbach;false
+417;2779;Greifenstein-Beilstein;false
+418;2801;Xanten;false
+419;2802;Alpen;false
+420;2803;Wesel-Büderich;false
+421;2804;Xanten-Marienbaum;false
+422;281;Wesel;false
+423;2821;Kleve Niederrhein;false
+424;2822;Emmerich;false
+425;2823;Goch;false
+426;2824;Kalkar;false
+427;2825;Uedem;false
+428;2826;Kranenburg Niederrhein;false
+429;2827;Goch-Hassum;false
+430;2828;Emmerich-Elten;false
+431;2831;Geldern;false
+432;2832;Kevelaer;false
+433;2833;Kerken;false
+434;2834;Straelen;false
+435;2835;Issum;false
+436;2836;Wachtendonk;false
+437;2837;Weeze;false
+438;2838;Sonsbeck;false
+439;2839;Straelen-Herongen;false
+440;2841;Moers;false
+441;2842;Kamp-Lintfort;false
+442;2843;Rheinberg;false
+443;2844;Rheinberg-Orsoy;false
+444;2845;Neukirchen-Vluyn;false
+445;2850;Rees-Haldern;false
+446;2851;Rees;false
+447;2852;Hamminkeln;false
+448;2853;Schermbeck;false
+449;2855;Voerde Niederrhein;false
+450;2856;Hamminkeln-Brünen;false
+451;2857;Rees-Mehr;false
+452;2858;Hünxe;false
+453;2859;Wesel-Bislich;false
+454;2861;Borken Westf;false
+455;2862;Südlohn;false
+456;2863;Velen;false
+457;2864;Reken;false
+458;2865;Raesfeld;false
+459;2866;Dorsten-Rhade;false
+460;2867;Heiden Kr Borken;false
+461;2871;Bocholt;false
+462;2872;Rhede Westf;false
+463;2873;Isselburg-Werth;false
+464;2874;Isselburg;false
+465;2902;Warstein;false
+466;2903;Meschede-Freienohl;false
+467;2904;Bestwig;false
+468;2905;Bestwig-Ramsbeck;false
+469;291;Meschede;false
+470;2921;Soest;false
+471;2922;Werl;false
+472;2923;Lippetal-Herzfeld;false
+473;2924;Möhnesee;false
+474;2925;Warstein-Allagen;false
+475;2927;Neuengeseke;false
+476;2928;Soest-Ostönnen;false
+477;2931;Arnsberg;false
+478;2932;Neheim-Hüsten;false
+479;2933;Sundern Sauerland;false
+480;2934;Sundern-Altenhellefeld;false
+481;2935;Sundern-Hachen;false
+482;2937;Arnsberg-Oeventrop;false
+483;2938;Ense;false
+484;2941;Lippstadt;false
+485;2942;Geseke;false
+486;2943;Erwitte;false
+487;2944;Rietberg-Mastholte;false
+488;2945;Lippstadt-Benninghausen;false
+489;2947;Anröchte;false
+490;2948;Lippstadt-Rebbeke;false
+491;2951;Büren;false
+492;2952;Rüthen;false
+493;2953;Wünnenberg;false
+494;2954;Rüthen-Oestereiden;false
+495;2955;Büren-Wewelsburg;false
+496;2957;Wünnenberg-Haaren;false
+497;2958;Büren-Harth;false
+498;2961;Brilon;false
+499;2962;Olsberg;false
+500;2963;Brilon-Messinghausen;false
+501;2964;Brilon-Alme;false
+502;2971;Schmallenberg-Dorlar;false
+503;2972;Schmallenberg;false
+504;2973;Eslohe Sauerland;false
+505;2974;Schmallenberg-Fredeburg;false
+506;2975;Schmallenberg-Oberkirchen;false
+507;2977;Schmallenberg-Bödefeld;false
+508;2981;Winterberg Westf;false
+509;2982;Medebach;false
+510;2983;Winterberg-Siedlinghausen;false
+511;2984;Hallenberg;false
+512;2985;Winterberg-Niedersfeld;false
+513;2991;Marsberg-Bredelar;false
+514;2992;Marsberg;false
+515;2993;Marsberg-Canstein;false
+516;2994;Marsberg-Westheim;false
+517;30;Berlin;false
+518;3301;Oranienburg;false
+519;3302;Hennigsdorf;false
+520;3303;Birkenwerder;false
+521;3304;Velten;false
+522;33051;Nassenheide;false
+523;33052;Leegebruch;false
+524;33053;Zehlendorf Kr Oberhavel;false
+525;33054;Liebenwalde;false
+526;33055;Kremmen;false
+527;33056;Mühlenbeck Kr Oberhavel;false
+528;3306;Gransee;false
+529;3307;Zehdenick;false
+530;33080;Marienthal Kr Oberhavel;false
+531;33082;Menz Kr Oberhavel;false
+532;33083;Schulzendorf Kr Oberhavel;false
+533;33084;Gutengermendorf;false
+534;33085;Seilershof;false
+535;33086;Grieben Kr Oberhavel;false
+536;33087;Bredereiche;false
+537;33088;Falkenthal;false
+538;33089;Himmelpfort;false
+539;33093;Fürstenberg Havel;false
+540;33094;Löwenberg;false
+541;331;Potsdam;false
+542;33200;Bergholz-Rehbrücke;false
+543;33201;Gross Glienicke;false
+544;33202;Töplitz;false
+545;33203;Kleinmachnow;false
+546;33204;Beelitz Mark;false
+547;33205;Michendorf;false
+548;33206;Fichtenwalde;false
+549;33207;Gross Kreutz;false
+550;33208;Fahrland;false
+551;33209;Caputh;false
+552;3321;Nauen Brandenb;false
+553;3322;Falkensee;false
+554;33230;Börnicke Kr Havelland;false
+555;33231;Pausin;false
+556;33232;Brieselang;false
+557;33233;Ketzin;false
+558;33234;Wustermark;false
+559;33235;Friesack;false
+560;33237;Paulinenaue;false
+561;33238;Senzke;false
+562;33239;Gross Behnitz;false
+563;3327;Werder Havel;false
+564;3328;Teltow;false
+565;3329;Stahnsdorf;false
+566;3331;Angermünde;false
+567;3332;Schwedt/Oder;false
+568;33331;Casekow;false
+569;33332;Gartz Oder;false
+570;33333;Tantow;false
+571;33334;Greiffenberg;false
+572;33335;Pinnow Kr Uckermark;false
+573;33336;Passow Kr Uckermark;false
+574;33337;Altkünkendorf;false
+575;33338;Stolpe/Oder;false
+576;3334;Eberswalde;false
+577;3335;Finowfurt;false
+578;33361;Joachimsthal;false
+579;33362;Liepe Kr Barnim;false
+580;33363;Altenhof Kr Barnim;false
+581;33364;Gross Ziethen Kr Barnim;false
+582;33365;Lüdersdorf Kr Barnim;false
+583;33366;Chorin;false
+584;33367;Friedrichswalde Brandenb;false
+585;33368;Hohensaaten;false
+586;33369;Oderberg;false
+587;3337;Biesenthal Brandenb;false
+588;3338;Bernau Brandenb;false
+589;33393;Gross Schönebeck Kr Barnim;false
+590;33394;Blumberg Kr Barnim;false
+591;33395;Zerpenschleuse;false
+592;33396;Klosterfelde;false
+593;33397;Wandlitz;false
+594;33398;Werneuchen;false
+595;3341;Strausberg;false
+596;3342;Neuenhagen b Berlin;false
+597;33432;Müncheberg;false
+598;33433;Buckow Märk Schweiz;false
+599;33434;Herzfelde b Strausberg;false
+600;33435;Rehfelde;false
+601;33436;Prötzel;false
+602;33437;Reichenberg b Strausberg;false
+603;33438;Altlandsberg;false
+604;33439;Fredersdorf-Vogelsdorf;false
+605;3344;Bad Freienwalde;false
+606;33451;Heckelberg;false
+607;33452;Neulewin;false
+608;33454;Wölsickendorf/Wollenberg;false
+609;33456;Wriezen;false
+610;33457;Altreetz;false
+611;33458;Falkenberg Mark;false
+612;3346;Seelow;false
+613;33470;Lietzen;false
+614;33472;Golzow b Seelow;false
+615;33473;Zechin;false
+616;33474;Neutrebbin;false
+617;33475;Letschin;false
+618;33476;Neuhardenberg;false
+619;33477;Trebnitz b Müncheberg;false
+620;33478;Gross Neuendorf;false
+621;33479;Küstrin-Kietz;false
+622;335;Frankfurt (Oder);false
+623;33601;Podelzig;false
+624;33602;Alt Zeschdorf;false
+625;33603;Falkenhagen b Seelow;false
+626;33604;Lebus;false
+627;33605;Boossen;false
+628;33606;Müllrose;false
+629;33607;Briesen Mark;false
+630;33608;Jacobsdorf Mark;false
+631;33609;Brieskow-Finkenheerd;false
+632;3361;Fürstenwalde Spree;false
+633;3362;Erkner;false
+634;33631;Bad Saarow-Pieskow;false
+635;33632;Hangelsberg;false
+636;33633;Spreenhagen;false
+637;33634;Berkenbrück Kr Oder-Spree;false
+638;33635;Arensdorf Kr Oder-Spree;false
+639;33636;Steinhöfel Kr Oder-Spree;false
+640;33637;Beerfelde;false
+641;33638;Rüdersdorf b Berlin;false
+642;3364;Eisenhüttenstadt;false
+643;33652;Neuzelle;false
+644;33653;Ziltendorf;false
+645;33654;Fünfeichen;false
+646;33655;Grunow Kr Oder-Spree;false
+647;33656;Bahro;false
+648;33657;Steinsdorf Brandenb;false
+649;3366;Beeskow;false
+650;33671;Lieberose;false
+651;33672;Pfaffendorfb Beeskow;false
+652;33673;Weichensdorf;false
+653;33674;Trebatsch;false
+654;33675;Tauche;false
+655;33676;Friedland b Beeskow;false
+656;33677;Glienicke b Beeskow;false
+657;33678;Storkow Mark;false
+658;33679;Wendisch Rietz;false
+659;33701;Grossbeeren;false
+660;33702;Wünsdorf;false
+661;33703;Sperenberg;false
+662;33704;Baruth Mark;false
+663;33708;Rangsdorf;false
+664;3371;Luckenwalde;false
+665;3372;Jüterbog;false
+666;33731;Trebbin;false
+667;33732;Hennickendorf b Luckenwalde;false
+668;33733;Stülpe;false
+669;33734;Felgentreu;false
+670;33741;Niedergörsdorf;false
+671;33742;Oehna Brandenb;false
+672;33743;Blönsdorf;false
+673;33744;Hohenseefeld;false
+674;33745;Petkus;false
+675;33746;Werbig b Jüterbog;false
+676;33747;Marzahna;false
+677;33748;Treuenbrietzen;false
+678;3375;Königs Wusterhausen;false
+679;33760;Münchehofe Kr Dahme-Spreewald;false
+680;33762;Zeuthen;false
+681;33763;Bestensee;false
+682;33764;Mittenwalde Mark;false
+683;33765;Märkisch Buchholz;false
+684;33766;Teupitz;false
+685;33767;Friedersdorf b Berlin;false
+686;33768;Prieros;false
+687;33769;Töpchin;false
+688;3377;Zossen Brandenb;false
+689;3378;Ludwigsfelde;false
+690;3379;Mahlow;false
+691;3381;Brandenburg an der Havel;false
+692;3382;Lehnin;false
+693;33830;Ziesar;false
+694;33831;Weseram;false
+695;33832;Rogäsen;false
+696;33833;Wollin b Brandenburg;false
+697;33834;Pritzerbe;false
+698;33835;Golzow b Brandenburg;false
+699;33836;Butzow b Brandenburg;false
+700;33837;Brielow;false
+701;33838;Päwesin;false
+702;33839;Wusterwitz;false
+703;33841;Belzig;false
+704;33843;Niemegk;false
+705;33844;Brück Brandenb;false
+706;33845;Borkheide;false
+707;33846;Dippmannsdorf;false
+708;33847;Görzke;false
+709;33848;Raben;false
+710;33849;Wiesenburg Mark;false
+711;3385;Rathenow;false
+712;3386;Premnitz;false
+713;33870;Zollchow b Rathenow;false
+714;33872;Hohennauen;false
+715;33873;Grosswudicke;false
+716;33874;Stechow Brandenb;false
+717;33875;Rhinow;false
+718;33876;Buschow;false
+719;33877;Nitzahn;false
+720;33878;Nennhausen;false
+721;3391;Neuruppin;false
+722;33920;Walsleben b Neuruppin;false
+723;33921;Zechlinerhütte;false
+724;33922;Karwesee;false
+725;33923;Flecken Zechlin;false
+726;33924;Rägelin;false
+727;33925;Wustrau-Altfriesack;false
+728;33926;Herzberg Mark;false
+729;33927;Linum;false
+730;33928;Wildberg Brandenb;false
+731;33929;Gühlen-Glienicke;false
+732;33931;Rheinsberg Mark;false
+733;33932;Fehrbellin;false
+734;33933;Lindow Mark;false
+735;3394;Wittstock Dosse;false
+736;3395;Pritzwalk;false
+737;33962;Heiligengrabe;false
+738;33963;Wulfersdorf b Wittstock;false
+739;33964;Fretzdorf;false
+740;33965;Herzsprung b Wittstock;false
+741;33966;Dranse;false
+742;33967;Freyenstein;false
+743;33968;Meyenburg Kr Prignitz;false
+744;33969;Stepenitz;false
+745;33970;Neustadt Dosse;false
+746;33971;Kyritz Brandenb;false
+747;33972;Breddin;false
+748;33973;Zernitz b Neustadt Dosse;false
+749;33974;Dessow;false
+750;33975;Dannenwalde Kr Prignitz;false
+751;33976;Wutike;false
+752;33977;Gumtow;false
+753;33978;Segeletz;false
+754;33979;Wusterhausen Dosse;false
+755;33981;Putlitz;false
+756;33982;Hoppenrade Kr Prignitz;false
+757;33983;Gross Pankow Kr Prignitz;false
+758;33984;Blumenthal b Pritzwalk;false
+759;33986;Falkenhagen Kr Prignitz;false
+760;33989;Sadenbeck;false
+761;340;Dessau Anh;false
+762;341;Leipzig;false
+763;34202;Delitzsch;false
+764;34203;Zwenkau;false
+765;34204;Schkeuditz;false
+766;34205;Markranstädt;false
+767;34206;Rötha;false
+768;34207;Zwochau;false
+769;34208;Löbnitz B Delitzsch;false
+770;3421;Torgau;false
+771;34221;Schildau Gneisenaustadt;false
+772;34222;Arzberg b Torgau;false
+773;34223;Dommitzsch;false
+774;34224;Belgern Sachs;false
+775;3423;Eilenburg;false
+776;34241;Jesewitz;false
+777;34242;Hohenpriessnitz;false
+778;34243;Bad Düben;false
+779;34244;Mockrehna;false
+780;3425;Wurzen;false
+781;34261;Kühren b Wurzen;false
+782;34262;Falkenhain b Wurzen;false
+783;34263;Hohburg;false
+784;34291;Borsdorf;false
+785;34292;Brandis b Wurzen;false
+786;34293;Naunhof b Grimma;false
+787;34294;Rackwitz;false
+788;34295;Krensitz;false
+789;34296;Groitzsch b Pegau;false
+790;34297;Liebertwolkwitz;false
+791;34298;Taucha b Leipzig;false
+792;34299;Gaschwitz;false
+793;3431;Döbeln;false
+794;34321;Leisnig;false
+795;34322;Rosswein;false
+796;34324;Ostrau Sachs;false
+797;34325;Mochau-Lüttewitz;false
+798;34327;Waldheim Sachs;false
+799;34328;Hartha b Döbeln;false
+800;3433;Borna Stadt;false
+801;34341;Geithain;false
+802;34342;Neukieritzsch;false
+803;34343;Regis-Breitingen;false
+804;34344;Kohren-Sahlis;false
+805;34345;Bad Lausick;false
+806;34346;Narsdorf;false
+807;34347;Oelzschau b Borna;false
+808;34348;Frohburg;false
+809;3435;Oschatz;false
+810;34361;Dahlen Sachs;false
+811;34362;Mügeln b Oschatz;false
+812;34363;Cavertitz;false
+813;34364;Wermsdorf;false
+814;3437;Grimma;false
+815;34381;Colditz;false
+816;34382;Nerchau;false
+817;34383;Trebsen Mulde;false
+818;34384;Grossbothen;false
+819;34385;Mutzschen;false
+820;34386;Dürrweitzschen B Grimma;false
+821;3441;Zeitz;false
+822;34422;Osterfeld;false
+823;34423;Heuckewalde;false
+824;34424;Reuden b Zeitz;false
+825;34425;Droyssig;false
+826;34426;Kayna;false
+827;3443;Weissenfels Sachs-Anh;false
+828;34441;Hohenmölsen;false
+829;34443;Teuchern;false
+830;34444;Lützen;false
+831;34445;Stößen;false
+832;34446;Grosskorbetha;false
+833;3445;Naumburg Saale;false
+834;34461;Nebra Unstrut;false
+835;34462;Laucha Unstrut;false
+836;34463;Bad Kösen;false
+837;34464;Freyburg Unstrut;false
+838;34465;Bad Bibra;false
+839;34466;Janisroda;false
+840;34467;Eckartsberga;false
+841;3447;Altenburg Thür;false
+842;3448;Meuselwitz Thür;false
+843;34491;Schmölln Thür;false
+844;34492;Lucka;false
+845;34493;Gößnitz Thür;false
+846;34494;Ehrenhain;false
+847;34495;Dobitschen;false
+848;34496;Nöbdenitz;false
+849;34497;Langenleuba-Niederhain;false
+850;34498;Rositz;false
+851;345;Halle Saale;false
+852;34600;Ostrau Saalkreis;false
+853;34601;Teutschenthal;false
+854;34602;Landsberg Sachs-Anh;false
+855;34603;Nauendorf Sachs-Anh;false
+856;34604;Niemberg;false
+857;34605;Gröbers;false
+858;34606;Teicha Sachs-Anh;false
+859;34607;Wettin;false
+860;34609;Salzmünde;false
+861;3461;Merseburg Saale;false
+862;3462;Bad Dürrenberg;false
+863;34632;Mücheln Geiseltal;false
+864;34633;Braunsbedra;false
+865;34635;Bad Lauchstädt;false
+866;34636;Schafstädt;false
+867;34637;Frankleben;false
+868;34638;Zöschen;false
+869;34639;Wallendorf Luppe;false
+870;3464;Sangerhausen;false
+871;34651;Rossla;false
+872;34652;Allstedt;false
+873;34653;Rottleberode;false
+874;34654;Stolberg Harz;false
+875;34656;Wallhausen Sachs-Anh;false
+876;34658;Hayn Harz;false
+877;34659;Blankenheim b Sangerhausen;false
+878;3466;Artern Unstrut;false
+879;34671;Bad Frankenhausen Kyffhäuser;false
+880;34672;Rossleben;false
+881;34673;Heldrungen;false
+882;34691;Könnern;false
+883;34692;Alsleben Saale;false
+884;3471;Bernburg Saale;false
+885;34721;Nienburg Saale;false
+886;34722;Preusslitz;false
+887;3473;Aschersleben Sachs-Anh;false
+888;34741;Frose;false
+889;34742;Sylda;false
+890;34743;Ermsleben;false
+891;34745;Winningen Sachs-Anh;false
+892;34746;Giersleben;false
+893;3475;Lutherstadt Eisleben;false
+894;3476;Hettstedt Sachs-Anh;false
+895;34771;Querfurt;false
+896;34772;Helbra;false
+897;34773;Schwittersdorf;false
+898;34774;Röblingen am See;false
+899;34775;Wippra;false
+900;34776;Rothenschirmbach;false
+901;34779;Abberode;false
+902;34781;Greifenhagen;false
+903;34782;Mansfeld Südharz;false
+904;34783;Gerbstedt;false
+905;34785;Sandersleben;false
+906;34901;Roßlau Elbe;false
+907;34903;Coswig Anhalt;false
+908;34904;Oranienbaum;false
+909;34905;Wörlitz;false
+910;34906;Raguhn;false
+911;34907;Jeber-Bergfrieden;false
+912;34909;Aken Elbe;false
+913;3491;Lutherstadt Wittenberg;false
+914;34920;Kropstädt;false
+915;34921;Kemberg;false
+916;34922;Mühlanger;false
+917;34923;Cobbelsdorf;false
+918;34924;Zahna;false
+919;34925;Bad Schmiedeberg;false
+920;34926;Pretzsch Elbe;false
+921;34927;Globig-Bleddin;false
+922;34928;Seegrehna;false
+923;34929;Straach;false
+924;3493;Bitterfeld;false
+925;3494;Wolfen;false
+926;34953;Gräfenhainichen;false
+927;34954;Roitzsch b Bitterfeld;false
+928;34955;Gossa;false
+929;34956;Zörbig;false
+930;3496;Köthen Anhalt;false
+931;34973;Osternienburg;false
+932;34975;Görzig Kr Köthen;false
+933;34976;Gröbzig;false
+934;34977;Quellendorf;false
+935;34978;Radegast Kr Köthen;false
+936;34979;Wulfen Sachs-Anh;false
+937;3501;Pirna;false
+938;35020;Struppen;false
+939;35021;Königstein Sächs Schweiz;false
+940;35022;Bad Schandau;false
+941;35023;Bad Gottleuba;false
+942;35024;Stadt Wehlen;false
+943;35025;Liebstadt;false
+944;35026;Dürrröhrsdorf-Dittersbach;false
+945;35027;Weesenstein;false
+946;35028;Krippen;false
+947;35032;Langenhennersdorf;false
+948;35033;Rosenthal Sächs Schweiz;false
+949;3504;Dippoldiswalde;false
+950;35052;Kipsdorf Kurort;false
+951;35053;Glashütte Sachs;false
+952;35054;Lauenstein Sachs;false
+953;35055;Höckendorf b Dippoldiswalde;false
+954;35056;Altenberg Sachs;false
+955;35057;Hermsdorf Erzgeb;false
+956;35058;Pretzschendorf;false
+957;351;Dresden;false
+958;35200;Arnsdorf b Dresden;false
+959;35201;Langebrück;false
+960;35202;Klingenberg Sachs;false
+961;35203;Tharandt;false
+962;35204;Wilsdruff;false
+963;35205;Ottendorf-Okrilla;false
+964;35206;Kreischa b Dresden;false
+965;35207;Moritzburg;false
+966;35208;Radeburg;false
+967;35209;Mohorn;false
+968;3521;Meissen;false
+969;3522;Grossenhain Sachs;false
+970;3523;Coswig b Dresden;false
+971;35240;Tauscha b Großenhain;false
+972;35241;Lommatzsch;false
+973;35242;Nossen;false
+974;35243;Weinböhla;false
+975;35244;Krögis;false
+976;35245;Burkhardswalde-Munzig;false
+977;35246;Ziegenhain Sachs;false
+978;35247;Zehren Sachs;false
+979;35248;Schönfeld b Großenhain;false
+980;35249;Basslitz;false
+981;3525;Riesa;false
+982;35263;Gröditz b Riesa;false
+983;35264;Strehla;false
+984;35265;Glaubitz;false
+985;35266;Heyda b Riesa;false
+986;35267;Diesbar-Seusslitz;false
+987;35268;Stauchitz;false
+988;3528;Radeberg;false
+989;3529;Heidenau Sachs;false
+990;3531;Finsterwalde;false
+991;35322;Doberlug-Kirchhain;false
+992;35323;Sonnewalde;false
+993;35324;Crinitz;false
+994;35325;Rückersdorf b Finsterwalde;false
+995;35326;Schönborn Kr Elbe-Elster;false
+996;35327;Priessen;false
+997;35329;Dollenchen;false
+998;3533;Elsterwerda;false
+999;35341;Bad Liebenwerda;false
+1000;35342;Mühlberg Elbe;false
+1001;35343;Hirschfeld b Elsterwerda;false
+1002;3535;Herzberg Elster;false
+1003;35361;Schlieben;false
+1004;35362;Schönewalde b Herzberg;false
+1005;35363;Fermerswalde;false
+1006;35364;Lebusa;false
+1007;35365;Falkenberg Elster;false
+1008;3537;Jessen Elster;false
+1009;35383;Elster Elbe;false
+1010;35384;Steinsdorf b Jessen;false
+1011;35385;Annaburg;false
+1012;35386;Prettin;false
+1013;35387;Seyda;false
+1014;35388;Klöden;false
+1015;35389;Holzdorf Elster;false
+1016;3541;Calau;false
+1017;3542;Lübbenau Spreewald;false
+1018;35433;Vetschau;false
+1019;35434;Altdöbern;false
+1020;35435;Gollmitz b Calau;false
+1021;35436;Laasow b Calau;false
+1022;35439;Zinnitz;false
+1023;3544;Luckau Brandenb;false
+1024;35451;Dahme Brandenb;false
+1025;35452;Golssen;false
+1026;35453;Drahnsdorf;false
+1027;35454;Uckro;false
+1028;35455;Walddrehna;false
+1029;35456;Terpt;false
+1030;3546;Lübben Spreewald;false
+1031;35471;Birkenhainchen;false
+1032;35472;Schlepzig;false
+1033;35473;Neu Lübbenau;false
+1034;35474;Schönwalde b Lübben;false
+1035;35475;Straupitz;false
+1036;35476;Wittmannsdorf-Bückchen;false
+1037;35477;Rietzneuendorf-Friedrichshof;false
+1038;35478;Goyatz;false
+1039;355;Cottbus;false
+1040;35600;Döbern NL;false
+1041;35601;Peitz;false
+1042;35602;Drebkau;false
+1043;35603;Burg Spreewald;false
+1044;35604;Krieschow;false
+1045;35605;Komptendorf;false
+1046;35606;Briesen b Cottbus;false
+1047;35607;Jänschwalde;false
+1048;35608;Gross Ossnig;false
+1049;35609;Drachhausen;false
+1050;3561;Guben;false
+1051;3562;Forst Lausitz;false
+1052;3563;Spremberg;false
+1053;3564;Schwarze Pumpe;false
+1054;35691;Bärenklau NL;false
+1055;35692;Kerkwitz;false
+1056;35693;Lauschütz;false
+1057;35694;Gosda b Klinge;false
+1058;35695;Simmersdorf;false
+1059;35696;Briesnig;false
+1060;35697;Bagenz;false
+1061;35698;Hornow;false
+1062;3571;Hoyerswerda;false
+1063;35722;Lauta b Hoyerswerda;false
+1064;35723;Bernsdorf OL;false
+1065;35724;Lohsa;false
+1066;35725;Wittichenau;false
+1067;35726;Groß Särchen;false
+1068;35727;Burghammer;false
+1069;35728;Uhyst Spree;false
+1070;3573;Senftenberg;false
+1071;3574;Lauchhammer;false
+1072;35751;Welzow;false
+1073;35752;Ruhland;false
+1074;35753;Großräschen;false
+1075;35754;Klettwitz;false
+1076;35755;Ortrand;false
+1077;35756;Hosena;false
+1078;3576;Weisswasser;false
+1079;35771;Bad Muskau;false
+1080;35772;Rietschen;false
+1081;35773;Schleife;false
+1082;35774;Boxberg Sachs;false
+1083;35775;Pechern;false
+1084;3578;Kamenz;false
+1085;35792;Ossling;false
+1086;35793;Elstra;false
+1087;35795;Königsbrück;false
+1088;35796;Panschwitz-Kuckau;false
+1089;35797;Schwepnitz;false
+1090;3581;Görlitz;false
+1091;35820;Zodel;false
+1092;35822;Hagenwerder;false
+1093;35823;Ostritz;false
+1094;35825;Kodersdorf;false
+1095;35826;Königshain b Görlitz;false
+1096;35827;Nieder-Seifersdorf;false
+1097;35828;Reichenbach OL;false
+1098;35829;Gersdorf b Görlitz;false
+1099;3583;Zittau;false
+1100;35841;Großschönau Sachs;false
+1101;35842;Oderwitz;false
+1102;35843;Hirschfelde b Zittau;false
+1103;35844;Oybin Kurort;false
+1104;3585;Löbau;false
+1105;3586;Neugersdorf Sachs;false
+1106;35872;Neusalza-Spremberg;false
+1107;35873;Herrnhut;false
+1108;35874;Bernstadt a d Eigen;false
+1109;35875;Obercunnersdorf b Löbau;false
+1110;35876;Weissenberg Sachs;false
+1111;35877;Cunewalde;false
+1112;3588;Niesky;false
+1113;35891;Rothenburg OL;false
+1114;35892;Horka OL;false
+1115;35893;Mücka;false
+1116;35894;Hähnichen;false
+1117;35895;Klitten;false
+1118;3591;Bautzen;false
+1119;3592;Kirschau;false
+1120;35930;Seitschen;false
+1121;35931;Königswartha;false
+1122;35932;Guttau;false
+1123;35933;Neschwitz;false
+1124;35934;Grossdubrau;false
+1125;35935;Kleinwelka;false
+1126;35936;Sohland Spree;false
+1127;35937;Prischwitz;false
+1128;35938;Großpostwitz OL;false
+1129;35939;Hochkirch;false
+1130;3594;Bischofswerda;false
+1131;35951;Neukirch Lausitz;false
+1132;35952;Großröhrsdorf OL;false
+1133;35953;Burkau;false
+1134;35954;Grossharthau;false
+1135;35955;Pulsnitz;false
+1136;3596;Neustadt i Sa;false
+1137;35971;Sebnitz;false
+1138;35973;Stolpen;false
+1139;35974;Hinterhermsdorf;false
+1140;35975;Hohnstein;false
+1141;3601;Mühlhausen Thür;false
+1142;36020;Ebeleben;false
+1143;36021;Schlotheim;false
+1144;36022;Grossengottern;false
+1145;36023;Horsmar;false
+1146;36024;Diedorf b Mühlhausen Thür;false
+1147;36025;Körner;false
+1148;36026;Struth b Mühlhausen Thür;false
+1149;36027;Lengenfeld Unterm Stein;false
+1150;36028;Kammerforst Thür;false
+1151;36029;Menteroda;false
+1152;3603;Bad Langensalza;false
+1153;36041;Bad Tennstedt;false
+1154;36042;Tonna;false
+1155;36043;Kirchheilingen;false
+1156;3605;Leinefelde;false
+1157;3606;Heiligenstadt Heilbad;false
+1158;36071;Teistungen;false
+1159;36072;Weißenborn-Lüderode;false
+1160;36074;Worbis;false
+1161;36075;Dingelstädt Eichsfeld;false
+1162;36076;Niederorschel;false
+1163;36077;Grossbodungen;false
+1164;36081;Arenshausen;false
+1165;36082;Ershausen;false
+1166;36083;Uder;false
+1167;36084;Heuthen;false
+1168;36085;Reinholterode;false
+1169;36087;Wüstheuterode;false
+1170;361;Erfurt;false
+1171;36200;Elxleben b Arnstadt;false
+1172;36201;Walschleben;false
+1173;36202;Neudietendorf;false
+1174;36203;Vieselbach;false
+1175;36204;Stotternheim;false
+1176;36205;Gräfenroda;false
+1177;36206;Grossfahner;false
+1178;36207;Plaue Thür;false
+1179;36208;Ermstedt;false
+1180;36209;Klettbach;false
+1181;3621;Gotha Thür;false
+1182;3622;Waltershausen Thür;false
+1183;3623;Friedrichroda;false
+1184;3624;Ohrdruf;false
+1185;36252;Tambach-Dietharz Thür Wald;false
+1186;36253;Georgenthal Thür Wald;false
+1187;36254;Friedrichswerth;false
+1188;36255;Goldbach b Gotha;false
+1189;36256;Wechmar;false
+1190;36257;Luisenthal Thür;false
+1191;36258;Friemar;false
+1192;36259;Tabarz Thür Wald;false
+1193;3628;Arnstadt;false
+1194;3629;Stadtilm;false
+1195;3631;Nordhausen Thür;false
+1196;3632;Sondershausen;false
+1197;36330;Grossberndten;false
+1198;36331;Ilfeld;false
+1199;36332;Ellrich;false
+1200;36333;Heringen Helme;false
+1201;36334;Wolkramshausen;false
+1202;36335;Grosswechsungen;false
+1203;36336;Klettenberg;false
+1204;36337;Schiedungen;false
+1205;36338;Bleicherode;false
+1206;3634;Sömmerda;false
+1207;3635;Kölleda;false
+1208;3636;Greussen;false
+1209;36370;Grossenehrich;false
+1210;36371;Schlossvippach;false
+1211;36372;Kleinneuhausen;false
+1212;36373;Buttstädt;false
+1213;36374;Weissensee;false
+1214;36375;Kindelbrück;false
+1215;36376;Straussfurt;false
+1216;36377;Rastenberg;false
+1217;36378;Ostramondra;false
+1218;36379;Holzengel;false
+1219;3641;Jena;false
+1220;36421;Camburg;false
+1221;36422;Reinstädt Thür;false
+1222;36423;Orlamünde;false
+1223;36424;Kahla Thür;false
+1224;36425;Isserstedt;false
+1225;36426;Ottendorf b Stadtroda;false
+1226;36427;Dornburg Saale;false
+1227;36428;Stadtroda;false
+1228;3643;Weimar Thür;false
+1229;3644;Apolda;false
+1230;36450;Kranichfeld;false
+1231;36451;Buttelstedt;false
+1232;36452;Berlstedt;false
+1233;36453;Mellingen;false
+1234;36454;Magdala;false
+1235;36458;Bad Berka;false
+1236;36459;Blankenhain Thür;false
+1237;36461;Bad Sulza;false
+1238;36462;Ossmannstedt;false
+1239;36463;Gebstedt;false
+1240;36464;Wormstedt;false
+1241;36465;Oberndorf b Apolda;false
+1242;3647;Pößneck;false
+1243;36481;Neustadt an der Orla;false
+1244;36482;Triptis;false
+1245;36483;Ziegenrück;false
+1246;36484;Knau b Pößneck;false
+1247;365;Gera;false
+1248;36601;Hermsdorf Thür;false
+1249;36602;Ronneburg Thür;false
+1250;36603;Weida;false
+1251;36604;Münchenbernsdorf;false
+1252;36605;Bad Köstritz;false
+1253;36606;Kraftsdorf;false
+1254;36607;Niederpöllnitz;false
+1255;36608;Seelingstädt b Gera;false
+1256;3661;Greiz;false
+1257;36621;Elsterberg b Plauen;false
+1258;36622;Triebes;false
+1259;36623;Berga Elster;false
+1260;36624;Teichwolframsdorf;false
+1261;36625;Langenwetzendorf;false
+1262;36626;Auma;false
+1263;36628;Zeulenroda;false
+1264;3663;Schleiz;false
+1265;36640;Remptendorf;false
+1266;36642;Harra;false
+1267;36643;Thimmendorf;false
+1268;36644;Hirschberg Saale;false
+1269;36645;Mühltroff;false
+1270;36646;Tanna b Schleiz;false
+1271;36647;Saalburg Thür;false
+1272;36648;Dittersdorf b Schleiz;false
+1273;36649;Gefell b Schleiz;false
+1274;36651;Lobenstein;false
+1275;36652;Wurzbach;false
+1276;36653;Lehesten Thür Wald;false
+1277;36691;Eisenberg Thür;false
+1278;36692;Bürgel;false
+1279;36693;Crossen an der Elster;false
+1280;36694;Schkölen Thür;false
+1281;36695;Söllmnitz;false
+1282;36701;Lichte;false
+1283;36702;Lauscha;false
+1284;36703;Gräfenthal;false
+1285;36704;Steinheid;false
+1286;36705;Oberweißbach Thür Wald;false
+1287;3671;Saalfeld Saale;false
+1288;3672;Rudolstadt;false
+1289;36730;Sitzendorf;false
+1290;36731;Unterloquitz;false
+1291;36732;Könitz;false
+1292;36733;Kaulsdorf;false
+1293;36734;Leutenberg;false
+1294;36735;Probstzella;false
+1295;36736;Arnsgereuth;false
+1296;36737;Drognitz;false
+1297;36738;Königsee;false
+1298;36739;Rottenbach;false
+1299;36741;Bad Blankenburg;false
+1300;36742;Uhlstädt;false
+1301;36743;Teichel;false
+1302;36744;Remda;false
+1303;3675;Sonneberg Thür;false
+1304;36761;Heubisch;false
+1305;36762;Steinach Thür;false
+1306;36764;Neuhaus-Schierschnitz;false
+1307;36766;Schalkau;false
+1308;3677;Ilmenau Thür;false
+1309;36781;Grossbreitenbach;false
+1310;36782;Schmiedefeld a Rennsteig;false
+1311;36783;Gehren Thür;false
+1312;36784;Stützerbach;false
+1313;36785;Gräfinau-Angstedt;false
+1314;3679;Neuhaus a Rennweg;false
+1315;3681;Suhl;false
+1316;3682;Zella-Mehlis;false
+1317;3683;Schmalkalden;false
+1318;36840;Trusetal;false
+1319;36841;Schleusingen;false
+1320;36842;Oberhof Thür;false
+1321;36843;Benshausen;false
+1322;36844;Rohr Thür;false
+1323;36845;Gehlberg;false
+1324;36846;Suhl-Dietzhausen;false
+1325;36847;Steinbach-Hallenberg;false
+1326;36848;Wernshausen;false
+1327;36849;Kleinschmalkalden;false
+1328;3685;Hildburghausen;false
+1329;3686;Eisfeld;false
+1330;36870;Masserberg;false
+1331;36871;Bad Colberg-Heldburg;false
+1332;36873;Themar;false
+1333;36874;Schönbrunn b Hildburghaus;false
+1334;36875;Straufhain-Streufdorf;false
+1335;36878;Oberland;false
+1336;3691;Eisenach Thür;false
+1337;36920;Grossenlupnitz;false
+1338;36921;Wutha-Farnroda;false
+1339;36922;Gerstungen;false
+1340;36923;Treffurt;false
+1341;36924;Mihla;false
+1342;36925;Marksuhl;false
+1343;36926;Creuzburg;false
+1344;36927;Unterellen;false
+1345;36928;Neuenhof Thür;false
+1346;36929;Ruhla;false
+1347;3693;Meiningen;false
+1348;36940;Oepfershausen;false
+1349;36941;Wasungen;false
+1350;36943;Bettenhausen Thür;false
+1351;36944;Rentwertshausen;false
+1352;36945;Henneberg;false
+1353;36946;Erbenhausen Thür;false
+1354;36947;Jüchsen;false
+1355;36948;Römhild;false
+1356;36949;Obermaßfeld-Grimmenthal;false
+1357;3695;Bad Salzungen;false
+1358;36961;Bad Liebenstein;false
+1359;36962;Vacha;false
+1360;36963;Dorndorf Rhön;false
+1361;36964;Dermbach Rhön;false
+1362;36965;Stadtlengsfeld;false
+1363;36966;Kaltennordheim;false
+1364;36967;Geisa;false
+1365;36968;Rossdorf Rhön;false
+1366;36969;Merkers;false
+1367;371;Chemnitz Sachs;false
+1368;37200;Wittgensdorf b Chemnitz;false
+1369;37202;Claussnitz b Chemnitz;false
+1370;37203;Gersdorf b Chemnitz;false
+1371;37204;Lichtenstein Sachs;false
+1372;37206;Frankenberg Sachs;false
+1373;37207;Hainichen Sachs;false
+1374;37208;Auerswalde;false
+1375;37209;Einsiedel b Chemnitz;false
+1376;3721;Meinersdorf;false
+1377;3722;Limbach-Oberfrohna;false
+1378;3723;Hohenstein-Ernstthal;false
+1379;3724;Burgstädt;false
+1380;3725;Zschopau;false
+1381;3726;Flöha;false
+1382;3727;Mittweida;false
+1383;37291;Augustusburg;false
+1384;37292;Oederan;false
+1385;37293;Eppendorf Sachs;false
+1386;37294;Grünhainichen;false
+1387;37295;Lugau Erzgeb;false
+1388;37296;Stollberg Erzgeb;false
+1389;37297;Thum Sachs;false
+1390;37298;Oelsnitz Erzgeb;false
+1391;3731;Freiberg Sachs;false
+1392;37320;Mulda Sachs;false
+1393;37321;Frankenstein Sachs;false
+1394;37322;Brand-Erbisdorf;false
+1395;37323;Lichtenberg Erzgeb;false
+1396;37324;Reinsberg Sachs;false
+1397;37325;Niederbobritzsch;false
+1398;37326;Frauenstein Sachs;false
+1399;37327;Rechenberg-Bienenmühle;false
+1400;37328;Grossschirma;false
+1401;37329;Grosshartmannsdorf;false
+1402;3733;Annaberg-Buchholz;false
+1403;37341;Ehrenfriedersdorf;false
+1404;37342;Cranzahl;false
+1405;37343;Jöhstadt;false
+1406;37344;Crottendorf Sachs;false
+1407;37346;Geyer;false
+1408;37347;Bärenstein Kr Annaberg;false
+1409;37348;Oberwiesenthal Kurort;false
+1410;37349;Scheibenberg;false
+1411;3735;Marienberg Sachs;false
+1412;37360;Olbernhau;false
+1413;37361;Neuhausen Erzgeb;false
+1414;37362;Seiffen Erzgeb;false
+1415;37363;Zöblitz;false
+1416;37364;Reitzenhain Erzgeb;false
+1417;37365;Sayda;false
+1418;37366;Rübenau;false
+1419;37367;Lengefeld Erzgeb;false
+1420;37368;Deutschneudorf;false
+1421;37369;Wolkenstein;false
+1422;3737;Rochlitz;false
+1423;37381;Penig;false
+1424;37382;Geringswalde;false
+1425;37383;Lunzenau;false
+1426;37384;Wechselburg;false
+1427;3741;Plauen;false
+1428;37421;Oelsnitz Vogtl;false
+1429;37422;Markneukirchen;false
+1430;37423;Adorf Vogtl;false
+1431;37430;Eichigt;false
+1432;37431;Mehltheuer Vogtl;false
+1433;37432;Pausa Vogtl;false
+1434;37433;Gutenfürst;false
+1435;37434;Bobenneukirchen;false
+1436;37435;Reuth b Plauen;false
+1437;37436;Weischlitz;false
+1438;37437;Bad Elster;false
+1439;37438;Bad Brambach;false
+1440;37439;Jocketa;false
+1441;3744;Auerbach Vogtl;false
+1442;3745;Falkenstein Vogtl;false
+1443;37462;Rothenkirchen Vogtl;false
+1444;37463;Bergen Vogtl;false
+1445;37464;Schöneck Vogtl;false
+1446;37465;Tannenbergsthal Vogtl;false
+1447;37467;Klingenthal Sachs;false
+1448;37468;Treuen Vogtl;false
+1449;375;Zwickau;false
+1450;37600;Neumark Sachs;false
+1451;37601;Mülsen Skt Jacob;false
+1452;37602;Kirchberg Sachs;false
+1453;37603;Wildenfels;false
+1454;37604;Mosel;false
+1455;37605;Hartenstein Sachs;false
+1456;37606;Lengenfeld Vogtl;false
+1457;37607;Ebersbrunn Sachs;false
+1458;37608;Waldenburg Sachs;false
+1459;37609;Wolkenburg Mulde;false
+1460;3761;Werdau Sachs;false
+1461;3762;Crimmitschau;false
+1462;3763;Glauchau;false
+1463;3764;Meerane;false
+1464;3765;Reichenbach Vogtl;false
+1465;3771;Aue Sachs;false
+1466;3772;Schneeberg Erzgeb;false
+1467;3773;Johanngeorgenstadt;false
+1468;3774;Schwarzenberg;false
+1469;37752;Eibenstock;false
+1470;37754;Zwönitz;false
+1471;37755;Schönheide Erzgeb;false
+1472;37756;Breitenbrunn Erzgeb;false
+1473;37757;Rittersgrün;false
+1474;381;Rostock;false
+1475;38201;Gelbensande;false
+1476;38202;Volkenshagen;false
+1477;38203;Bad Doberan;false
+1478;38204;Broderstorf;false
+1479;38205;Tessin b Rostock;false
+1480;38206;Graal-Müritz Seeheilbad;false
+1481;38207;Stäbelow;false
+1482;38208;Kavelstorf;false
+1483;38209;Sanitz b Rostock;false
+1484;3821;Ribnitz-Damgarten;false
+1485;38220;Wustrow Ostseebad;false
+1486;38221;Marlow;false
+1487;38222;Semlow;false
+1488;38223;Saal Vorpom;false
+1489;38224;Gresenhorst;false
+1490;38225;Trinwillershagen;false
+1491;38226;Dierhagen Ostseebad;false
+1492;38227;Lüdershagen b Barth;false
+1493;38228;Dettmannsdorf-Kölzow;false
+1494;38229;Bad Sülze;false
+1495;38231;Barth;false
+1496;38232;Zingst Ostseebad;false
+1497;38233;Prerow Ostseebad;false
+1498;38234;Born a Darß;false
+1499;38292;Kröpelin;false
+1500;38293;Kühlungsborn Ostseebad;false
+1501;38294;Neubukow;false
+1502;38295;Satow b Bad Doberan;false
+1503;38296;Rerik Ostseebad;false
+1504;38297;Moitin;false
+1505;38300;Insel Hiddensee;false
+1506;38301;Putbus;false
+1507;38302;Sagard;false
+1508;38303;Sellin Ostseebad;false
+1509;38304;Garz Rügen;false
+1510;38305;Gingst;false
+1511;38306;Samtens;false
+1512;38307;Poseritz;false
+1513;38308;Göhren Rügen;false
+1514;38309;Trent;false
+1515;3831;Stralsund;false
+1516;38320;Tribsees;false
+1517;38321;Martensdorf b Stralsund;false
+1518;38322;Richtenberg;false
+1519;38323;Prohn;false
+1520;38324;Velgast;false
+1521;38325;Rolofshagen;false
+1522;38326;Grimmen;false
+1523;38327;Elmenhorst Vorpom;false
+1524;38328;Miltzow;false
+1525;38331;Rakow Vorpom;false
+1526;38332;Gross Bisdorf;false
+1527;38333;Horst b Grimmen;false
+1528;38334;Grammendorf;false
+1529;3834;Greifswald;false
+1530;38351;Mesekenhagen;false
+1531;38352;Kemnitz b Greifswald;false
+1532;38353;Gützkow b Greifswald;false
+1533;38354;Wusterhusen;false
+1534;38355;Züssow;false
+1535;38356;Behrenhoff;false
+1536;3836;Wolgast;false
+1537;38370;Kröslin;false
+1538;38371;Karlshagen;false
+1539;38372;Usedom;false
+1540;38373;Katzow;false
+1541;38374;Lassan b Wolgast;false
+1542;38375;Koserow;false
+1543;38376;Zirchow;false
+1544;38377;Zinnowitz;false
+1545;38378;Heringsdorf Seebad;false
+1546;38379;Benz Usedom;false
+1547;3838;Bergen auf Rügen;false
+1548;38391;Altenkirchen Rügen;false
+1549;38392;Sassnitz;false
+1550;38393;Binz Ostseebad;false
+1551;3841;Wismar Meckl;false
+1552;38422;Neukloster;false
+1553;38423;Bad Kleinen;false
+1554;38424;Bobitz;false
+1555;38425;Kirchdorf Poel;false
+1556;38426;Neuburg-Steinhausen;false
+1557;38427;Blowatz;false
+1558;38428;Hohenkirchen b Wismar;false
+1559;38429;Glasin;false
+1560;3843;Güstrow;false
+1561;3844;Schwaan;false
+1562;38450;Tarnow b Bützow;false
+1563;38451;Hoppenrade b Güstrow;false
+1564;38452;Lalendorf;false
+1565;38453;Mistorf;false
+1566;38454;Kritzkow;false
+1567;38455;Plaaz;false
+1568;38456;Langhagen b Güstrow;false
+1569;38457;Krakow am See;false
+1570;38458;Zehna;false
+1571;38459;Laage;false
+1572;38461;Bützow;false
+1573;38462;Baumgarten Meckl;false
+1574;38464;Bernitt;false
+1575;38466;Jürgenshagen;false
+1576;3847;Sternberg;false
+1577;38481;Witzin;false
+1578;38482;Warin;false
+1579;38483;Brüel;false
+1580;38484;Ventschow;false
+1581;38485;Dabel;false
+1582;38486;Gustävel;false
+1583;38488;Demen;false
+1584;385;Schwerin Meckl;false
+1585;3860;Raben Steinfeld;false
+1586;3861;Plate;false
+1587;3863;Crivitz;false
+1588;3865;Holthusen;false
+1589;3866;Cambs;false
+1590;3867;Lübstorf;false
+1591;3868;Rastow;false
+1592;3869;Dümmer;false
+1593;3871;Parchim;false
+1594;38720;Grebbin;false
+1595;38721;Ziegendorf;false
+1596;38722;Raduhn;false
+1597;38723;Kladrum;false
+1598;38724;Siggelkow;false
+1599;38725;Gross Godems;false
+1600;38726;Spornitz;false
+1601;38727;Mestlin;false
+1602;38728;Domsühl;false
+1603;38729;Marnitz;false
+1604;38731;Lübz;false
+1605;38732;Gallin b Lübz;false
+1606;38733;Karbow-Vietlübbe;false
+1607;38735;Plau am See;false
+1608;38736;Goldberg Meckl;false
+1609;38737;Ganzlin;false
+1610;38738;Karow b Lübz;false
+1611;3874;Ludwigslust Meckl;false
+1612;38750;Malliss;false
+1613;38751;Picher;false
+1614;38752;Zierzow b Ludwigslust;false
+1615;38753;Wöbbelin;false
+1616;38754;Leussow b Ludwigslust;false
+1617;38755;Eldena;false
+1618;38756;Grabow Meckl;false
+1619;38757;Neustadt-Glewe;false
+1620;38758;Dömitz;false
+1621;38759;Tewswoos;false
+1622;3876;Perleberg;false
+1623;3877;Wittenberge;false
+1624;38780;Lanz Brandenb;false
+1625;38781;Mellen;false
+1626;38782;Reetz b Perleberg;false
+1627;38783;Dallmin;false
+1628;38784;Kleinow Kr Prignitz;false
+1629;38785;Berge b Perleberg;false
+1630;38787;Glöwen;false
+1631;38788;Gross Warnow;false
+1632;38789;Wolfshagen b Perleberg;false
+1633;38791;Bad Wilsnack;false
+1634;38792;Lenzen (Elbe);false
+1635;38793;Dergenthin;false
+1636;38794;Cumlosen;false
+1637;38796;Viesecke;false
+1638;38797;Karstädt Kr Prignitz;false
+1639;3881;Grevesmühlen;false
+1640;38821;Lüdersdorf Meckl;false
+1641;38822;Diedrichshagen b Grevesmühlen;false
+1642;38823;Selmsdorf;false
+1643;38824;Mallentin;false
+1644;38825;Klütz;false
+1645;38826;Dassow;false
+1646;38827;Kalkhorst;false
+1647;38828;Schönberg Meckl;false
+1648;3883;Hagenow;false
+1649;38841;Neuhaus Elbe;false
+1650;38842;Lüttenmark;false
+1651;38843;Bennin;false
+1652;38844;Gülze;false
+1653;38845;Kaarssen;false
+1654;38847;Boizenburg Elbe;false
+1655;38848;Vellahn;false
+1656;38850;Gammelin;false
+1657;38851;Zarrentin Meckl;false
+1658;38852;Wittenburg;false
+1659;38853;Drönnewitz b Hagenow;false
+1660;38854;Redefin;false
+1661;38855;Lübtheen;false
+1662;38856;Pritzier b Hagenow;false
+1663;38858;Lassahn;false
+1664;38859;Alt Zachun;false
+1665;3886;Gadebusch;false
+1666;38871;Mühlen Eichsen;false
+1667;38872;Rehna;false
+1668;38873;Carlow;false
+1669;38874;Lützow;false
+1670;38875;Schlagsdorf b Gadebusch;false
+1671;38876;Roggendorf;false
+1672;39000;Beetzendorf;false
+1673;39001;Apenburg;false
+1674;39002;Oebisfelde;false
+1675;39003;Jübar;false
+1676;39004;Köckte b Gardelegen;false
+1677;39005;Kusey;false
+1678;39006;Miesterhorst;false
+1679;39007;Tangeln;false
+1680;39008;Kunrau;false
+1681;39009;Badel;false
+1682;3901;Salzwedel;false
+1683;3902;Diesdorf Altm;false
+1684;39030;Brunau;false
+1685;39031;Dähre;false
+1686;39032;Mahlsdorf b Salzwedel;false
+1687;39033;Wallstawe;false
+1688;39034;Fleetmark;false
+1689;39035;Kuhfelde;false
+1690;39036;Binde;false
+1691;39037;Pretzier;false
+1692;39038;Henningen;false
+1693;39039;Bonese;false
+1694;3904;Haldensleben;false
+1695;39050;Bartensleben;false
+1696;39051;Calvörde;false
+1697;39052;Erxleben b Haldensleben;false
+1698;39053;Süplingen;false
+1699;39054;Flechtingen;false
+1700;39055;Hörsingen;false
+1701;39056;Klüden;false
+1702;39057;Rätzlingen Sachs-Anh;false
+1703;39058;Uthmöden;false
+1704;39059;Wegenstedt;false
+1705;39061;Weferlingen;false
+1706;39062;Bebertal;false
+1707;3907;Gardelegen;false
+1708;39080;Kalbe Milde;false
+1709;39081;Kakerbeck Sachs-Anh;false
+1710;39082;Mieste;false
+1711;39083;Messdorf;false
+1712;39084;Lindstedt;false
+1713;39085;Zichtau;false
+1714;39086;Jävenitz;false
+1715;39087;Jerchel Altmark;false
+1716;39088;Letzlingen;false
+1717;39089;Bismark Altmark;false
+1718;3909;Klötze Altmark;false
+1719;391;Magdeburg;false
+1720;39200;Gommern;false
+1721;39201;Wolmirstedt;false
+1722;39202;Gross Ammensleben;false
+1723;39203;Barleben;false
+1724;39204;Niederndodeleben;false
+1725;39205;Langenweddingen;false
+1726;39206;Eichenbarleben;false
+1727;39207;Colbitz;false
+1728;39208;Loitsche;false
+1729;39209;Wanzleben;false
+1730;3921;Burg b Magdeburg;false
+1731;39221;Möckern b Magdeburg;false
+1732;39222;Möser;false
+1733;39223;Theessen;false
+1734;39224;Büden;false
+1735;39225;Altengrabow;false
+1736;39226;Hohenziatz;false
+1737;3923;Zerbst;false
+1738;39241;Leitzkau;false
+1739;39242;Prödel;false
+1740;39243;Nedlitz b Zerbst;false
+1741;39244;Steutz;false
+1742;39245;Loburg;false
+1743;39246;Lindau Anh;false
+1744;39247;Güterglück;false
+1745;39248;Dobritz;false
+1746;3925;Stassfurt;false
+1747;39262;Güsten Anh;false
+1748;39263;Unseburg;false
+1749;39264;Kroppenstedt;false
+1750;39265;Löderburg;false
+1751;39266;Förderstedt;false
+1752;39267;Schneidlingen;false
+1753;39268;Egeln;false
+1754;3928;Schönebeck Elbe;false
+1755;39291;Calbe Saale;false
+1756;39292;Biederitz;false
+1757;39293;Dreileben;false
+1758;39294;Gross Rosenburg;false
+1759;39295;Zuchau;false
+1760;39296;Welsleben;false
+1761;39297;Eickendorf Kr Schönebeck;false
+1762;39298;Barby Elbe;false
+1763;3931;Stendal;false
+1764;39320;Schinne;false
+1765;39321;Arneburg;false
+1766;39322;Tangermünde;false
+1767;39323;Schönhausen Elbe;false
+1768;39324;Kläden b Stendal;false
+1769;39325;Vinzelberg;false
+1770;39327;Klietz;false
+1771;39328;Rochau;false
+1772;39329;Möringen;false
+1773;3933;Genthin;false
+1774;39341;Redekin;false
+1775;39342;Gladau;false
+1776;39343;Jerichow;false
+1777;39344;Güsen;false
+1778;39345;Parchen;false
+1779;39346;Tucheim;false
+1780;39347;Kade;false
+1781;39348;Klitsche;false
+1782;39349;Parey Elbe;false
+1783;3935;Tangerhütte;false
+1784;39361;Lüderitz;false
+1785;39362;Grieben b Tangerhütte;false
+1786;39363;Angern;false
+1787;39364;Dolle;false
+1788;39365;Bellingen b Stendal;false
+1789;39366;Kehnert;false
+1790;3937;Osterburg Altmark;false
+1791;39382;Kamern;false
+1792;39383;Sandau Elbe;false
+1793;39384;Arendsee Altmark;false
+1794;39386;Seehausen Altmark;false
+1795;39387;Havelberg;false
+1796;39388;Goldbeck Altm;false
+1797;39389;Schollene;false
+1798;39390;Iden;false
+1799;39391;Lückstedt;false
+1800;39392;Rönnebeck Sachs-Ahn;false
+1801;39393;Werben Elbe;false
+1802;39394;Hohenberg-Krusemark;false
+1803;39395;Wanzer;false
+1804;39396;Neukirchen Altmark;false
+1805;39397;Geestgottberg;false
+1806;39398;Gross Garz;false
+1807;39399;Kleinau;false
+1808;39400;Wefensleben;false
+1809;39401;Neuwegersleben;false
+1810;39402;Völpke;false
+1811;39403;Gröningen Sachs-Ahn;false
+1812;39404;Ausleben;false
+1813;39405;Hötensleben;false
+1814;39406;Harbke;false
+1815;39407;Seehausen Börde;false
+1816;39408;Hadmersleben;false
+1817;39409;Eilsleben;false
+1818;3941;Halberstadt;false
+1819;39421;Osterwieck;false
+1820;39422;Badersleben;false
+1821;39423;Wegeleben;false
+1822;39424;Schwanebeck Sachs-Anh;false
+1823;39425;Dingelstedt a Huy;false
+1824;39426;Hessen;false
+1825;39427;Ströbeck;false
+1826;39428;Pabstorf;false
+1827;3943;Wernigerode;false
+1828;3944;Blankenburg Harz;false
+1829;39451;Wasserleben;false
+1830;39452;Ilsenburg;false
+1831;39453;Derenburg;false
+1832;39454;Elbingerode Harz;false
+1833;39455;Schierke;false
+1834;39456;Altenbrak;false
+1835;39457;Benneckenstein Harz;false
+1836;39458;Heudeber;false
+1837;39459;Hasselfelde;false
+1838;3946;Quedlinburg;false
+1839;3947;Thale;false
+1840;39481;Hedersleben b Aschersleben;false
+1841;39482;Gatersleben;false
+1842;39483;Ballenstedt;false
+1843;39484;Harzgerode;false
+1844;39485;Gernrode Harz;false
+1845;39487;Friedrichsbrunn;false
+1846;39488;Güntersberge;false
+1847;39489;Strassberg Harz;false
+1848;3949;Oschersleben Bode;false
+1849;395;Neubrandenburg;false
+1850;39600;Zwiedorf;false
+1851;39601;Friedland Meckl;false
+1852;39602;Kleeth;false
+1853;39603;Burg Stargard;false
+1854;39604;Wildberg b Altentreptow;false
+1855;39605;Gross Nemerow;false
+1856;39606;Glienke;false
+1857;39607;Kotelow;false
+1858;39608;Staven;false
+1859;3961;Altentreptow;false
+1860;3962;Penzlin b Waren;false
+1861;3963;Woldegk;false
+1862;3964;Bredenfelde b Strasburg;false
+1863;3965;Burow b Altentreptow;false
+1864;3966;Cölpin;false
+1865;3967;Oertzenhof b Strasburg;false
+1866;3968;Schönbeck Meckl;false
+1867;3969;Siedenbollentin;false
+1868;3971;Anklam;false
+1869;39721;Liepen b Anklam;false
+1870;39722;Sarnow b Anklam;false
+1871;39723;Krien;false
+1872;39724;Klein Bünzow;false
+1873;39726;Ducherow;false
+1874;39727;Spantekow;false
+1875;39728;Medow b Anklam;false
+1876;3973;Pasewalk;false
+1877;39740;Nechlin;false
+1878;39741;Jatznick;false
+1879;39742;Brüssow b Pasewalk;false
+1880;39743;Zerrenthin;false
+1881;39744;Rothenklempenow;false
+1882;39745;Hetzdorf b Strasburg;false
+1883;39746;Krackow;false
+1884;39747;Züsedom;false
+1885;39748;Viereck;false
+1886;39749;Grambow b Pasewalk;false
+1887;39751;Penkun;false
+1888;39752;Blumenhagen b Strasburg;false
+1889;39753;Strasburg;false
+1890;39754;Löcknitz Vorpom;false
+1891;3976;Torgelow b Ueckermünde;false
+1892;39771;Ueckermünde;false
+1893;39772;Rothemühl;false
+1894;39773;Altwarp;false
+1895;39774;Mönkebude;false
+1896;39775;Ahlbeck b Torgelow;false
+1897;39776;Hintersee;false
+1898;39777;Borkenfriede;false
+1899;39778;Ferdinandshof b Torgelow;false
+1900;39779;Eggesin;false
+1901;3981;Neustrelitz;false
+1902;39820;Triepkendorf;false
+1903;39821;Carpin;false
+1904;39822;Kratzeburg;false
+1905;39823;Rechlin;false
+1906;39824;Hohenzieritz;false
+1907;39825;Wokuhl;false
+1908;39826;Blankensee b Neustrelitz;false
+1909;39827;Schwarz b Neustrelitz;false
+1910;39828;Wustrow Kr Mecklenburg-Strelitz;false
+1911;39829;Blankenförde;false
+1912;39831;Feldberg Meckl;false
+1913;39832;Wesenberg Meckl;false
+1914;39833;Mirow Kr Neustrelitz;false
+1915;3984;Prenzlau;false
+1916;39851;Göritz b Prenzlau;false
+1917;39852;Schönermark b Prenzlau;false
+1918;39853;Holzendorf b Prenzlau;false
+1919;39854;Kleptow;false
+1920;39855;Parmen-Weggun;false
+1921;39856;Beenz b Prenzlau;false
+1922;39857;Drense;false
+1923;39858;Bietikow;false
+1924;39859;Fürstenwerder;false
+1925;39861;Gramzow b Prenzlau;false
+1926;39862;Schmölln b Prenzlau;false
+1927;39863;Seehausen b Prenzlau;false
+1928;3987;Templin;false
+1929;39881;Ringenwalde b Templin;false
+1930;39882;Gollin;false
+1931;39883;Groß Dölln;false
+1932;39884;Hassleben b Prenzlau;false
+1933;39885;Jakobshagen;false
+1934;39886;Milmersdorf;false
+1935;39887;Gerswalde;false
+1936;39888;Lychen;false
+1937;39889;Boitzenburg;false
+1938;3991;Waren Müritz;false
+1939;39921;Ankershagen;false
+1940;39922;Dambeck b Röbel;false
+1941;39923;Priborn;false
+1942;39924;Stuer;false
+1943;39925;Wredenhagen;false
+1944;39926;Grabowhöfe;false
+1945;39927;Nossentiner Hütte;false
+1946;39928;Möllenhagen;false
+1947;39929;Jabel b Waren;false
+1948;39931;Röbel Müritz;false
+1949;39932;Malchow b Waren;false
+1950;39933;Vollrathsruhe;false
+1951;39934;Groß Plasten;false
+1952;3994;Malchin;false
+1953;39951;Faulenrost;false
+1954;39952;Grammentin;false
+1955;39953;Schwinkendorf;false
+1956;39954;Stavenhagen Reuterstadt;false
+1957;39955;Jürgenstorf Meckl;false
+1958;39956;Neukalen;false
+1959;39957;Gielow;false
+1960;39959;Dargun;false
+1961;3996;Teterow;false
+1962;39971;Gnoien;false
+1963;39972;Walkendorf;false
+1964;39973;Altkalen;false
+1965;39975;Thürkow;false
+1966;39976;Groß Bützin;false
+1967;39977;Jördenstorf;false
+1968;39978;Gross Roge;false
+1969;3998;Demmin;false
+1970;39991;Daberkow;false
+1971;39992;Görmin;false
+1972;39993;Hohenmocker;false
+1973;39994;Metschow;false
+1974;39995;Nossendorf;false
+1975;39996;Törpin;false
+1976;39997;Jarmen;false
+1977;39998;Loitz b Demmin;false
+1978;39999;Tutow;false
+1979;40;Hamburg;false
+1980;4101;Pinneberg;false
+1981;4102;Ahrensburg;false
+1982;4103;Wedel;false
+1983;4104;Aumühle b Hamburg;false
+1984;4105;Seevetal;false
+1985;4106;Quickborn Kr Pinneberg;false
+1986;4107;Siek Kr Stormarn;false
+1987;4108;Rosengarten Kr Harburg;false
+1988;4109;Tangstedt Bz Hamburg;false
+1989;4120;Ellerhoop;false
+1990;4121;Elmshorn;false
+1991;4122;Uetersen;false
+1992;4123;Barmstedt;false
+1993;4124;Glückstadt;false
+1994;4125;Seestermühe;false
+1995;4126;Horst Holstein;false
+1996;4127;Westerhorn;false
+1997;4128;Kollmar;false
+1998;4129;Haseldorf;false
+1999;4131;Lüneburg;false
+2000;4132;Amelinghausen;false
+2001;4133;Wittorf Kr Lünebeburg;false
+2002;4134;Embsen Kr Lünebeburg;false
+2003;4135;Kirchgellersen;false
+2004;4136;Scharnebeck;false
+2005;4137;Barendorf;false
+2006;4138;Betzendorf Kr Lünebeburg;false
+2007;4139;Hohnstorf Elbe;false
+2008;4140;Estorf Kr Stade;false
+2009;4141;Stade;false
+2010;4142;Steinkirchen Kr Stade;false
+2011;4143;Drochtersen;false
+2012;4144;Himmelpforten;false
+2013;4146;Stade-Bützfleth;false
+2014;4148;Drochtersen-Assel;false
+2015;4149;Fredenbeck;false
+2016;4151;Schwarzenbek;false
+2017;4152;Geesthacht;false
+2018;4153;Lauenburg Elbe;false
+2019;4154;Trittau;false
+2020;4155;Büchen;false
+2021;4156;Talkau;false
+2022;4158;Roseburg;false
+2023;4159;Basthorst;false
+2024;4161;Buxtehude;false
+2025;4162;Jork;false
+2026;4163;Horneburg Niederelbe;false
+2027;4164;Harsefeld;false
+2028;4165;Hollenstedt Nordheide;false
+2029;4166;Ahlerstedt;false
+2030;4167;Apensen;false
+2031;4168;Neu Wulmstorf-Elstorf;false
+2032;4169;Sauensiek;false
+2033;4171;Winsen Luhe;false
+2034;4172;Salzhausen;false
+2035;4173;Wulfsen;false
+2036;4174;Stelle Kr Harburg;false
+2037;4175;Egestorf Nordheide;false
+2038;4176;Marschacht;false
+2039;4177;Drage Elbe;false
+2040;4178;Radbruch;false
+2041;4179;Winsen-Tönnhausen;false
+2042;4180;Königsmoor;false
+2043;4181;Buchholz in der Nordheide;false
+2044;4182;Tostedt;false
+2045;4183;Jesteburg;false
+2046;4184;Hanstedt Nordheide;false
+2047;4185;Marxen Auetal;false
+2048;4186;Buchholz-Trelde;false
+2049;4187;Holm-Seppensen;false
+2050;4188;Welle Nordheide;false
+2051;4189;Undeloh;false
+2052;4191;Kaltenkirchen Holst;false
+2053;4192;Bad Bramstedt;false
+2054;4193;Henstedt-Ulzburg;false
+2055;4194;Sievershütten;false
+2056;4195;Hartenholm;false
+2057;4202;Achim b Bremen;false
+2058;4203;Weyhe b Bremen;false
+2059;4204;Thedinghausen;false
+2060;4205;Ottersberg;false
+2061;4206;Stuhr-Heiligenrode;false
+2062;4207;Oyten;false
+2063;4208;Grasberg;false
+2064;4209;Schwanewede;false
+2065;421;Bremen;false
+2066;4221;Delmenhorst;false
+2067;4222;Ganderkesee;false
+2068;4223;Ganderkesee-Bookholzberg;false
+2069;4224;Gross Ippener;false
+2070;4230;Verden-Walle;false
+2071;4231;Verden Aller;false
+2072;4232;Langwedel Kr Verden;false
+2073;4233;Blender;false
+2074;4234;Dörverden;false
+2075;4235;Langwedel-Etelsen;false
+2076;4236;Kirchlinteln;false
+2077;4237;Bendingbostel;false
+2078;4238;Neddenaverbergen;false
+2079;4239;Dörverden-Westen;false
+2080;4240;Syke-Heiligenfelde;false
+2081;4241;Bassum;false
+2082;4242;Syke;false
+2083;4243;Twistringen;false
+2084;4244;Harpstedt;false
+2085;4245;Neuenkirchen b Bassum;false
+2086;4246;Twistringen-Heiligenloh;false
+2087;4247;Affinghausen;false
+2088;4248;Bassum-Neubruchhausen;false
+2089;4249;Bassum-Nordwohlde;false
+2090;4251;Hoya;false
+2091;4252;Bruchhausen-Vilsen;false
+2092;4253;Asendorf Kr Diepholz;false
+2093;4254;Eystrup;false
+2094;4255;Martfeld;false
+2095;4256;Hilgermissen;false
+2096;4257;Schweringen;false
+2097;4258;Schwarme;false
+2098;4260;Visselhövede-Wittorf;false
+2099;4261;Rotenburg Wümme;false
+2100;4262;Visselhövede;false
+2101;4263;Scheessel;false
+2102;4264;Sottrum Kr Rotenburg;false
+2103;4265;Fintel;false
+2104;4266;Brockel;false
+2105;4267;Lauenbrück;false
+2106;4268;Bötersen;false
+2107;4269;Ahausen-Kirchwalsede;false
+2108;4271;Sulingen;false
+2109;4272;Siedenburg;false
+2110;4273;Kirchdorf b Sulingen;false
+2111;4274;Varrel b Sulingen;false
+2112;4275;Ehrenburg;false
+2113;4276;Borstel b Sulingen;false
+2114;4277;Schwaförden;false
+2115;4281;Zeven;false
+2116;4282;Sittensen;false
+2117;4283;Tarmstedt;false
+2118;4284;Selsingen;false
+2119;4285;Rhade b Zeven;false
+2120;4286;Gyhum;false
+2121;4287;Heeslingen-Boitzen;false
+2122;4288;Horstedt Kr Rotenburg;false
+2123;4289;Kirchtimke;false
+2124;4292;Ritterhude;false
+2125;4293;Ottersberg-Fischerhude;false
+2126;4294;Riede Kr Verden;false
+2127;4295;Emtinghausen;false
+2128;4296;Schwanewede-Aschwarden;false
+2129;4297;Ottersberg-Posthausen;false
+2130;4298;Lilienthal;false
+2131;4302;Kirchbarkau;false
+2132;4303;Schlesen;false
+2133;4305;Westensee;false
+2134;4307;Raisdorf;false
+2135;4308;Schwedeneck;false
+2136;431;Kiel;false
+2137;4320;Heidmühlen;false
+2138;4321;Neumünster;false
+2139;4322;Bordesholm;false
+2140;4323;Bornhöved;false
+2141;4324;Brokstedt;false
+2142;4326;Wankendorf;false
+2143;4327;Grossenaspe;false
+2144;4328;Rickling;false
+2145;4329;Langwedel Holst;false
+2146;4330;Emkendorf;false
+2147;4331;Rendsburg;false
+2148;4332;Hamdorf b Rendsburg;false
+2149;4333;Erfde;false
+2150;4334;Bredenbek b Rendsburg;false
+2151;4335;Hohn b Rendsburg;false
+2152;4336;Owschlag;false
+2153;4337;Jevenstedt;false
+2154;4338;Alt Duvenstedt;false
+2155;4339;Christiansholm;false
+2156;4340;Achterwehr;false
+2157;4342;Preetz Kr Plön;false
+2158;4343;Laboe;false
+2159;4344;Schönberg Holstein;false
+2160;4346;Gettorf;false
+2161;4347;Flintbek;false
+2162;4348;Schönkirchen;false
+2163;4349;Dänischenhagen;false
+2164;4351;Eckernförde;false
+2165;4352;Damp;false
+2166;4353;Ascheffel;false
+2167;4354;Fleckeby;false
+2168;4355;Rieseby;false
+2169;4356;Gross Wittensee;false
+2170;4357;Sehestedt Eider;false
+2171;4358;Loose b Eckernförde;false
+2172;4361;Oldenburg in Holstein;false
+2173;4362;Heiligenhafen;false
+2174;4363;Lensahn;false
+2175;4364;Dahme Kr Ostholstein;false
+2176;4365;Heringsdorf Holst;false
+2177;4366;Grömitz-Cismar;false
+2178;4367;Grossenbrode;false
+2179;4371;Burg auf Fehmarn;false
+2180;4372;Westfehmarn;false
+2181;4381;Lütjenburg;false
+2182;4382;Wangels;false
+2183;4383;Grebin;false
+2184;4384;Selent;false
+2185;4385;Hohenfelde b Kiel;false
+2186;4392;Nortorf b Neumünster;false
+2187;4393;Boostedt;false
+2188;4394;Bokhorst;false
+2189;4401;Brake Unterweser;false
+2190;4402;Rastede;false
+2191;4403;Bad Zwischenahn;false
+2192;4404;Elsfleth;false
+2193;4405;Edewecht;false
+2194;4406;Berne;false
+2195;4407;Wardenburg;false
+2196;4408;Hude Oldenburg;false
+2197;4409;Westerstede-Ocholt;false
+2198;441;Oldenburg (Oldb);false
+2199;4421;Wilhelmshaven;false
+2200;4422;Sande Kr Friesl;false
+2201;4423;Fedderwarden;false
+2202;4425;Wangerland-Hooksiel;false
+2203;4426;Wangerland-Horumersiel;false
+2204;4431;Wildeshausen;false
+2205;4432;Dötlingen-Brettorf;false
+2206;4433;Dötlingen;false
+2207;4434;Colnrade;false
+2208;4435;Grossenkneten;false
+2209;4441;Vechta;false
+2210;4442;Lohne Oldenburg;false
+2211;4443;Dinklage;false
+2212;4444;Goldenstedt;false
+2213;4445;Visbek Kr Vechta;false
+2214;4446;Bakum Kr Vechta;false
+2215;4447;Vechta-Langförden;false
+2216;4451;Varel Jadebusen;false
+2217;4452;Zetel-Neuenburg;false
+2218;4453;Zetel;false
+2219;4454;Jade;false
+2220;4455;Jade-Schweiburg;false
+2221;4456;Varel-Altjührden;false
+2222;4458;Wiefelstede-Spohle;false
+2223;4461;Jever;false
+2224;4462;Wittmund;false
+2225;4463;Wangerland;false
+2226;4464;Wittmund-Carolinensiel;false
+2227;4465;Friedeburg Ostfriesl;false
+2228;4466;Wittmund-Ardorf;false
+2229;4467;Wittmund-Funnix;false
+2230;4468;Friedeburg-Reepsholt;false
+2231;4469;Wangerooge;false
+2232;4471;Cloppenburg;false
+2233;4472;Lastrup;false
+2234;4473;Emstek;false
+2235;4474;Garrel;false
+2236;4475;Molbergen;false
+2237;4477;Lastrup-Hemmelte;false
+2238;4478;Cappeln Oldenburg;false
+2239;4479;Molbergen-Peheim;false
+2240;4480;Ovelgönne-Strückhausen;false
+2241;4481;Hatten-Sandkrug;false
+2242;4482;Hatten;false
+2243;4483;Ovelgönne-Großenmeer;false
+2244;4484;Hude-Wüsting;false
+2245;4485;Elsfleth-Huntorf;false
+2246;4486;Edewecht-Friedrichsfehn;false
+2247;4487;Grossenkneten-Huntlosen;false
+2248;4488;Westerstede;false
+2249;4489;Apen;false
+2250;4491;Friesoythe;false
+2251;4492;Saterland;false
+2252;4493;Friesoythe-Gehlenberg;false
+2253;4494;Bösel Oldenburg;false
+2254;4495;Friesoythe-Thüle;false
+2255;4496;Friesoythe-Markhausen;false
+2256;4497;Barßel-Harkebrügge;false
+2257;4498;Saterland-Ramsloh;false
+2258;4499;Barssel;false
+2259;4501;Kastorf Holst;false
+2260;4502;Lübeck-Travemünde;false
+2261;4503;Timmendorfer Strand;false
+2262;4504;Ratekau;false
+2263;4505;Stockelsdorf-Curau;false
+2264;4506;Stockelsdorf-Krumbeck;false
+2265;4508;Krummesse;false
+2266;4509;Groß Grönau;false
+2267;451;Lübeck;false
+2268;4521;Eutin;false
+2269;4522;Plön;false
+2270;4523;Malente;false
+2271;4524;Scharbeutz-Pönitz;false
+2272;4525;Ahrensbök;false
+2273;4526;Ascheberg Holstein;false
+2274;4527;Bosau;false
+2275;4528;Schönwalde am Bungsberg;false
+2276;4529;Süsel-Bujendorf;false
+2277;4531;Bad Oldesloe;false
+2278;4532;Bargteheide;false
+2279;4533;Reinfeld Holstein;false
+2280;4534;Steinburg Kr Storman;false
+2281;4535;Nahe;false
+2282;4536;Steinhorst Lauenb;false
+2283;4537;Sülfeld Holst;false
+2284;4539;Westerau;false
+2285;4541;Ratzeburg;false
+2286;4542;Mölln Lauenb;false
+2287;4543;Nusse;false
+2288;4544;Berkenthin;false
+2289;4545;Seedorf Lauenb;false
+2290;4546;Mustin Lauenburg;false
+2291;4547;Gudow Lauenb;false
+2292;4550;Bühnsdorf;false
+2293;4551;Bad Segeberg;false
+2294;4552;Leezen;false
+2295;4553;Geschendorf;false
+2296;4554;Wahlstedt;false
+2297;4555;Seedorf b Bad Segeberg;false
+2298;4556;Ahrensbök-Gnissau;false
+2299;4557;Blunk;false
+2300;4558;Todesfelde;false
+2301;4559;Wensin;false
+2302;4561;Neustadt in Holstein;false
+2303;4562;Grömitz;false
+2304;4563;Scharbeutz-Haffkrug;false
+2305;4564;Schashagen;false
+2306;4602;Freienwill;false
+2307;4603;Havetoft;false
+2308;4604;Grossenwiehe;false
+2309;4605;Medelby;false
+2310;4606;Wanderup;false
+2311;4607;Janneby;false
+2312;4608;Handewitt;false
+2313;4609;Eggebek;false
+2314;461;Flensburg;false
+2315;4621;Schleswig;false
+2316;4622;Taarstedt;false
+2317;4623;Böklund;false
+2318;4624;Kropp;false
+2319;4625;Jübek;false
+2320;4626;Treia;false
+2321;4627;Dörpstedt;false
+2322;4630;Barderup;false
+2323;4631;Glücksburg Ostsee;false
+2324;4632;Steinbergkirche;false
+2325;4633;Satrup;false
+2326;4634;Husby;false
+2327;4635;Sörup;false
+2328;4636;Langballig;false
+2329;4637;Sterup;false
+2330;4638;Tarp;false
+2331;4639;Schafflund;false
+2332;4641;Süderbrarup;false
+2333;4642;Kappeln Schlei;false
+2334;4643;Gelting Angeln;false
+2335;4644;Karby;false
+2336;4646;Mohrkirch;false
+2337;4651;Sylt;false
+2338;4661;Niebüll;false
+2339;4662;Leck;false
+2340;4663;Süderlügum;false
+2341;4664;Neukirchen b Niebüll;false
+2342;4665;Emmelsbüll-Horsbüll;false
+2343;4666;Ladelund;false
+2344;4667;Dagebüll;false
+2345;4668;Klanxbüll;false
+2346;4671;Bredstedt;false
+2347;4672;Langenhorn;false
+2348;4673;Joldelund;false
+2349;4674;Ockholm;false
+2350;4681;Wyk auf Föhr;false
+2351;4682;Amrum;false
+2352;4683;Oldsum;false
+2353;4684;Langeneß Hallig;false
+2354;4702;Sandstedt;false
+2355;4703;Loxstedt-Donnern;false
+2356;4704;Drangstedt;false
+2357;4705;Wremen;false
+2358;4706;Schiffdorf;false
+2359;4707;Langen-Neuenwalde;false
+2360;4708;Ringstedt;false
+2361;471;Bremerhaven;false
+2362;4721;Cuxhaven;false
+2363;4722;Cuxhaven-Altenbruch;false
+2364;4723;Cuxhaven-Altenwalde;false
+2365;4724;Cuxhaven-Lüdingworth;false
+2366;4725;Helgoland;false
+2367;4731;Nordenham;false
+2368;4732;Stadland-Rodenkirchen;false
+2369;4733;Butjadingen-Burhave;false
+2370;4734;Stadland-Seefeld;false
+2371;4735;Butjadingen-Stollhamm;false
+2372;4736;Butjadingen-Tossens;false
+2373;4737;Stadland-Schwei;false
+2374;4740;Loxstedt-Dedesdorf;false
+2375;4741;Nordholz b Bremerhaven;false
+2376;4742;Dorum;false
+2377;4743;Langen b Bremerhaven;false
+2378;4744;Loxstedt;false
+2379;4745;Bad Bederkesa;false
+2380;4746;Hagen b Bremerhaven;false
+2381;4747;Beverstedt;false
+2382;4748;Stubben b Bremerhaven;false
+2383;4749;Schiffdorf-Geestenseth;false
+2384;4751;Otterndorf;false
+2385;4752;Neuhaus Oste;false
+2386;4753;Balje;false
+2387;4754;Bülkau;false
+2388;4755;Ihlienworth;false
+2389;4756;Odisheim;false
+2390;4757;Wanna;false
+2391;4758;Nordleda;false
+2392;4761;Bremervörde;false
+2393;4762;Kutenholz;false
+2394;4763;Gnarrenburg;false
+2395;4764;Gnarrenburg-Klenkendorf;false
+2396;4765;Ebersdorf b Bremervörde;false
+2397;4766;Basdahl;false
+2398;4767;Bremervörde-Bevern;false
+2399;4768;Hipstedt;false
+2400;4769;Bremervörde-Iselersheim;false
+2401;4770;Wischhafen;false
+2402;4771;Hemmoor;false
+2403;4772;Oberndorf Oste;false
+2404;4773;Lamstedt;false
+2405;4774;Hechthausen;false
+2406;4775;Grossenwörden;false
+2407;4776;Osten-Altendorf;false
+2408;4777;Cadenberge;false
+2409;4778;Wingst;false
+2410;4779;Freiburg Elbe;false
+2411;4791;Osterholz-Scharmbeck;false
+2412;4792;Worpswede;false
+2413;4793;Hambergen;false
+2414;4794;Worpswede-Ostersode;false
+2415;4795;Garlstedt;false
+2416;4796;Teufelsmoor;false
+2417;4802;Wrohm;false
+2418;4803;Pahlen;false
+2419;4804;Nordhastedt;false
+2420;4805;Schafstedt;false
+2421;4806;Sarzbüttel;false
+2422;481;Heide Holst;false
+2423;4821;Itzehoe;false
+2424;4822;Kellinghusen;false
+2425;4823;Wilster;false
+2426;4824;Krempe;false
+2427;4825;Burg Dithmarschen;false
+2428;4826;Hohenlockstedt;false
+2429;4827;Wacken;false
+2430;4828;Lägerdorf;false
+2431;4829;Wewelsfleth;false
+2432;4830;Süderhastedt;false
+2433;4832;Meldorf;false
+2434;4833;Wesselburen;false
+2435;4834;Büsum;false
+2436;4835;Albersdorf Holst;false
+2437;4836;Hennstedt Dithm;false
+2438;4837;Neuenkirchen Dithm;false
+2439;4838;Tellingstedt;false
+2440;4839;Wöhrden Dithm;false
+2441;4841;Husum Nordsee;false
+2442;4842;Nordstrand;false
+2443;4843;Viöl;false
+2444;4844;Pellworm;false
+2445;4845;Ostenfeld Husum;false
+2446;4846;Hattstedt;false
+2447;4847;Oster-Ohrstedt;false
+2448;4848;Rantrum;false
+2449;4849;Hooge;false
+2450;4851;Marne;false
+2451;4852;Brunsbüttel;false
+2452;4853;Sankt Michaelisdonn;false
+2453;4854;Friedrichskoog;false
+2454;4855;Eddelak;false
+2455;4856;Kronprinzenkoog;false
+2456;4857;Barlt;false
+2457;4858;Sankt Margarethen Holst;false
+2458;4859;Windbergen;false
+2459;4861;Tönning;false
+2460;4862;Garding;false
+2461;4863;Sankt Peter-Ording;false
+2462;4864;Oldenswort;false
+2463;4865;Osterhever;false
+2464;4871;Hohenwestedt;false
+2465;4872;Hanerau-Hademarschen;false
+2466;4873;Aukrug;false
+2467;4874;Todenbüttel;false
+2468;4875;Stafstedt;false
+2469;4876;Reher Holst;false
+2470;4877;Hennstedt b Itzehoe;false
+2471;4881;Friedrichstadt;false
+2472;4882;Lunden;false
+2473;4883;Süderstapel;false
+2474;4884;Schwabstedt;false
+2475;4885;Bergenhusen;false
+2476;4892;Schenefeld Mittelholst;false
+2477;4893;Hohenaspe;false
+2478;4902;Jemgum-Ditzum;false
+2479;4903;Wymeer;false
+2480;491;Leer Ostfriesland;false
+2481;4920;Wirdum;false
+2482;4921;Emden Stadt;false
+2483;4922;Borkum;false
+2484;4923;Krummhörn-Pewsum;false
+2485;4924;Moormerland-Oldersum;false
+2486;4925;Hinte;false
+2487;4926;Krummhörn-Greetsiel;false
+2488;4927;Krummhörn-Loquard;false
+2489;4928;Ihlow-Riepe;false
+2490;4929;Ihlow Kr Aurich;false
+2491;4931;Norden;false
+2492;4932;Norderney;false
+2493;4933;Dornum Ostfriesl;false
+2494;4934;Marienhafe;false
+2495;4935;Juist;false
+2496;4936;Grossheide;false
+2497;4938;Hagermarsch;false
+2498;4939;Baltrum;false
+2499;4941;Aurich;false
+2500;4942;Südbrookmerland;false
+2501;4943;Grossefehn;false
+2502;4944;Wiesmoor;false
+2503;4945;Grossefehn-Timmel;false
+2504;4946;Grossefehn-Bagband;false
+2505;4947;Aurich-Ogenbargen;false
+2506;4948;Wiesmoor-Marcardsmoor;false
+2507;4950;Holtland;false
+2508;4951;Weener;false
+2509;4952;Rhauderfehn;false
+2510;4953;Bunde;false
+2511;4954;Moormerland;false
+2512;4955;Westoverledingen;false
+2513;4956;Uplengen;false
+2514;4957;Detern;false
+2515;4958;Jemgum;false
+2516;4959;Dollart;false
+2517;4961;Papenburg;false
+2518;4962;Papenburg-Aschendorf;false
+2519;4963;Dörpen;false
+2520;4964;Rhede Ems;false
+2521;4965;Surwold;false
+2522;4966;Neubörger;false
+2523;4967;Rhauderfehn-Burlage;false
+2524;4968;Neulehe;false
+2525;4971;Esens;false
+2526;4972;Langeoog;false
+2527;4973;Wittmund-Burhafe;false
+2528;4974;Neuharlingersiel;false
+2529;4975;Westerholt Ostfriesl;false
+2530;4976;Spiekeroog;false
+2531;4977;Blomberg Ostfriesl;false
+2532;5021;Nienburg Weser;false
+2533;5022;Wietzen;false
+2534;5023;Liebenau Kr Nieburg Weser;false
+2535;5024;Rohrsen Kr Nienburg Weser;false
+2536;5025;Estorf Weser;false
+2537;5026;Steimbke;false
+2538;5027;Linsburg;false
+2539;5028;Pennigsehl;false
+2540;5031;Wunstorf;false
+2541;5032;Neustadt am Rübenberge;false
+2542;5033;Wunstorf-Grossenheidorn;false
+2543;5034;Neustadt-Hagen;false
+2544;5035;Gross Munzel;false
+2545;5036;Neustadt-Schneeren;false
+2546;5037;Bad Rehburg;false
+2547;5041;Springe Deister;false
+2548;5042;Bad Münder am Deister;false
+2549;5043;Lauenau;false
+2550;5044;Springe-Eldagsen;false
+2551;5045;Springe-Bennigsen;false
+2552;5051;Bergen Kr Celle;false
+2553;5052;Hermannsburg;false
+2554;5053;Faßberg-Müden;false
+2555;5054;Bergen-Sülze;false
+2556;5055;Fassberg;false
+2557;5056;Winsen-Meissendorf;false
+2558;5060;Bodenburg;false
+2559;5062;Holle b Hildesheim;false
+2560;5063;Bad Salzdetfurth;false
+2561;5064;Groß Düngen;false
+2562;5065;Sibbesse;false
+2563;5066;Sarstedt;false
+2564;5067;Bockenem;false
+2565;5068;Elze Leine;false
+2566;5069;Nordstemmen;false
+2567;5071;Schwarmstedt;false
+2568;5072;Neustadt-Mandelsloh;false
+2569;5073;Neustadt-Esperke;false
+2570;5074;Rodewald;false
+2571;5082;Langlingen;false
+2572;5083;Hohne b Celle;false
+2573;5084;Hambühren;false
+2574;5085;Burgdorf-Ehlershausen;false
+2575;5086;Celle-Scheuen;false
+2576;5101;Pattensen;false
+2577;5102;Laatzen;false
+2578;5103;Wennigsen Deister;false
+2579;5105;Barsinghausen;false
+2580;5108;Gehrden Han;false
+2581;5109;Ronnenberg;false
+2582;511;Hannover;false
+2583;5121;Hildesheim;false
+2584;5123;Schellerten;false
+2585;5126;Algermissen;false
+2586;5127;Harsum;false
+2587;5128;Hohenhameln;false
+2588;5129;Söhlde;false
+2589;5130;Wedemark;false
+2590;5131;Garbsen;false
+2591;5132;Lehrte;false
+2592;5135;Burgwedel-Fuhrberg;false
+2593;5136;Burgdorf Kr Hannover;false
+2594;5137;Seelze;false
+2595;5138;Sehnde;false
+2596;5139;Burgwedel;false
+2597;5141;Celle;false
+2598;5142;Eschede;false
+2599;5143;Winsen Aller;false
+2600;5144;Wathlingen;false
+2601;5145;Beedenbostel;false
+2602;5146;Wietze;false
+2603;5147;Uetze-Hänigsen;false
+2604;5148;Steinhorst Niedersachs;false
+2605;5149;Wienhausen;false
+2606;5151;Hameln;false
+2607;5152;Hessisch Oldendorf;false
+2608;5153;Salzhemmendorf;false
+2609;5154;Aerzen;false
+2610;5155;Emmerthal;false
+2611;5156;Coppenbrügge;false
+2612;5157;Emmerthal-Börry;false
+2613;5158;Hemeringen;false
+2614;5159;Coppenbrügge-Bisperode;false
+2615;5161;Walsrode;false
+2616;5162;Fallingbostel;false
+2617;5163;Fallingbostel-Dorfmark;false
+2618;5164;Hodenhagen;false
+2619;5165;Rethem Aller;false
+2620;5166;Walsrode-Kirchboitzen;false
+2621;5167;Walsrode-Westenholz;false
+2622;5168;Walsrode-Stellichte;false
+2623;5171;Peine;false
+2624;5172;Ilsede;false
+2625;5173;Uetze;false
+2626;5174;Lahstedt;false
+2627;5175;Lehrte-Arpke;false
+2628;5176;Edemissen;false
+2629;5177;Edemissen-Abbensen;false
+2630;5181;Alfeld Leine;false
+2631;5182;Gronau Leine;false
+2632;5183;Lamspringe;false
+2633;5184;Freden Leine;false
+2634;5185;Duingen;false
+2635;5186;Salzhemmendorf-Wallensen;false
+2636;5187;Delligsen;false
+2637;5190;Soltau-Emmingen;false
+2638;5191;Soltau;false
+2639;5192;Munster;false
+2640;5193;Schneverdingen;false
+2641;5194;Bispingen;false
+2642;5195;Neuenkirchen b Soltau;false
+2643;5196;Wietzendorf;false
+2644;5197;Soltau-Frielingen;false
+2645;5198;Schneverdingen-Wintermoor;false
+2646;5199;Schneverdingen-Heber;false
+2647;5201;Halle Westf;false
+2648;5202;Oerlinghausen;false
+2649;5203;Werther Westf;false
+2650;5204;Steinhagen Westf;false
+2651;5205;Bielefeld-Sennestadt;false
+2652;5206;Bielefeld-Jöllenbeck;false
+2653;5207;Schloss Holte-Stukenbrock;false
+2654;5208;Leopoldshöhe;false
+2655;5209;Gütersloh-Friedrichsdorf;false
+2656;521;Bielefeld;false
+2657;5221;Herford;false
+2658;5222;Bad Salzuflen;false
+2659;5223;Bünde;false
+2660;5224;Enger Westf;false
+2661;5225;Spenge;false
+2662;5226;Bruchmühlen Westf;false
+2663;5228;Vlotho-Exter;false
+2664;5231;Detmold;false
+2665;5232;Lage Lippe;false
+2666;5233;Steinheim Westf;false
+2667;5234;Horn-Bad Meinberg;false
+2668;5235;Blomberg Lippe;false
+2669;5236;Blomberg-Grossenmarpe;false
+2670;5237;Augustdorf;false
+2671;5238;Nieheim-Himmighausen;false
+2672;5241;Gütersloh;false
+2673;5242;Rheda-Wiedenbrück;false
+2674;5244;Rietberg;false
+2675;5245;Herzebrock-Clarholz;false
+2676;5246;Verl;false
+2677;5247;Harsewinkel;false
+2678;5248;Langenberg Kr Gütersloh;false
+2679;5250;Delbrück Westf;false
+2680;5251;Paderborn;false
+2681;5252;Bad Lippspringe;false
+2682;5253;Bad Driburg;false
+2683;5254;Paderborn-Schloss Neuhaus;false
+2684;5255;Altenbeken;false
+2685;5257;Hövelhof;false
+2686;5258;Salzkotten;false
+2687;5259;Bad Driburg-Neuenheerse;false
+2688;5261;Lemgo;false
+2689;5262;Extertal;false
+2690;5263;Barntrup;false
+2691;5264;Kalletal;false
+2692;5265;Dörentrup;false
+2693;5266;Lemgo-Kirchheide;false
+2694;5271;Höxter;false
+2695;5272;Brakel Westf;false
+2696;5273;Beverungen;false
+2697;5274;Nieheim;false
+2698;5275;Höxter-Ottbergen;false
+2699;5276;Marienmünster;false
+2700;5277;Höxter-Fürstenau;false
+2701;5278;Höxter-Ovenhausen;false
+2702;5281;Bad Pyrmont;false
+2703;5282;Schieder-Schwalenberg;false
+2704;5283;Lügde-Rischenau;false
+2705;5284;Schwalenberg;false
+2706;5285;Bad Pyrmont-Kleinenberg;false
+2707;5286;Ottenstein Niedersachs;false
+2708;5292;Lichtenau-Atteln;false
+2709;5293;Paderborn-Dahl;false
+2710;5294;Hövelhof-Espeln;false
+2711;5295;Lichtenau Westf;false
+2712;5300;Salzgitter-Üfingen;false
+2713;5301;Lehre-Essenrode;false
+2714;5302;Vechelde;false
+2715;5303;Wendeburg;false
+2716;5304;Meine;false
+2717;5305;Sickte;false
+2718;5306;Cremlingen;false
+2719;5307;Braunschweig-Wenden;false
+2720;5308;Lehre;false
+2721;5309;Lehre-Wendhausen;false
+2722;531;Braunschweig;false
+2723;5320;Torfhaus;false
+2724;5321;Goslar;false
+2725;5322;Bad Harzburg;false
+2726;5323;Clausthal-Zellerfeld;false
+2727;5324;Vienenburg;false
+2728;5325;Goslar-Hahnenklee;false
+2729;5326;Langelsheim;false
+2730;5327;Bad Grund Harz;false
+2731;5328;Altenau Harz;false
+2732;5329;Schulenberg im Oberharz;false
+2733;5331;Wolfenbüttel;false
+2734;5332;Schöppenstedt;false
+2735;5333;Dettum;false
+2736;5334;Hornburg Kr Wolfenbüttel;false
+2737;5335;Schladen;false
+2738;5336;Semmenstedt;false
+2739;5337;Kissenbrück;false
+2740;5339;Gielde;false
+2741;5341;Salzgitter;false
+2742;5344;Lengede;false
+2743;5345;Baddeckenstedt;false
+2744;5346;Liebenburg;false
+2745;5347;Burgdorf b Salzgitter;false
+2746;5351;Helmstedt;false
+2747;5352;Schöningen;false
+2748;5353;Königslutter am Elm;false
+2749;5354;Jerxheim;false
+2750;5355;Frellstedt;false
+2751;5356;Helmstedt-Barmke;false
+2752;5357;Grasleben;false
+2753;5358;Bahrdorf-Mackendorf;false
+2754;5361;Wolfsburg;false
+2755;5362;Wolfsburg-Fallersleben;false
+2756;5363;Wolfsburg-Vorsfelde;false
+2757;5364;Velpke;false
+2758;5365;Wolfsburg-Neindorf;false
+2759;5366;Jembke;false
+2760;5367;Rühen;false
+2761;5368;Parsau;false
+2762;5371;Gifhorn;false
+2763;5372;Meinersen;false
+2764;5373;Hillerse Kr Gifhorn;false
+2765;5374;Isenbüttel;false
+2766;5375;Müden Aller;false
+2767;5376;Wesendorf Kr Gifhorn;false
+2768;5377;Ehra-Lessien;false
+2769;5378;Sassenburg-Platendorf;false
+2770;5379;Sassenburg-Grussendorf;false
+2771;5381;Seesen;false
+2772;5382;Bad Gandersheim;false
+2773;5383;Lutter am Barenberge;false
+2774;5384;Seesen-Groß Rhüden;false
+2775;5401;Georgsmarienhütte;false
+2776;5402;Bissendorf Kr Osnabrück;false
+2777;5403;Bad Iburg;false
+2778;5404;Westerkappeln;false
+2779;5405;Hasbergen Kr Osnabrück;false
+2780;5406;Belm;false
+2781;5407;Wallenhorst;false
+2782;5409;Hilter am Teutoburger Wald;false
+2783;541;Osnabrück;false
+2784;5421;Dissen am Teutoburger Wald;false
+2785;5422;Melle;false
+2786;5423;Versmold;false
+2787;5424;Bad Rothenfelde;false
+2788;5425;Borgholzhausen;false
+2789;5426;Glandorf;false
+2790;5427;Melle-Buer;false
+2791;5428;Melle-Neuenkirchen;false
+2792;5429;Melle-Wellingholzhausen;false
+2793;5431;Quakenbrück;false
+2794;5432;Löningen;false
+2795;5433;Badbergen;false
+2796;5434;Essen Oldenburg;false
+2797;5435;Berge b Quakenbrück;false
+2798;5436;Nortrup;false
+2799;5437;Menslage;false
+2800;5438;Bakum-Lüsche;false
+2801;5439;Bersenbrück;false
+2802;5441;Diepholz;false
+2803;5442;Barnstorf Kr Diepholz;false
+2804;5443;Lemförde;false
+2805;5444;Wagenfeld;false
+2806;5445;Drebber;false
+2807;5446;Rehden;false
+2808;5447;Lembruch;false
+2809;5448;Barver;false
+2810;5451;Ibbenbüren;false
+2811;5452;Mettingen Westf;false
+2812;5453;Recke;false
+2813;5454;Hörstel-Riesenbeck;false
+2814;5455;Tecklenburg-Brochterbeck;false
+2815;5456;Westerkappeln-Velpe;false
+2816;5457;Hopsten-Schale;false
+2817;5458;Hopsten;false
+2818;5459;Hörstel;false
+2819;5461;Bramsche Hase;false
+2820;5462;Ankum;false
+2821;5464;Alfhausen;false
+2822;5465;Neuenkirchen b Bramsche;false
+2823;5466;Merzen;false
+2824;5467;Voltlage;false
+2825;5468;Bramsche-Engter;false
+2826;5471;Bohmte;false
+2827;5472;Bad Essen;false
+2828;5473;Ostercappeln;false
+2829;5474;Stemwede-Dielingen;false
+2830;5475;Bohmte-Hunteburg;false
+2831;5476;Ostercappeln-Venne;false
+2832;5481;Lengerich Westf;false
+2833;5482;Tecklenburg;false
+2834;5483;Lienen;false
+2835;5484;Lienen-Kattenvenne;false
+2836;5485;Ladbergen;false
+2837;5491;Damme Dümmer;false
+2838;5492;Steinfeld Oldenburg;false
+2839;5493;Neuenkirchen Kr Vechta;false
+2840;5494;Holdorf Niedersachs;false
+2841;5495;Vörden Kr Vechta;false
+2842;5502;Dransfeld;false
+2843;5503;Nörten-Hardenberg;false
+2844;5504;Friedland Kr Göttingen;false
+2845;5505;Hardegsen;false
+2846;5506;Adelebsen;false
+2847;5507;Ebergötzen;false
+2848;5508;Gleichen-Rittmarshausen;false
+2849;5509;Rosdorf Kr Göttingen;false
+2850;551;Göttingen;false
+2851;5520;Braunlage;false
+2852;5521;Herzberg am Harz;false
+2853;5522;Osterode am Harz;false
+2854;5523;Bad Sachsa;false
+2855;5524;Bad Lauterberg im Harz;false
+2856;5525;Walkenried;false
+2857;5527;Duderstadt;false
+2858;5528;Gieboldehausen;false
+2859;5529;Rhumspringe;false
+2860;5531;Holzminden;false
+2861;5532;Stadtoldendorf;false
+2862;5533;Bodenwerder;false
+2863;5534;Eschershausen a d Lenne;false
+2864;5535;Polle;false
+2865;5536;Holzminden-Neuhaus;false
+2866;5541;Hann. Münden;false
+2867;5542;Witzenhausen;false
+2868;5543;Staufenberg Niedersachs;false
+2869;5544;Reinhardshagen;false
+2870;5545;Hedemünden;false
+2871;5546;Scheden;false
+2872;5551;Northeim;false
+2873;5552;Katlenburg;false
+2874;5553;Kalefeld;false
+2875;5554;Moringen;false
+2876;5555;Moringen-Fredelsloh;false
+2877;5556;Lindau Harz;false
+2878;5561;Einbeck;false
+2879;5562;Dassel-Markoldendorf;false
+2880;5563;Kreiensen;false
+2881;5564;Dassel;false
+2882;5565;Einbeck-Wenzen;false
+2883;5571;Uslar;false
+2884;5572;Bodenfelde;false
+2885;5573;Uslar-Volpriehausen;false
+2886;5574;Oberweser;false
+2887;5582;Sankt Andreasberg;false
+2888;5583;Braunlage-Hohegeiss;false
+2889;5584;Hattorf am Harz;false
+2890;5585;Herzberg-Sieber;false
+2891;5586;Wieda;false
+2892;5592;Gleichen-Bremke;false
+2893;5593;Bovenden-Lenglern;false
+2894;5594;Bovenden-Reyershausen;false
+2895;5601;Schauenburg;false
+2896;5602;Hessisch Lichtenau;false
+2897;5603;Gudensberg;false
+2898;5604;Grossalmerode;false
+2899;5605;Kaufungen Hess;false
+2900;5606;Zierenberg;false
+2901;5607;Fuldatal;false
+2902;5608;Söhrewald;false
+2903;5609;Ahnatal;false
+2904;561;Kassel;false
+2905;5621;Bad Wildungen;false
+2906;5622;Fritzlar;false
+2907;5623;Edertal;false
+2908;5624;Bad Emstal;false
+2909;5625;Naumburg Hess;false
+2910;5626;Bad Zwesten;false
+2911;5631;Korbach;false
+2912;5632;Willingen Upland;false
+2913;5633;Diemelsee;false
+2914;5634;Waldeck-Sachsenhausen;false
+2915;5635;Vöhl;false
+2916;5636;Lichtenfels-Goddelsheim;false
+2917;5641;Warburg;false
+2918;5642;Warburg-Scherfede;false
+2919;5643;Borgentreich;false
+2920;5644;Willebadessen-Peckelsheim;false
+2921;5645;Borgentreich-Borgholz;false
+2922;5646;Willebadessen;false
+2923;5647;Lichtenau-Kleinenberg;false
+2924;5648;Brakel-Gehrden;false
+2925;5650;Cornberg;false
+2926;5651;Eschwege;false
+2927;5652;Bad Sooden-Allendorf;false
+2928;5653;Sontra;false
+2929;5654;Herleshausen;false
+2930;5655;Wanfried;false
+2931;5656;Waldkappel;false
+2932;5657;Meissner;false
+2933;5658;Wehretal;false
+2934;5659;Ringgau;false
+2935;5661;Melsungen;false
+2936;5662;Felsberg Hess;false
+2937;5663;Spangenberg;false
+2938;5664;Morschen;false
+2939;5665;Guxhagen;false
+2940;5671;Hofgeismar;false
+2941;5672;Bad Karlshafen;false
+2942;5673;Immenhausen Hess;false
+2943;5674;Grebenstein;false
+2944;5675;Trendelburg;false
+2945;5676;Liebenau Hess;false
+2946;5677;Calden-Westuffeln;false
+2947;5681;Homberg Efze;false
+2948;5682;Borken Hessen;false
+2949;5683;Wabern Hess;false
+2950;5684;Frielendorf;false
+2951;5685;Knüllwald;false
+2952;5686;Schwarzenborn Knüll;false
+2953;5691;Bad Arolsen;false
+2954;5692;Wolfhagen;false
+2955;5693;Volkmarsen;false
+2956;5694;Diemelstadt;false
+2957;5695;Twistetal;false
+2958;5696;Bad Arolsen-Landau;false
+2959;5702;Petershagen-Lahde;false
+2960;5703;Hille;false
+2961;5704;Petershagen-Friedewalde;false
+2962;5705;Petershagen-Windheim;false
+2963;5706;Porta Westfalica;false
+2964;5707;Petershagen Weser;false
+2965;571;Minden Westf;false
+2966;5721;Stadthagen;false
+2967;5722;Bückeburg;false
+2968;5723;Bad Nenndorf;false
+2969;5724;Obernkirchen;false
+2970;5725;Lindhorst b Stadthagen;false
+2971;5726;Wiedensahl;false
+2972;5731;Bad Oeynhausen;false
+2973;5732;Löhne;false
+2974;5733;Vlotho;false
+2975;5734;Bergkirchen Westf;false
+2976;5741;Lübbecke;false
+2977;5742;Preussisch Oldendorf;false
+2978;5743;Espelkamp-Gestringen;false
+2979;5744;Hüllhorst;false
+2980;5745;Stemwede-Levern;false
+2981;5746;Rödinghausen;false
+2982;5751;Rinteln;false
+2983;5752;Auetal-Hattendorf;false
+2984;5753;Auetal-Bernsen;false
+2985;5754;Extertal-Bremke;false
+2986;5755;Kalletal-Varenholz;false
+2987;5761;Stolzenau;false
+2988;5763;Uchte;false
+2989;5764;Steyerberg;false
+2990;5765;Raddestorf;false
+2991;5766;Rehburg-Loccum;false
+2992;5767;Warmsen;false
+2993;5768;Petershagen-Heimsen;false
+2994;5769;Steyerberg-Voigtei;false
+2995;5771;Rahden Westf;false
+2996;5772;Espelkamp;false
+2997;5773;Stemwede-Wehdem;false
+2998;5774;Wagenfeld-Ströhen;false
+2999;5775;Diepenau;false
+3000;5776;Preussisch Ströhen;false
+3001;5777;Diepenau-Essern;false
+3002;5802;Wrestedt;false
+3003;5803;Rosche;false
+3004;5804;Rätzlingen Kr Uelzen;false
+3005;5805;Oetzen;false
+3006;5806;Barum b Bad Bevensen;false
+3007;5807;Altenmedingen;false
+3008;5808;Gerdau;false
+3009;581;Uelzen;false
+3010;5820;Suhlendorf;false
+3011;5821;Bad Bevensen;false
+3012;5822;Ebstorf;false
+3013;5823;Bienenbüttel;false
+3014;5824;Bad Bodenteich;false
+3015;5825;Wieren;false
+3016;5826;Suderburg;false
+3017;5827;Unterlüß;false
+3018;5828;Himbergen;false
+3019;5829;Wriedel;false
+3020;5831;Wittingen;false
+3021;5832;Hankensbüttel;false
+3022;5833;Brome;false
+3023;5834;Wittingen-Knesebeck;false
+3024;5835;Wahrenholz;false
+3025;5836;Wittingen-Radenbeck;false
+3026;5837;Sprakensehl;false
+3027;5838;Gross Oesingen;false
+3028;5839;Wittingen-Ohrdorf;false
+3029;5840;Schnackenburg;false
+3030;5841;Lüchow Wendland;false
+3031;5842;Schnega;false
+3032;5843;Wustrow Wendland;false
+3033;5844;Clenze;false
+3034;5845;Bergen Dumme;false
+3035;5846;Gartow Niedersachs;false
+3036;5848;Trebel;false
+3037;5849;Waddeweitz;false
+3038;5850;Neetze;false
+3039;5851;Dahlenburg;false
+3040;5852;Bleckede;false
+3041;5853;Neu Darchau;false
+3042;5854;Bleckede-Barskamp;false
+3043;5855;Nahrendorf;false
+3044;5857;Bleckede-Brackede;false
+3045;5858;Hitzacker-Wietzetze;false
+3046;5859;Thomasburg;false
+3047;5861;Dannenberg Elbe;false
+3048;5862;Hitzacker Elbe;false
+3049;5863;Zernien;false
+3050;5864;Jameln;false
+3051;5865;Gusborn;false
+3052;5872;Stoetze;false
+3053;5873;Eimke;false
+3054;5874;Soltendieck;false
+3055;5875;Emmendorf;false
+3056;5882;Gorleben;false
+3057;5883;Lemgow;false
+3058;5901;Fürstenau b Bramsche;false
+3059;5902;Freren;false
+3060;5903;Emsbüren;false
+3061;5904;Lengerich Emsl;false
+3062;5905;Beesten;false
+3063;5906;Lünne;false
+3064;5907;Geeste;false
+3065;5908;Wietmarschen-Lohne;false
+3066;5909;Wettrup;false
+3067;591;Lingen (Ems);false
+3068;5921;Nordhorn;false
+3069;5922;Bad Bentheim;false
+3070;5923;Schüttorf;false
+3071;5924;Bad Bentheim-Gildehaus;false
+3072;5925;Wietmarschen;false
+3073;5926;Engden;false
+3074;5931;Meppen;false
+3075;5932;Haren Ems;false
+3076;5933;Lathen;false
+3077;5934;Haren-Rütenbrock;false
+3078;5935;Twist-Schöninghsdorf;false
+3079;5936;Twist;false
+3080;5937;Geeste-Gross Hesepe;false
+3081;5939;Sustrum;false
+3082;5941;Neuenhaus Dinkel;false
+3083;5942;Uelsen;false
+3084;5943;Emlichheim;false
+3085;5944;Hoogstede;false
+3086;5945;Wilsum;false
+3087;5946;Georgsdorf;false
+3088;5947;Laar Vechte;false
+3089;5948;Itterbeck;false
+3090;5951;Werlte;false
+3091;5952;Sögel;false
+3092;5953;Börger;false
+3093;5954;Lorup;false
+3094;5955;Esterwegen;false
+3095;5956;Rastdorf;false
+3096;5957;Lindern Oldenburg;false
+3097;5961;Haselünne;false
+3098;5962;Herzlake;false
+3099;5963;Bawinkel;false
+3100;5964;Lähden;false
+3101;5965;Klein Berssen;false
+3102;5966;Meppen-Apeldorn;false
+3103;5971;Rheine;false
+3104;5973;Neuenkirchen Kr Steinfurt;false
+3105;5975;Rheine-Mesum;false
+3106;5976;Salzbergen;false
+3107;5977;Spelle;false
+3108;5978;Hörstel-Dreierwalde;false
+3109;6002;Ober-Mörlen;false
+3110;6003;Rosbach v d Höhe;false
+3111;6004;Lich-Eberstadt;false
+3112;6007;Rosbach-Rodheim;false
+3113;6008;Echzell;false
+3114;6020;Heigenbrücken;false
+3115;6021;Aschaffenburg;false
+3116;6022;Obernburg a Main;false
+3117;6023;Alzenau i Ufr;false
+3118;6024;Schöllkrippen;false
+3119;6026;Grossostheim;false
+3120;6027;Stockstadt a Main;false
+3121;6028;Sulzbach a Main;false
+3122;6029;Mömbris;false
+3123;6031;Friedberg Hess;false
+3124;6032;Bad Nauheim;false
+3125;6033;Butzbach;false
+3126;6034;Wöllstadt;false
+3127;6035;Reichelsheim Wetterau;false
+3128;6036;Wölfersheim;false
+3129;6039;Karben;false
+3130;6041;Glauburg;false
+3131;6042;Büdingen Hess;false
+3132;6043;Nidda;false
+3133;6044;Schotten Hess;false
+3134;6045;Gedern;false
+3135;6046;Ortenberg Hess;false
+3136;6047;Altenstadt Hess;false
+3137;6048;Büdingen-Eckartshausen;false
+3138;6049;Kefenrod;false
+3139;6050;Biebergemünd;false
+3140;6051;Gelnhausen;false
+3141;6052;Bad Orb;false
+3142;6053;Wächtersbach;false
+3143;6054;Birstein;false
+3144;6055;Freigericht;false
+3145;6056;Bad Soden-Salmünster;false
+3146;6057;Flörsbachtal;false
+3147;6058;Gründau;false
+3148;6059;Jossgrund;false
+3149;6061;Michelstadt;false
+3150;6062;Erbach Odenw;false
+3151;6063;Bad König;false
+3152;6066;Michelstadt-Vielbrunn;false
+3153;6068;Beerfelden;false
+3154;6071;Dieburg;false
+3155;6073;Babenhausen Hess;false
+3156;6074;Rödermark;false
+3157;6078;Gross-Umstadt;false
+3158;6081;Usingen;false
+3159;6082;Niederreifenberg;false
+3160;6083;Weilrod;false
+3161;6084;Schmitten Taunus;false
+3162;6085;Waldsolms;false
+3163;6086;Grävenwiesbach;false
+3164;6087;Waldems;false
+3165;6092;Heimbuchenthal;false
+3166;6093;Laufach;false
+3167;6094;Weibersbrunn;false
+3168;6095;Bessenbach;false
+3169;6096;Wiesen Unterfr;false
+3170;6101;Bad Vilbel;false
+3171;6102;Neu-Isenburg;false
+3172;6103;Langen Hess;false
+3173;6104;Heusenstamm;false
+3174;6105;Mörfelden-Walldorf;false
+3175;6106;Rodgau;false
+3176;6107;Kelsterbach;false
+3177;6108;Mühlheim am Main;false
+3178;6109;Frankfurt-Bergen-Enkheim;false
+3179;611;Wiesbaden;false
+3180;6120;Aarbergen;false
+3181;6122;Hofheim-Wallau;false
+3182;6123;Eltville am Rhein;false
+3183;6124;Bad Schwalbach;false
+3184;6126;Idstein;false
+3185;6127;Niedernhausen Taunus;false
+3186;6128;Taunusstein;false
+3187;6129;Schlangenbad;false
+3188;6130;Schwabenheim an der Selz;false
+3189;6131;Mainz;false
+3190;6132;Ingelheim am Rhein;false
+3191;6133;Oppenheim;false
+3192;6134;Mainz-Kastel;false
+3193;6135;Bodenheim Rhein;false
+3194;6136;Nieder-Olm;false
+3195;6138;Mommenheim;false
+3196;6139;Budenheim;false
+3197;6142;Rüsselsheim;false
+3198;6144;Bischofsheim b Rüsselsheim;false
+3199;6145;Flörsheim am Main;false
+3200;6146;Hochheim am Main;false
+3201;6147;Trebur;false
+3202;6150;Weiterstadt;false
+3203;6151;Darmstadt;false
+3204;6152;Gross-Gerau;false
+3205;6154;Ober-Ramstadt;false
+3206;6155;Griesheim Hess;false
+3207;6157;Pfungstadt;false
+3208;6158;Riedstadt;false
+3209;6159;Messel;false
+3210;6161;Brensbach;false
+3211;6162;Reinheim Odenw;false
+3212;6163;Höchst i Odw;false
+3213;6164;Reichelsheim Odenwald;false
+3214;6165;Breuberg;false
+3215;6166;Fischbachtal;false
+3216;6167;Modautal;false
+3217;6171;Oberursel Taunus;false
+3218;6172;Bad Homburg v d Höhe;false
+3219;6173;Kronberg im Taunus;false
+3220;6174;Königstein im Taunus;false
+3221;6175;Friedrichsdorf Taunus;false
+3222;6181;Hanau;false
+3223;6182;Seligenstadt;false
+3224;6183;Erlensee;false
+3225;6184;Langenselbold;false
+3226;6185;Hammersbach Hess;false
+3227;6186;Grosskrotzenburg;false
+3228;6187;Schöneck;false
+3229;6188;Kahl a Main;false
+3230;6190;Hattersheim a Main;false
+3231;6192;Hofheim am Taunus;false
+3232;6195;Kelkheim Taunus;false
+3233;6196;Bad Soden am Taunus;false
+3234;6198;Eppstein;false
+3235;6201;Weinheim Bergstr;false
+3236;6202;Schwetzingen;false
+3237;6203;Ladenburg;false
+3238;6204;Viernheim;false
+3239;6205;Hockenheim;false
+3240;6206;Lampertheim;false
+3241;6207;Wald-Michelbach;false
+3242;6209;Mörlenbach;false
+3243;621;Mannheim;false
+3244;6220;Wilhelmsfeld;false
+3245;6221;Heidelberg;false
+3246;6222;Wiesloch;false
+3247;6223;Neckargemünd;false
+3248;6224;Sandhausen Baden;false
+3249;6226;Meckesheim;false
+3250;6227;Walldorf Baden;false
+3251;6228;Schönau Odenw;false
+3252;6229;Neckarsteinach;false
+3253;6231;Hochdorf-Assenheim;false
+3254;6232;Speyer;false
+3255;6233;Frankenthal Pfalz;false
+3256;6234;Mutterstadt;false
+3257;6235;Schifferstadt;false
+3258;6236;Neuhofen Pfalz;false
+3259;6237;Maxdorf;false
+3260;6238;Dirmstein;false
+3261;6239;Bobenheim-Roxheim;false
+3262;6241;Worms;false
+3263;6242;Osthofen;false
+3264;6243;Monsheim;false
+3265;6244;Westhofen Rheinhess;false
+3266;6245;Biblis;false
+3267;6246;Eich Rheinhess;false
+3268;6247;Worms-Pfeddersheim;false
+3269;6249;Guntersblum;false
+3270;6251;Bensheim;false
+3271;6252;Heppenheim Bergstraße;false
+3272;6253;Fürth Odenw;false
+3273;6254;Lautertal Odenwald;false
+3274;6255;Lindenfels;false
+3275;6256;Lampertheim-Hüttenfeld;false
+3276;6257;Seeheim-Jugenheim;false
+3277;6258;Gernsheim;false
+3278;6261;Mosbach Baden;false
+3279;6262;Aglasterhausen;false
+3280;6263;Neckargerach;false
+3281;6264;Neudenau;false
+3282;6265;Billigheim Baden;false
+3283;6266;Hassmersheim;false
+3284;6267;Fahrenbach Baden;false
+3285;6268;Hüffenhardt;false
+3286;6269;Gundelsheim Württ;false
+3287;6271;Eberbach Baden;false
+3288;6272;Hirschhorn Neckar;false
+3289;6274;Waldbrunn Odenw;false
+3290;6275;Rothenberg Odenw;false
+3291;6276;Hesseneck;false
+3292;6281;Buchen Odenwald;false
+3293;6282;Walldürn;false
+3294;6283;Hardheim Odenw;false
+3295;6284;Mudau;false
+3296;6285;Walldürn-Altheim;false
+3297;6286;Walldürn-Rippberg;false
+3298;6287;Limbach Baden;false
+3299;6291;Adelsheim;false
+3300;6292;Seckach;false
+3301;6293;Schefflenz;false
+3302;6294;Krautheim Jagst;false
+3303;6295;Rosenberg Baden;false
+3304;6296;Ahorn Baden;false
+3305;6297;Ravenstein Baden;false
+3306;6298;Möckmühl;false
+3307;6301;Otterbach Pfalz;false
+3308;6302;Winnweiler;false
+3309;6303;Enkenbach-Alsenborn;false
+3310;6304;Wolfstein Pfalz;false
+3311;6305;Hochspeyer;false
+3312;6306;Trippstadt;false
+3313;6307;Schopp;false
+3314;6308;Olsbrücken;false
+3315;631;Kaiserslautern;false
+3316;6321;Neustadt an der Weinstraße;false
+3317;6322;Bad Dürkheim;false
+3318;6323;Edenkoben;false
+3319;6324;Hassloch;false
+3320;6325;Lambrecht Pfalz;false
+3321;6326;Deidesheim;false
+3322;6327;Neustadt-Lachen;false
+3323;6328;Elmstein;false
+3324;6329;Weidenthal Pfalz;false
+3325;6331;Pirmasens;false
+3326;6332;Zweibrücken;false
+3327;6333;Waldfischbach-Burgalben;false
+3328;6334;Thaleischweiler-Fröschen;false
+3329;6335;Trulben;false
+3330;6336;Dellfeld;false
+3331;6337;Grossbundenbach;false
+3332;6338;Hornbach Pfalz;false
+3333;6339;Grosssteinhausen;false
+3334;6340;Wörth-Schaidt;false
+3335;6341;Landau in der Pfalz;false
+3336;6342;Schweigen-Rechtenbach;false
+3337;6343;Bad Bergzabern;false
+3338;6344;Schwegenheim;false
+3339;6345;Albersweiler;false
+3340;6346;Annweiler am Trifels;false
+3341;6347;Hochstadt Pfalz;false
+3342;6348;Offenbach an der Queich;false
+3343;6349;Billigheim-Ingenheim;false
+3344;6351;Eisenberg Pfalz;false
+3345;6352;Kirchheimbolanden;false
+3346;6353;Freinsheim;false
+3347;6355;Albisheim Pfrimm;false
+3348;6356;Carlsberg Pfalz;false
+3349;6357;Standenbühl;false
+3350;6358;Kriegsfeld;false
+3351;6359;Grünstadt;false
+3352;6361;Rockenhausen;false
+3353;6362;Alsenz;false
+3354;6363;Niederkirchen;false
+3355;6364;Nußbach Pfalz;false
+3356;6371;Landstuhl;false
+3357;6372;Bruchmühlbach-Miesau;false
+3358;6373;Schönenberg-Kübelberg;false
+3359;6374;Weilerbach;false
+3360;6375;Wallhalben;false
+3361;6381;Kusel;false
+3362;6382;Lauterecken;false
+3363;6383;Glan-Münchweiler;false
+3364;6384;Konken;false
+3365;6385;Reichenbach-Steegen;false
+3366;6386;Altenkirchen Pfalz;false
+3367;6387;Sankt Julian;false
+3368;6391;Dahn;false
+3369;6392;Hauenstein Pfalz;false
+3370;6393;Fischbach bei Dahn;false
+3371;6394;Bundenthal;false
+3372;6395;Münchweiler an der Rodalb;false
+3373;6396;Hinterweidenthal;false
+3374;6397;Leimen Pfalz;false
+3375;6398;Vorderweidenthal;false
+3376;6400;Mücke;false
+3377;6401;Grünberg Hess;false
+3378;6402;Hungen;false
+3379;6403;Linden Hess;false
+3380;6404;Lich Hess;false
+3381;6405;Laubach Hess;false
+3382;6406;Lollar;false
+3383;6407;Rabenau Hess;false
+3384;6408;Buseck;false
+3385;6409;Biebertal;false
+3386;641;Giessen;false
+3387;6420;Lahntal;false
+3388;6421;Marburg;false
+3389;6422;Kirchhain;false
+3390;6423;Wetter Hessen;false
+3391;6424;Ebsdorfergrund;false
+3392;6425;Rauschenberg Hess;false
+3393;6426;Fronhausen;false
+3394;6427;Cölbe-Schönstadt;false
+3395;6428;Stadtallendorf;false
+3396;6429;Schweinsberg Hess;false
+3397;6430;Hahnstätten;false
+3398;6431;Limburg a d Lahn;false
+3399;6432;Diez;false
+3400;6433;Hadamar;false
+3401;6434;Bad Camberg;false
+3402;6435;Wallmerod;false
+3403;6436;Dornburg Hess;false
+3404;6438;Hünfelden;false
+3405;6439;Holzappel;false
+3406;6440;Kölschhausen;false
+3407;6441;Wetzlar;false
+3408;6442;Braunfels;false
+3409;6443;Ehringshausen Dill;false
+3410;6444;Bischoffen;false
+3411;6445;Schöffengrund;false
+3412;6446;Hohenahr;false
+3413;6447;Langgöns-Niederkleen;false
+3414;6449;Ehringshausen-Katzenfurt;false
+3415;6451;Frankenberg Eder;false
+3416;6452;Battenberg Eder;false
+3417;6453;Gemünden Wohra;false
+3418;6454;Lichtenfels-Sachsenberg;false
+3419;6455;Frankenau Hess;false
+3420;6456;Haina Kloster;false
+3421;6457;Burgwald Eder;false
+3422;6458;Rosenthal Hess;false
+3423;6461;Biedenkopf;false
+3424;6462;Gladenbach;false
+3425;6464;Angelburg;false
+3426;6465;Breidenbach b Biedenkopf;false
+3427;6466;Dautphetal-Friedensdorf;false
+3428;6467;Hatzfeld Eder;false
+3429;6468;Dautphetal-Mornshausen;false
+3430;6471;Weilburg;false
+3431;6472;Weilmünster;false
+3432;6473;Leun;false
+3433;6474;Villmar-Aumenau;false
+3434;6475;Weilmünster-Wolfenhausen;false
+3435;6476;Mengerskirchen;false
+3436;6477;Greifenstein-Nenderoth;false
+3437;6478;Greifenstein-Ulm;false
+3438;6479;Waldbrunn Westerwald;false
+3439;6482;Runkel;false
+3440;6483;Selters Taunus;false
+3441;6484;Beselich;false
+3442;6485;Nentershausen Westerw;false
+3443;6486;Katzenelnbogen;false
+3444;6500;Waldrach;false
+3445;6501;Konz;false
+3446;6502;Schweich;false
+3447;6503;Hermeskeil;false
+3448;6504;Thalfang;false
+3449;6505;Kordel;false
+3450;6506;Welschbillig;false
+3451;6507;Neumagen-Dhron;false
+3452;6508;Hetzerath Mosel;false
+3453;6509;Büdlich;false
+3454;651;Trier;false
+3455;6522;Mettendorf;false
+3456;6523;Holsthum;false
+3457;6524;Rodershausen;false
+3458;6525;Irrel;false
+3459;6526;Bollendorf;false
+3460;6527;Oberweis;false
+3461;6531;Bernkastel-Kues;false
+3462;6532;Zeltingen-Rachtig;false
+3463;6533;Morbach Hunsrück;false
+3464;6534;Mülheim Mosel;false
+3465;6535;Osann-Monzel;false
+3466;6536;Kleinich;false
+3467;6541;Traben-Trarbach;false
+3468;6542;Bullay;false
+3469;6543;Büchenbeuren;false
+3470;6544;Rhaunen;false
+3471;6545;Blankenrath;false
+3472;6550;Irrhausen;false
+3473;6551;Prüm;false
+3474;6552;Olzheim;false
+3475;6553;Schönecken;false
+3476;6554;Waxweiler;false
+3477;6555;Bleialf;false
+3478;6556;Pronsfeld;false
+3479;6557;Hallschlag;false
+3480;6558;Büdesheim Eifel;false
+3481;6559;Leidenborn;false
+3482;6561;Bitburg;false
+3483;6562;Speicher;false
+3484;6563;Kyllburg;false
+3485;6564;Neuerburg Eifel;false
+3486;6565;Dudeldorf;false
+3487;6566;Körperich;false
+3488;6567;Oberkail;false
+3489;6568;Wolsfeld;false
+3490;6569;Bickendorf;false
+3491;6571;Wittlich;false
+3492;6572;Manderscheid Eifel;false
+3493;6573;Gillenfeld;false
+3494;6574;Hasborn;false
+3495;6575;Landscheid;false
+3496;6578;Salmtal;false
+3497;6580;Zemmer;false
+3498;6581;Saarburg;false
+3499;6582;Freudenburg;false
+3500;6583;Palzem;false
+3501;6584;Wellen Mosel;false
+3502;6585;Ralingen;false
+3503;6586;Beuren Hochwald;false
+3504;6587;Zerf;false
+3505;6588;Pluwig;false
+3506;6589;Kell am See;false
+3507;6591;Gerolstein;false
+3508;6592;Daun;false
+3509;6593;Hillesheim Eifel;false
+3510;6594;Birresborn;false
+3511;6595;Dockweiler;false
+3512;6596;Üdersdorf;false
+3513;6597;Jünkerath;false
+3514;6599;Weidenbach b Gerolstein;false
+3515;661;Fulda;false
+3516;6620;Philippsthal Werra;false
+3517;6621;Bad Hersfeld;false
+3518;6622;Bebra;false
+3519;6623;Rotenburg a d Fulda;false
+3520;6624;Heringen Werra;false
+3521;6625;Niederaula;false
+3522;6626;Wildeck-Obersuhl;false
+3523;6627;Nentershausen Hess;false
+3524;6628;Oberaula;false
+3525;6629;Schenklengsfeld;false
+3526;6630;Schwalmtal-Storndorf;false
+3527;6631;Alsfeld;false
+3528;6633;Homberg Ohm;false
+3529;6634;Gemünden Felda;false
+3530;6635;Kirtorf;false
+3531;6636;Romrod;false
+3532;6637;Feldatal;false
+3533;6638;Schwalmtal-Renzendorf;false
+3534;6639;Ottrau;false
+3535;6641;Lauterbach Hessen;false
+3536;6642;Schlitz;false
+3537;6643;Herbstein;false
+3538;6644;Grebenhain;false
+3539;6645;Ulrichstein;false
+3540;6646;Grebenau;false
+3541;6647;Herbstein-Stockhausen;false
+3542;6648;Bad Salzschlirf;false
+3543;6650;Hosenfeld;false
+3544;6651;Rasdorf;false
+3545;6652;Hünfeld;false
+3546;6653;Burghaun;false
+3547;6654;Gersfeld Rhön;false
+3548;6655;Neuhof Kr Fulda;false
+3549;6656;Ebersburg;false
+3550;6657;Hofbieber;false
+3551;6658;Poppenhausen Wasserkuppe;false
+3552;6659;Eichenzell;false
+3553;6660;Steinau-Marjoss;false
+3554;6661;Schlüchtern;false
+3555;6663;Steinau an der Straße;false
+3556;6664;Sinntal-Sterbfritz;false
+3557;6665;Sinntal-Altengronau;false
+3558;6666;Freiensteinau;false
+3559;6667;Steinau-Ulmbach;false
+3560;6668;Birstein-Lichenroth;false
+3561;6669;Neuhof-Hauswurz;false
+3562;6670;Ludwigsau Hess;false
+3563;6672;Eiterfeld;false
+3564;6673;Haunetal;false
+3565;6674;Friedewald Hess;false
+3566;6675;Breitenbach a Herzberg;false
+3567;6676;Hohenroda Hess;false
+3568;6677;Neuenstein Hess;false
+3569;6678;Wildeck-Hönebach;false
+3570;6681;Hilders;false
+3571;6682;Tann Rhön;false
+3572;6683;Ehrenberg Rhön;false
+3573;6684;Hofbieber-Schwarzbach;false
+3574;6691;Schwalmstadt;false
+3575;6692;Neustadt Hessen;false
+3576;6693;Neuental;false
+3577;6694;Neukirchen Knüll;false
+3578;6695;Jesberg;false
+3579;6696;Gilserberg;false
+3580;6697;Willingshausen;false
+3581;6698;Schrecksbach;false
+3582;6701;Sprendlingen Rheinhess;false
+3583;6703;Wöllstein Rheinhess;false
+3584;6704;Langenlonsheim;false
+3585;6706;Wallhausen Nahe;false
+3586;6707;Windesheim;false
+3587;6708;Bad Münster am Stein-Ebernburg;false
+3588;6709;Fürfeld Kr Bad Kreuznach;false
+3589;671;Bad Kreuznach;false
+3590;6721;Bingen am Rhein;false
+3591;6722;Rüdesheim am Rhein;false
+3592;6723;Oestrich-Winkel;false
+3593;6724;Stromberg Hunsrück;false
+3594;6725;Gau-Algesheim;false
+3595;6726;Lorch Rheingau;false
+3596;6727;Gensingen;false
+3597;6728;Ober-Hilbersheim;false
+3598;6731;Alzey;false
+3599;6732;Wörrstadt;false
+3600;6733;Gau-Odernheim;false
+3601;6734;Flonheim;false
+3602;6735;Eppelsheim;false
+3603;6736;Bechenheim;false
+3604;6737;Köngernheim;false
+3605;6741;St Goar;false
+3606;6742;Boppard;false
+3607;6743;Bacharach;false
+3608;6744;Oberwesel;false
+3609;6745;Gondershausen;false
+3610;6746;Pfalzfeld;false
+3611;6747;Emmelshausen;false
+3612;6751;Bad Sobernheim;false
+3613;6752;Kirn Nahe;false
+3614;6753;Meisenheim;false
+3615;6754;Martinstein;false
+3616;6755;Odernheim am Glan;false
+3617;6756;Winterbach Soonwald;false
+3618;6757;Becherbach bei Kirn;false
+3619;6758;Waldböckelheim;false
+3620;6761;Simmern Hunsrück;false
+3621;6762;Kastellaun;false
+3622;6763;Kirchberg Hunsrück;false
+3623;6764;Rheinböllen;false
+3624;6765;Gemünden Hunsrück;false
+3625;6766;Kisselbach;false
+3626;6771;St Goarshausen;false
+3627;6772;Nastätten;false
+3628;6773;Kamp-Bornhofen;false
+3629;6774;Kaub;false
+3630;6775;Strüth Taunus;false
+3631;6776;Dachsenhausen;false
+3632;6781;Idar-Oberstein;false
+3633;6782;Birkenfeld Nahe;false
+3634;6783;Baumholder;false
+3635;6784;Weierbach;false
+3636;6785;Herrstein;false
+3637;6786;Kempfeld;false
+3638;6787;Niederbrombach;false
+3639;6788;Sien;false
+3640;6789;Heimbach Nahe;false
+3641;6802;Völklingen-Lauterbach;false
+3642;6803;Mandelbachtal-Ommersheim;false
+3643;6804;Mandelbachtal;false
+3644;6805;Kleinblittersdorf;false
+3645;6806;Heusweiler;false
+3646;6809;Grossrosseln;false
+3647;681;Saarbrücken;false
+3648;6821;Neunkirchen Saar;false
+3649;6824;Ottweiler;false
+3650;6825;Illingen Saar;false
+3651;6826;Bexbach;false
+3652;6827;Eppelborn;false
+3653;6831;Saarlouis;false
+3654;6832;Beckingen-Reimsbach;false
+3655;6833;Rehlingen-Siersburg;false
+3656;6834;Bous;false
+3657;6835;Beckingen;false
+3658;6836;Überherrn;false
+3659;6837;Wallerfangen;false
+3660;6838;Saarwellingen;false
+3661;6841;Homburg Saar;false
+3662;6842;Blieskastel;false
+3663;6843;Gersheim;false
+3664;6844;Blieskastel-Altheim;false
+3665;6848;Homburg-Einöd;false
+3666;6849;Kirkel;false
+3667;6851;St Wendel;false
+3668;6852;Nohfelden;false
+3669;6853;Marpingen;false
+3670;6854;Oberthal Saar;false
+3671;6855;Freisen;false
+3672;6856;St Wendel-Niederkirchen;false
+3673;6857;Namborn;false
+3674;6858;Ottweiler-Fürth;false
+3675;6861;Merzig;false
+3676;6864;Mettlach;false
+3677;6865;Mettlach-Orscholz;false
+3678;6866;Perl-Nennig;false
+3679;6867;Perl;false
+3680;6868;Mettlach-Tünsdorf;false
+3681;6869;Merzig-Silwingen;false
+3682;6871;Wadern;false
+3683;6872;Losheim am See;false
+3684;6873;Nonnweiler;false
+3685;6874;Wadern-Nunkirchen;false
+3686;6875;Nonnweiler-Primstal;false
+3687;6876;Weiskirchen Saar;false
+3688;6881;Lebach;false
+3689;6887;Schmelz Saar;false
+3690;6888;Lebach-Steinbach;false
+3691;6893;Saarbrücken-Ensheim;false
+3692;6894;St Ingbert;false
+3693;6897;Sulzbach Saar;false
+3694;6898;Völklingen;false
+3695;69;Frankfurt am Main;false
+3696;7021;Kirchheim unter Teck;false
+3697;7022;Nürtingen;false
+3698;7023;Weilheim an der Teck;false
+3699;7024;Wendlingen am Neckar;false
+3700;7025;Neuffen;false
+3701;7026;Lenningen;false
+3702;7031;Böblingen;false
+3703;7032;Herrenberg;false
+3704;7033;Weil Der Stadt;false
+3705;7034;Ehningen;false
+3706;7041;Mühlacker;false
+3707;7042;Vaihingen an der Enz;false
+3708;7043;Maulbronn;false
+3709;7044;Mönsheim;false
+3710;7045;Oberderdingen;false
+3711;7046;Zaberfeld;false
+3712;7051;Calw;false
+3713;7052;Bad Liebenzell;false
+3714;7053;Bad Teinach-Zavelstein;false
+3715;7054;Wildberg Württ;false
+3716;7055;Neuweiler Kr Calw;false
+3717;7056;Gechingen;false
+3718;7062;Beilstein Württ;false
+3719;7063;Bad Wimpfen;false
+3720;7066;Bad Rappenau-Bonfeld;false
+3721;7071;Tübingen;false
+3722;7072;Gomaringen;false
+3723;7073;Ammerbuch;false
+3724;7081;Bad Wildbad;false
+3725;7082;Neuenbürg Württ;false
+3726;7083;Bad Herrenalb;false
+3727;7084;Schömberg b Neuenbürg;false
+3728;7085;Enzklösterle;false
+3729;711;Stuttgart;false
+3730;7121;Reutlingen;false
+3731;7122;St Johann Württ;false
+3732;7123;Metzingen Württ;false
+3733;7124;Trochtelfingen Hohenz;false
+3734;7125;Bad Urach;false
+3735;7126;Burladingen-Melchingen;false
+3736;7127;Neckartenzlingen;false
+3737;7128;Sonnenbühl;false
+3738;7129;Lichtenstein Württ;false
+3739;7130;Löwenstein Württ;false
+3740;7131;Heilbronn Neckar;false
+3741;7132;Neckarsulm;false
+3742;7133;Lauffen am Neckar;false
+3743;7134;Weinsberg;false
+3744;7135;Brackenheim;false
+3745;7136;Bad Friedrichshall;false
+3746;7138;Schwaigern;false
+3747;7139;Neuenstadt am Kocher;false
+3748;7141;Ludwigsburg Württ;false
+3749;7142;Bietigheim-Bissingen;false
+3750;7143;Besigheim;false
+3751;7144;Marbach am Neckar;false
+3752;7145;Markgröningen;false
+3753;7146;Remseck am Neckar;false
+3754;7147;Sachsenheim Württ;false
+3755;7148;Grossbottwar;false
+3756;7150;Korntal-Münchingen;false
+3757;7151;Waiblingen;false
+3758;7152;Leonberg Württ;false
+3759;7153;Plochingen;false
+3760;7154;Kornwestheim;false
+3761;7156;Ditzingen;false
+3762;7157;Waldenbuch;false
+3763;7158;Neuhausen auf den Fildern;false
+3764;7159;Renningen;false
+3765;7161;Göppingen;false
+3766;7162;Süßen;false
+3767;7163;Ebersbach an der Fils;false
+3768;7164;Boll Kr Göppingen;false
+3769;7165;Göppingen-Hohenstaufen;false
+3770;7166;Adelberg;false
+3771;7171;Schwäbisch Gmünd;false
+3772;7172;Lorch Württ;false
+3773;7173;Heubach;false
+3774;7174;Mögglingen;false
+3775;7175;Leinzell;false
+3776;7176;Spraitbach;false
+3777;7181;Schorndorf Württ;false
+3778;7182;Welzheim;false
+3779;7183;Rudersberg Württ;false
+3780;7184;Kaisersbach;false
+3781;7191;Backnang;false
+3782;7192;Murrhardt;false
+3783;7193;Sulzbach an der Murr;false
+3784;7194;Spiegelberg;false
+3785;7195;Winnenden;false
+3786;7202;Karlsbad;false
+3787;7203;Walzbachtal;false
+3788;7204;Malsch-Völkersbach;false
+3789;721;Karlsruhe;false
+3790;7220;Forbach-Hundsbach;false
+3791;7221;Baden-Baden;false
+3792;7222;Rastatt;false
+3793;7223;Bühl Baden;false
+3794;7224;Gernsbach;false
+3795;7225;Gaggenau;false
+3796;7226;Bühl-Sand;false
+3797;7227;Lichtenau Baden;false
+3798;7228;Forbach;false
+3799;7229;Iffezheim;false
+3800;7231;Pforzheim;false
+3801;7232;Königsbach-Stein;false
+3802;7233;Niefern-Öschelbronn;false
+3803;7234;Tiefenbronn;false
+3804;7235;Unterreichenbach Kr Calw;false
+3805;7236;Keltern;false
+3806;7237;Neulingen Enzkreis;false
+3807;7240;Pfinztal;false
+3808;7242;Rheinstetten;false
+3809;7243;Ettlingen;false
+3810;7244;Weingarten Baden;false
+3811;7245;Durmersheim;false
+3812;7246;Malsch Kr Karlsruhe;false
+3813;7247;Linkenheim-Hochstetten;false
+3814;7248;Marxzell;false
+3815;7249;Stutensee;false
+3816;7250;Kraichtal;false
+3817;7251;Bruchsal;false
+3818;7252;Bretten;false
+3819;7253;Bad Schönborn;false
+3820;7254;Waghäusel;false
+3821;7255;Graben-Neudorf;false
+3822;7256;Philippsburg;false
+3823;7257;Bruchsal-Untergrombach;false
+3824;7258;Oberderdingen-Flehingen;false
+3825;7259;Östringen-Odenheim;false
+3826;7260;Sinsheim-Hilsbach;false
+3827;7261;Sinsheim;false
+3828;7262;Eppingen;false
+3829;7263;Waibstadt;false
+3830;7264;Bad Rappenau;false
+3831;7265;Angelbachtal;false
+3832;7266;Kirchardt;false
+3833;7267;Gemmingen;false
+3834;7268;Bad Rappenau-Obergimpern;false
+3835;7269;Sulzfeld Baden;false
+3836;7271;Wörth am Rhein;false
+3837;7272;Rülzheim;false
+3838;7273;Hagenbach Pfalz;false
+3839;7274;Germersheim;false
+3840;7275;Kandel;false
+3841;7276;Herxheim bei Landau Pfalz;false
+3842;7277;Wörth-Büchelberg;false
+3843;7300;Roggenburg;false
+3844;7302;Pfaffenhofen a d Roth;false
+3845;7303;Illertissen;false
+3846;7304;Blaustein Württ;false
+3847;7305;Erbach Donau;false
+3848;7306;Vöhringen Iller;false
+3849;7307;Senden Iller;false
+3850;7308;Nersingen;false
+3851;7309;Weissenhorn;false
+3852;731;Ulm Donau;false
+3853;7321;Heidenheim a d Brenz;false
+3854;7322;Giengen a d Brenz;false
+3855;7323;Gerstetten;false
+3856;7324;Herbrechtingen;false
+3857;7325;Sontheim a d Brenz;false
+3858;7326;Neresheim;false
+3859;7327;Dischingen;false
+3860;7328;Königsbronn;false
+3861;7329;Steinheim am Albuch;false
+3862;7331;Geislingen an der Steige;false
+3863;7332;Lauterstein;false
+3864;7333;Laichingen;false
+3865;7334;Deggingen;false
+3866;7335;Wiesensteig;false
+3867;7336;Lonsee;false
+3868;7337;Nellingen Alb;false
+3869;7340;Neenstetten;false
+3870;7343;Buch b Illertissen;false
+3871;7344;Blaubeuren;false
+3872;7345;Langenau Württ;false
+3873;7346;Illerkirchberg;false
+3874;7347;Dietenheim;false
+3875;7348;Beimerstetten;false
+3876;7351;Biberach an der Riß;false
+3877;7352;Ochsenhausen;false
+3878;7353;Schwendi;false
+3879;7354;Erolzheim;false
+3880;7355;Hochdorf Riß;false
+3881;7356;Schemmerhofen;false
+3882;7357;Attenweiler;false
+3883;7358;Eberhardzell-Füramoos;false
+3884;7361;Aalen;false
+3885;7362;Bopfingen;false
+3886;7363;Lauchheim;false
+3887;7364;Oberkochen;false
+3888;7365;Essingen Württ;false
+3889;7366;Abtsgmünd;false
+3890;7367;Aalen-Ebnat;false
+3891;7371;Riedlingen Württ;false
+3892;7373;Zwiefalten;false
+3893;7374;Uttenweiler;false
+3894;7375;Obermarchtal;false
+3895;7376;Langenenslingen;false
+3896;7381;Münsingen;false
+3897;7382;Römerstein;false
+3898;7383;Münsingen-Buttenhausen;false
+3899;7384;Schelklingen-Hütten;false
+3900;7385;Gomadingen;false
+3901;7386;Hayingen;false
+3902;7387;Hohenstein Württ;false
+3903;7388;Pfronstetten;false
+3904;7389;Heroldstatt;false
+3905;7391;Ehingen Donau;false
+3906;7392;Laupheim;false
+3907;7393;Munderkingen;false
+3908;7394;Schelklingen;false
+3909;7395;Ehingen-Dächingen;false
+3910;7402;Fluorn-Winzeln;false
+3911;7403;Dunningen;false
+3912;7404;Epfendorf;false
+3913;741;Rottweil;false
+3914;7420;Deisslingen;false
+3915;7422;Schramberg;false
+3916;7423;Oberndorf am Neckar;false
+3917;7424;Spaichingen;false
+3918;7425;Trossingen;false
+3919;7426;Gosheim;false
+3920;7427;Schömberg b Balingen;false
+3921;7428;Rosenfeld;false
+3922;7429;Egesheim;false
+3923;7431;Albstadt-Ebingen;false
+3924;7432;Albstadt-Tailfingen;false
+3925;7433;Balingen;false
+3926;7434;Winterlingen;false
+3927;7435;Albstadt-Laufen;false
+3928;7436;Messstetten-Oberdigisheim;false
+3929;7440;Bad Rippoldsau;false
+3930;7441;Freudenstadt;false
+3931;7442;Baiersbronn;false
+3932;7443;Dornstetten;false
+3933;7444;Alpirsbach;false
+3934;7445;Pfalzgrafenweiler;false
+3935;7446;Lossburg;false
+3936;7447;Baiersbronn-Schwarzenberg;false
+3937;7448;Seewald;false
+3938;7449;Baiersbronn-Obertal;false
+3939;7451;Horb am Neckar;false
+3940;7452;Nagold;false
+3941;7453;Altensteig Württ;false
+3942;7454;Sulz am Neckar;false
+3943;7455;Dornhan;false
+3944;7456;Haiterbach;false
+3945;7457;Rottenburg-Ergenzingen;false
+3946;7458;Ebhausen;false
+3947;7459;Nagold-Hochdorf;false
+3948;7461;Tuttlingen;false
+3949;7462;Immendingen;false
+3950;7463;Mühlheim an der Donau;false
+3951;7464;Talheim Kr Tuttlingen;false
+3952;7465;Emmingen-Liptingen;false
+3953;7466;Beuron;false
+3954;7467;Neuhausen ob Eck;false
+3955;7471;Hechingen;false
+3956;7472;Rottenburg am Neckar;false
+3957;7473;Mössingen;false
+3958;7474;Haigerloch;false
+3959;7475;Burladingen;false
+3960;7476;Bisingen;false
+3961;7477;Jungingen b Hechingen;false
+3962;7478;Hirrlingen;false
+3963;7482;Horb-Dettingen;false
+3964;7483;Horb-Mühringen;false
+3965;7484;Simmersfeld;false
+3966;7485;Empfingen;false
+3967;7486;Horb-Altheim;false
+3968;7502;Wolpertswende;false
+3969;7503;Wilhelmsdorf Württ;false
+3970;7504;Horgenzell;false
+3971;7505;Fronreute;false
+3972;7506;Wangen-Leupolz;false
+3973;751;Ravensburg;false
+3974;7520;Bodnegg;false
+3975;7522;Wangen im Allgäu;false
+3976;7524;Bad Waldsee;false
+3977;7525;Aulendorf;false
+3978;7527;Wolfegg;false
+3979;7528;Neukirch b Tettnang;false
+3980;7529;Waldburg Württ;false
+3981;7531;Konstanz;false
+3982;7532;Meersburg;false
+3983;7533;Allensbach;false
+3984;7534;Reichenau Baden;false
+3985;7541;Friedrichshafen;false
+3986;7542;Tettnang;false
+3987;7543;Kressbronn am Bodensee;false
+3988;7544;Markdorf;false
+3989;7545;Immenstaad am Bodensee;false
+3990;7546;Oberteuringen;false
+3991;7551;Überlingen Bodensee;false
+3992;7552;Pfullendorf;false
+3993;7553;Salem Baden;false
+3994;7554;Heiligenberg Baden;false
+3995;7555;Deggenhausertal;false
+3996;7556;Uhldingen-Mühlhofen;false
+3997;7557;Herdwangen-Schönach;false
+3998;7558;Illmensee;false
+3999;7561;Leutkirch im Allgäu;false
+4000;7562;Isny im Allgäu;false
+4001;7563;Kisslegg;false
+4002;7564;Bad Wurzach;false
+4003;7565;Aichstetten Kr Ravensburg;false
+4004;7566;Argenbühl;false
+4005;7567;Leutkirch-Friesenhofen;false
+4006;7568;Bad Wurzach-Hauerz;false
+4007;7569;Isny-Eisenbach;false
+4008;7570;Sigmaringen-Gutenstein;false
+4009;7571;Sigmaringen;false
+4010;7572;Mengen Württ;false
+4011;7573;Stetten am kalten Markt;false
+4012;7574;Gammertingen;false
+4013;7575;Messkirch;false
+4014;7576;Krauchenwies;false
+4015;7577;Veringenstadt;false
+4016;7578;Wald Hohenz;false
+4017;7579;Schwenningen Baden;false
+4018;7581;Saulgau;false
+4019;7582;Bad Buchau;false
+4020;7583;Bad Schussenried;false
+4021;7584;Altshausen;false
+4022;7585;Ostrach;false
+4023;7586;Herbertingen;false
+4024;7587;Hosskirch;false
+4025;7602;Oberried Breisgau;false
+4026;761;Freiburg im Breisgau;false
+4027;7620;Schopfheim-Gersbach;false
+4028;7621;Lörrach;false
+4029;7622;Schopfheim;false
+4030;7623;Rheinfelden Baden;false
+4031;7624;Grenzach-Wyhlen;false
+4032;7625;Zell im Wiesental;false
+4033;7626;Kandern;false
+4034;7627;Steinen Kr Lörrach;false
+4035;7628;Efringen-Kirchen;false
+4036;7629;Tegernau Baden;false
+4037;7631;Müllheim Baden;false
+4038;7632;Badenweiler;false
+4039;7633;Staufen im Breisgau;false
+4040;7634;Sulzburg;false
+4041;7635;Schliengen;false
+4042;7636;Münstertal Schwarzwald;false
+4043;7641;Emmendingen;false
+4044;7642;Endingen Kaiserstuhl;false
+4045;7643;Herbolzheim Breisgau;false
+4046;7644;Kenzingen;false
+4047;7645;Freiamt;false
+4048;7646;Weisweil Breisgau;false
+4049;7651;Titisee-Neustadt;false
+4050;7652;Hinterzarten;false
+4051;7653;Lenzkirch;false
+4052;7654;Löffingen;false
+4053;7655;Feldberg-Altglashütten;false
+4054;7656;Schluchsee;false
+4055;7657;Eisenbach Hochschwarzwald;false
+4056;7660;St Peter Schwarzw;false
+4057;7661;Kirchzarten;false
+4058;7662;Vogtsburg im Kaiserstuhl;false
+4059;7663;Eichstetten;false
+4060;7664;Freiburg-Tiengen;false
+4061;7665;March Breisgau;false
+4062;7666;Denzlingen;false
+4063;7667;Breisach am Rhein;false
+4064;7668;Ihringen;false
+4065;7669;St Märgen;false
+4066;7671;Todtnau;false
+4067;7672;St Blasien;false
+4068;7673;Schönau im Schwarzwald;false
+4069;7674;Todtmoos;false
+4070;7675;Bernau Baden;false
+4071;7676;Feldberg Schwarzwald;false
+4072;7681;Waldkirch Breisgau;false
+4073;7682;Elzach;false
+4074;7683;Simonswald;false
+4075;7684;Glottertal;false
+4076;7685;Gutach-Bleibach;false
+4077;7702;Blumberg Baden;false
+4078;7703;Bonndorf im Schwarzwald;false
+4079;7704;Geisingen Baden;false
+4080;7705;Wolterdingen Schwarzw;false
+4081;7706;Oberbaldingen;false
+4082;7707;Bräunlingen;false
+4083;7708;Geisingen-Leipferdingen;false
+4084;7709;Wutach;false
+4085;771;Donaueschingen;false
+4086;7720;Schwenningen a Neckar;false
+4087;7721;Villingen i Schwarzw;false
+4088;7722;Triberg im Schwarzwald;false
+4089;7723;Furtwangen im Schwarzwald;false
+4090;7724;St Georgen im Schwarzwald;false
+4091;7725;Königsfeld im Schwarzwald;false
+4092;7726;Bad Dürrheim;false
+4093;7727;Vöhrenbach;false
+4094;7728;Niedereschach;false
+4095;7729;Tennenbronn;false
+4096;7731;Singen Hohentwiel;false
+4097;7732;Radolfzell am Bodensee;false
+4098;7733;Engen Hegau;false
+4099;7734;Gailingen;false
+4100;7735;Öhningen;false
+4101;7736;Tengen;false
+4102;7738;Steisslingen;false
+4103;7739;Hilzingen;false
+4104;7741;Tiengen Hochrhein;false
+4105;7742;Klettgau;false
+4106;7743;Ühlingen-Birkendorf;false
+4107;7744;Stühlingen;false
+4108;7745;Jestetten;false
+4109;7746;Wutöschingen;false
+4110;7747;Berau;false
+4111;7748;Grafenhausen Hochschwarzw;false
+4112;7751;Waldshut;false
+4113;7753;Albbruck;false
+4114;7754;Görwihl;false
+4115;7755;Weilheim Kr Waldshut;false
+4116;7761;Bad Säckingen;false
+4117;7762;Wehr Baden;false
+4118;7763;Murg;false
+4119;7764;Herrischried;false
+4120;7765;Rickenbach Hotzenw;false
+4121;7771;Stockach;false
+4122;7773;Bodman-Ludwigshafen;false
+4123;7774;Eigeltingen;false
+4124;7775;Mühlingen;false
+4125;7777;Sauldorf;false
+4126;7802;Oberkirch Baden;false
+4127;7803;Gengenbach;false
+4128;7804;Oppenau;false
+4129;7805;Appenweier;false
+4130;7806;Bad Peterstal-Griesbach;false
+4131;7807;Neuried Ortenaukreis;false
+4132;7808;Hohberg b Offenburg;false
+4133;781;Offenburg;false
+4134;7821;Lahr Schwarzwald;false
+4135;7822;Ettenheim;false
+4136;7823;Seelbach Schutter;false
+4137;7824;Schwanau;false
+4138;7825;Kippenheim;false
+4139;7826;Schuttertal;false
+4140;7831;Hausach;false
+4141;7832;Haslach im Kinzigtal;false
+4142;7833;Hornberg Schwarzwaldbahn;false
+4143;7834;Wolfach;false
+4144;7835;Zell am Harmersbach;false
+4145;7836;Schiltach;false
+4146;7837;Oberharmersbach;false
+4147;7838;Nordrach;false
+4148;7839;Schapbach;false
+4149;7841;Achern;false
+4150;7842;Kappelrodeck;false
+4151;7843;Renchen;false
+4152;7844;Rheinau;false
+4153;7851;Kehl;false
+4154;7852;Willstätt;false
+4155;7853;Kehl-Bodersweier;false
+4156;7854;Kehl-Goldscheuer;false
+4157;7903;Mainhardt;false
+4158;7904;Ilshofen;false
+4159;7905;Langenburg;false
+4160;7906;Braunsbach;false
+4161;7907;Schwäbisch Hall-Sulzdorf;false
+4162;791;Schwäbisch Hall;false
+4163;7930;Boxberg Baden;false
+4164;7931;Bad Mergentheim;false
+4165;7932;Niederstetten Württ;false
+4166;7933;Creglingen;false
+4167;7934;Weikersheim;false
+4168;7935;Schrozberg;false
+4169;7936;Schrozberg-Bartenstein;false
+4170;7937;Dörzbach;false
+4171;7938;Mulfingen Jagst;false
+4172;7939;Schrozberg-Spielbach;false
+4173;7940;Künzelsau;false
+4174;7941;Öhringen;false
+4175;7942;Neuenstein Württ;false
+4176;7943;Schöntal Jagst;false
+4177;7944;Kupferzell;false
+4178;7945;Wüstenrot;false
+4179;7946;Bretzfeld;false
+4180;7947;Forchtenberg;false
+4181;7948;Öhringen-Ohrnberg;false
+4182;7949;Pfedelbach-Untersteinbach;false
+4183;7950;Schnelldorf;false
+4184;7951;Crailsheim;false
+4185;7952;Gerabronn;false
+4186;7953;Blaufelden;false
+4187;7954;Kirchberg an der Jagst;false
+4188;7955;Wallhausen Württ;false
+4189;7957;Kressberg;false
+4190;7958;Rot Am See-Brettheim;false
+4191;7959;Frankenhardt;false
+4192;7961;Ellwangen Jagst;false
+4193;7962;Fichtenau;false
+4194;7963;Adelmannsfelden;false
+4195;7964;Stödtlen;false
+4196;7965;Ellwangen-Röhlingen;false
+4197;7966;Unterschneidheim;false
+4198;7967;Jagstzell;false
+4199;7971;Gaildorf;false
+4200;7972;Gschwend b Gaildorf;false
+4201;7973;Obersontheim;false
+4202;7974;Bühlerzell;false
+4203;7975;Untergröningen;false
+4204;7976;Sulzbach-Laufen;false
+4205;7977;Oberrot b Gaildorf;false
+4206;8020;Weyarn;false
+4207;8021;Waakirchen;false
+4208;8022;Tegernsee;false
+4209;8023;Bayrischzell;false
+4210;8024;Holzkirchen;false
+4211;8025;Miesbach;false
+4212;8026;Hausham;false
+4213;8027;Dietramszell;false
+4214;8028;Fischbachau;false
+4215;8029;Kreuth b Tegernsee;false
+4216;8031;Rosenheim Oberbay;false
+4217;8032;Rohrdorf Kr Rosenheim;false
+4218;8033;Oberaudorf;false
+4219;8034;Brannenburg;false
+4220;8035;Raubling;false
+4221;8036;Stephanskirchen Simssee;false
+4222;8038;Vogtareuth;false
+4223;8039;Rott a Inn;false
+4224;8041;Bad Tölz;false
+4225;8042;Lenggries;false
+4226;8043;Jachenau;false
+4227;8045;Lenggries-Fall;false
+4228;8046;Bad Heilbrunn;false
+4229;8051;Prien a Chiemsee;false
+4230;8052;Aschau i Chiemgau;false
+4231;8053;Bad Endorf;false
+4232;8054;Breitbrunn a Chiemsee;false
+4233;8055;Halfing;false
+4234;8056;Eggstätt;false
+4235;8057;Aschau-Sachrang;false
+4236;8061;Bad Aibling;false
+4237;8062;Bruckmühl Mangfall;false
+4238;8063;Feldkirchen-Westerham;false
+4239;8064;Au b Bad Aibling;false
+4240;8065;Tuntenhausen-Schönau;false
+4241;8066;Bad Feilnbach;false
+4242;8067;Tuntenhausen;false
+4243;8071;Wasserburg a Inn;false
+4244;8072;Haag i OB;false
+4245;8073;Gars a Inn;false
+4246;8074;Schnaitsee;false
+4247;8075;Amerang;false
+4248;8076;Pfaffing;false
+4249;8081;Dorfen Stadt;false
+4250;8082;Schwindegg;false
+4251;8083;Isen;false
+4252;8084;Taufkirchen Vils;false
+4253;8085;Sankt Wolfgang;false
+4254;8086;Buchbach Oberbay;false
+4255;8091;Kirchseeon;false
+4256;8092;Grafing b München;false
+4257;8093;Glonn Kr Ebersberg;false
+4258;8094;Steinhöring;false
+4259;8095;Aying;false
+4260;8102;Höhenkirchen-Siegertsbrunn;false
+4261;8104;Sauerlach;false
+4262;8105;Gilching;false
+4263;8106;Vaterstetten;false
+4264;811;Hallbergmoos;false
+4265;8121;Markt Schwaben;false
+4266;8122;Erding;false
+4267;8123;Moosinning;false
+4268;8124;Forstern Oberbay;false
+4269;8131;Dachau;false
+4270;8133;Haimhausen Oberbay;false
+4271;8134;Odelzhausen;false
+4272;8135;Sulzemoos;false
+4273;8136;Markt Indersdorf;false
+4274;8137;Petershausen;false
+4275;8138;Schwabhausen b Dachau;false
+4276;8139;Röhrmoos;false
+4277;8141;Fürstenfeldbruck;false
+4278;8142;Olching;false
+4279;8143;Inning a Ammersee;false
+4280;8144;Grafrath;false
+4281;8145;Mammendorf;false
+4282;8146;Moorenweis;false
+4283;8151;Starnberg;false
+4284;8152;Herrsching a Ammersee;false
+4285;8153;Wessling;false
+4286;8157;Feldafing;false
+4287;8158;Tutzing;false
+4288;8161;Freising;false
+4289;8165;Neufahrn b Freising;false
+4290;8166;Allershausen Oberbay;false
+4291;8167;Zolling;false
+4292;8168;Attenkirchen;false
+4293;8170;Straßlach-Dingharting;false
+4294;8171;Wolfratshausen;false
+4295;8176;Egling b Wolfratshausen;false
+4296;8177;Münsing Starnberger See;false
+4297;8178;Icking;false
+4298;8179;Eurasburg a d Loisach;false
+4299;8191;Landsberg a Lech;false
+4300;8192;Schondorf a Ammersee;false
+4301;8193;Geltendorf;false
+4302;8194;Vilgertshofen;false
+4303;8195;Weil Kr Landsberg a Lech;false
+4304;8196;Pürgen;false
+4305;8202;Althegnenberg;false
+4306;8203;Grossaitingen;false
+4307;8204;Mickhausen;false
+4308;8205;Dasing;false
+4309;8206;Egling a d Paar;false
+4310;8207;Affing;false
+4311;8208;Eurasburg b Augsburg;false
+4312;821;Augsburg;false
+4313;8221;Günzburg;false
+4314;8222;Burgau Schwab;false
+4315;8223;Ichenhausen;false
+4316;8224;Offingen Donau;false
+4317;8225;Jettingen-Scheppach;false
+4318;8226;Bibertal;false
+4319;8230;Gablingen;false
+4320;8231;Königsbrunn b Augsburg;false
+4321;8232;Schwabmünchen;false
+4322;8233;Kissing;false
+4323;8234;Bobingen;false
+4324;8236;Fischach;false
+4325;8237;Aindling;false
+4326;8238;Gessertshausen;false
+4327;8239;Langenneufnach;false
+4328;8241;Buchloe;false
+4329;8243;Fuchstal;false
+4330;8245;Türkheim Wertach;false
+4331;8246;Waal;false
+4332;8247;Bad Wörishofen;false
+4333;8248;Lamerdingen;false
+4334;8249;Ettringen Wertach;false
+4335;8250;Hilgertshausen-Tandern;false
+4336;8251;Aichach;false
+4337;8252;Schrobenhausen;false
+4338;8253;Pöttmes;false
+4339;8254;Altomünster;false
+4340;8257;Inchenhofen;false
+4341;8258;Sielenbach;false
+4342;8259;Schiltberg;false
+4343;8261;Mindelheim;false
+4344;8262;Mittelneufnach;false
+4345;8263;Breitenbrunn Schwab;false
+4346;8265;Pfaffenhausen Schwab;false
+4347;8266;Kirchheim i Schw;false
+4348;8267;Dirlewang;false
+4349;8268;Tussenhausen;false
+4350;8269;Unteregg b Mindelheim;false
+4351;8271;Meitingen;false
+4352;8272;Wertingen;false
+4353;8273;Nordendorf;false
+4354;8274;Buttenwiesen;false
+4355;8276;Baar Schwaben;false
+4356;8281;Thannhausen Schwab;false
+4357;8282;Krumbach Schwaben;false
+4358;8283;Neuburg a d Kammel;false
+4359;8284;Ziemetshausen;false
+4360;8285;Burtenbach;false
+4361;8291;Zusmarshausen;false
+4362;8292;Dinkelscherben;false
+4363;8293;Welden b Augsburg;false
+4364;8294;Horgau;false
+4365;8295;Altenmünster Schwab;false
+4366;8296;Villenbach;false
+4367;8302;Görisried;false
+4368;8303;Waltenhofen;false
+4369;8304;Wildpoldsried;false
+4370;8306;Ronsberg;false
+4371;831;Kempten Allgäu;false
+4372;8320;Missen-Wilhams;false
+4373;8321;Sonthofen;false
+4374;8322;Oberstdorf;false
+4375;8323;Immenstadt i Allgäu;false
+4376;8324;Hindelang;false
+4377;8325;Oberstaufen-Thalkirchdorf;false
+4378;8326;Fischen i Allgäu;false
+4379;8327;Rettenberg;false
+4380;8328;Balderschwang;false
+4381;8330;Legau;false
+4382;8331;Memmingen;false
+4383;8332;Ottobeuren;false
+4384;8333;Babenhausen Schwab;false
+4385;8334;Bad Grönenbach;false
+4386;8335;Fellheim;false
+4387;8336;Erkheim;false
+4388;8337;Altenstadt Iller;false
+4389;8338;Böhen;false
+4390;8340;Baisweil;false
+4391;8341;Kaufbeuren;false
+4392;8342;Marktoberdorf;false
+4393;8343;Aitrang;false
+4394;8344;Westendorf b Kaufbeuren;false
+4395;8345;Stöttwang;false
+4396;8346;Pforzen;false
+4397;8347;Friesenried;false
+4398;8348;Bidingen;false
+4399;8349;Stötten a Auerberg;false
+4400;8361;Nesselwang;false
+4401;8362;Füssen;false
+4402;8363;Pfronten;false
+4403;8364;Seeg;false
+4404;8365;Wertach;false
+4405;8366;Oy-Mittelberg;false
+4406;8367;Roßhaupten Forggensee;false
+4407;8368;Halblech;false
+4408;8369;Rückholz;false
+4409;8370;Wiggensbach;false
+4410;8372;Obergünzburg;false
+4411;8373;Altusried;false
+4412;8374;Dietmannsried;false
+4413;8375;Weitnau;false
+4414;8376;Sulzberg Allgäu;false
+4415;8377;Unterthingau;false
+4416;8378;Buchenberg b Kempten;false
+4417;8379;Waltenhofen-Oberdorf;false
+4418;8380;Achberg;false
+4419;8381;Lindenberg i Allgäu;false
+4420;8382;Lindau Bodensee;false
+4421;8383;Grünenbach Allgäu;false
+4422;8384;Röthenbach Allgäu;false
+4423;8385;Hergatz;false
+4424;8386;Oberstaufen;false
+4425;8387;Weiler-Simmerberg;false
+4426;8388;Hergensweiler;false
+4427;8389;Weissensberg;false
+4428;8392;Markt Rettenbach;false
+4429;8393;Holzgünz;false
+4430;8394;Lautrach;false
+4431;8395;Tannheim Württ;false
+4432;8402;Münchsmünster;false
+4433;8403;Pförring;false
+4434;8404;Oberdolling;false
+4435;8405;Stammham b Ingolstadt;false
+4436;8406;Böhmfeld;false
+4437;8407;Grossmehring;false
+4438;841;Ingolstadt Donau;false
+4439;8421;Eichstätt Bay;false
+4440;8422;Dollnstein;false
+4441;8423;Titting;false
+4442;8424;Nassenfels;false
+4443;8426;Walting Kr Eichstätt;false
+4444;8427;Wellheim;false
+4445;8431;Neuburg a d Donau;false
+4446;8432;Burgheim;false
+4447;8433;Königsmoos;false
+4448;8434;Rennertshofen;false
+4449;8435;Ehekirchen;false
+4450;8441;Pfaffenhofen a d Ilm;false
+4451;8442;Wolnzach;false
+4452;8443;Hohenwart Paar;false
+4453;8444;Schweitenkirchen;false
+4454;8445;Gerolsbach;false
+4455;8446;Pörnbach;false
+4456;8450;Ingolstadt-Zuchering;false
+4457;8452;Geisenfeld;false
+4458;8453;Reichertshofen Oberbay;false
+4459;8454;Karlshuld;false
+4460;8456;Lenting;false
+4461;8457;Vohburg a d Donau;false
+4462;8458;Gaimersheim;false
+4463;8459;Manching;false
+4464;8460;Berching-Holnstein;false
+4465;8461;Beilngries;false
+4466;8462;Berching;false
+4467;8463;Greding;false
+4468;8464;Dietfurt a d Altmühl;false
+4469;8465;Kipfenberg;false
+4470;8466;Denkendorf Oberbay;false
+4471;8467;Kinding;false
+4472;8468;Altmannstein-Pondorf;false
+4473;8469;Freystadt-Burggriesbach;false
+4474;8501;Thyrnau;false
+4475;8502;Fürstenzell;false
+4476;8503;Neuhaus a Inn;false
+4477;8504;Tittling;false
+4478;8505;Hutthurm;false
+4479;8506;Bad Höhenstadt;false
+4480;8507;Neuburg a Inn;false
+4481;8509;Ruderting;false
+4482;851;Passau;false
+4483;8531;Pocking;false
+4484;8532;Griesbach i Rottal;false
+4485;8533;Rotthalmünster;false
+4486;8534;Tettenweis;false
+4487;8535;Haarbach;false
+4488;8536;Kößlarn;false
+4489;8537;Bad Füssing-Aigen;false
+4490;8538;Pocking-Hartkirchen;false
+4491;8541;Vilshofen Niederbay;false
+4492;8542;Ortenburg;false
+4493;8543;Aidenbach;false
+4494;8544;Eging a See;false
+4495;8545;Hofkirchen Bay;false
+4496;8546;Windorf-Otterskirchen;false
+4497;8547;Osterhofen-Gergweis;false
+4498;8548;Vilshofen-Sandbach;false
+4499;8549;Vilshofen-Pleinting;false
+4500;8550;Philippsreut;false
+4501;8551;Freyung;false
+4502;8552;Grafenau Niederbay;false
+4503;8553;Spiegelau;false
+4504;8554;Schönberg Niederbay;false
+4505;8555;Perlesreut;false
+4506;8556;Haidmühle;false
+4507;8557;Mauth;false
+4508;8558;Hohenau Niederbay;false
+4509;8561;Pfarrkirchen Niederbay;false
+4510;8562;Triftern;false
+4511;8563;Bad Birnbach Rottal;false
+4512;8564;Johanniskirchen;false
+4513;8565;Dietersburg-Baumgarten;false
+4514;8571;Simbach a Inn;false
+4515;8572;Tann Niederbay;false
+4516;8573;Ering;false
+4517;8574;Wittibreut;false
+4518;8581;Waldkirchen Niederbay;false
+4519;8582;Röhrnbach;false
+4520;8583;Neureichenau;false
+4521;8584;Breitenberg Niederbay;false
+4522;8585;Grainet;false
+4523;8586;Hauzenberg;false
+4524;8591;Obernzell;false
+4525;8592;Wegscheid Niederbay;false
+4526;8593;Untergriesbach;false
+4527;861;Traunstein;false
+4528;8621;Trostberg;false
+4529;8622;Tacherting- Peterskirchen;false
+4530;8623;Kirchweidach;false
+4531;8624;Obing;false
+4532;8628;Kienberg Oberbay;false
+4533;8629;Palling;false
+4534;8630;Oberneukirchen;false
+4535;8631;Mühldorf a Inn;false
+4536;8633;Tüßling;false
+4537;8634;Garching a d Alz;false
+4538;8635;Pleiskirchen;false
+4539;8636;Ampfing;false
+4540;8637;Lohkirchen;false
+4541;8638;Waldkraiburg;false
+4542;8639;Neumarkt-Sankt Veit;false
+4543;8640;Reit Im Winkl;false
+4544;8641;Grassau Kr Traunstein;false
+4545;8642;Übersee;false
+4546;8649;Schleching;false
+4547;8650;Marktschellenberg;false
+4548;8651;Bad Reichenhall;false
+4549;8652;Berchtesgaden;false
+4550;8654;Freilassing;false
+4551;8656;Anger;false
+4552;8657;Ramsau b Berchtesgaden;false
+4553;8661;Grabenstätt Chiemsee;false
+4554;8662;Siegsdorf Kr Traunstein;false
+4555;8663;Ruhpolding;false
+4556;8664;Chieming;false
+4557;8665;Inzell;false
+4558;8666;Teisendorf;false
+4559;8667;Seeon-Seebruck;false
+4560;8669;Traunreut;false
+4561;8670;Reischach Kr Altötting;false
+4562;8671;Altötting;false
+4563;8677;Burghausen Salzach;false
+4564;8678;Marktl;false
+4565;8679;Burgkirchen a d Alz;false
+4566;8681;Waging a See;false
+4567;8682;Laufen Salzach;false
+4568;8683;Tittmoning;false
+4569;8684;Fridolfing;false
+4570;8685;Kirchanschöring;false
+4571;8686;Petting;false
+4572;8687;Taching-Tengling;false
+4573;8702;Wörth a d Isar;false
+4574;8703;Essenbach;false
+4575;8704;Altdorf-Pfettrach;false
+4576;8705;Altfraunhofen;false
+4577;8706;Vilsheim;false
+4578;8707;Adlkofen;false
+4579;8708;Weihmichl-Unterneuhausen;false
+4580;8709;Eching Niederbay;false
+4581;871;Landshut;false
+4582;8721;Eggenfelden;false
+4583;8722;Gangkofen;false
+4584;8723;Arnstorf;false
+4585;8724;Massing;false
+4586;8725;Wurmannsquick;false
+4587;8726;Schönau Niederbay;false
+4588;8727;Falkenberg Niederbay;false
+4589;8728;Geratskirchen;false
+4590;8731;Dingolfing;false
+4591;8732;Frontenhausen;false
+4592;8733;Mengkofen;false
+4593;8734;Reisbach Niederbay;false
+4594;8735;Gangkofen-Kollbach;false
+4595;8741;Vilsbiburg;false
+4596;8742;Velden Vils;false
+4597;8743;Geisenhausen;false
+4598;8744;Gerzen;false
+4599;8745;Bodenkirchen;false
+4600;8751;Mainburg;false
+4601;8752;Au i d Hallertau;false
+4602;8753;Elsendorf Niederbay;false
+4603;8754;Volkenschwand;false
+4604;8756;Nandlstadt;false
+4605;8761;Moosburg a d Isar;false
+4606;8762;Wartenberg Oberbay;false
+4607;8764;Mauern Kr Freising;false
+4608;8765;Bruckberg Niederbay;false
+4609;8766;Gammelsdorf;false
+4610;8771;Ergoldsbach;false
+4611;8772;Mallersdorf-Pfaffenberg;false
+4612;8773;Neufahrn i NB;false
+4613;8774;Bayerbach b Ergoldsbach;false
+4614;8781;Rottenburg a d Laaber;false
+4615;8782;Pfeffenhausen;false
+4616;8783;Rohr i NB;false
+4617;8784;Hohenthann;false
+4618;8785;Rottenburg-Oberroning;false
+4619;8801;Seeshaupt;false
+4620;8802;Huglfing;false
+4621;8803;Peissenberg;false
+4622;8805;Hohenpeissenberg;false
+4623;8806;Utting a Ammersee;false
+4624;8807;Dießen a Ammersee;false
+4625;8808;Pähl;false
+4626;8809;Wessobrunn;false
+4627;881;Weilheim i OB;false
+4628;8821;Garmisch-Partenkirchen;false
+4629;8822;Oberammergau;false
+4630;8823;Mittenwald;false
+4631;8824;Oberau Loisach;false
+4632;8825;Krün;false
+4633;8841;Murnau a Staffelsee;false
+4634;8845;Bad Kohlgrub;false
+4635;8846;Uffing a Staffelsee;false
+4636;8847;Obersöchering;false
+4637;8851;Kochel a See;false
+4638;8856;Penzberg;false
+4639;8857;Benediktbeuern;false
+4640;8858;Kochel-Walchensee;false
+4641;8860;Bernbeuren;false
+4642;8861;Schongau;false
+4643;8862;Steingaden Oberbay;false
+4644;8867;Rottenbuch Oberbay;false
+4645;8868;Schwabsoien;false
+4646;8869;Kinsau;false
+4647;89;München;false
+4648;906;Donauwörth;false
+4649;9070;Tapfheim;false
+4650;9071;Dillingen a d Donau;false
+4651;9072;Lauingen Donau;false
+4652;9073;Gundelfingen a d Donau;false
+4653;9074;Höchstädt a d Donau;false
+4654;9075;Glött;false
+4655;9076;Wittislingen;false
+4656;9077;Bachhagel;false
+4657;9078;Mertingen;false
+4658;9080;Harburg Schwaben;false
+4659;9081;Nördlingen;false
+4660;9082;Oettingen i Bay;false
+4661;9083;Möttingen;false
+4662;9084;Bissingen Schwab;false
+4663;9085;Alerheim;false
+4664;9086;Fremdingen;false
+4665;9087;Marktoffingen;false
+4666;9088;Mönchsdeggingen;false
+4667;9089;Bissingen-Unterringingen;false
+4668;9090;Rain Lech;false
+4669;9091;Monheim Schwab;false
+4670;9092;Wemding;false
+4671;9093;Polsingen;false
+4672;9094;Tagmersheim;false
+4673;9097;Marxheim;false
+4674;9099;Kaisheim;false
+4675;9101;Langenzenn;false
+4676;9102;Wilhermsdorf;false
+4677;9103;Cadolzburg;false
+4678;9104;Emskirchen;false
+4679;9105;Grosshabersdorf;false
+4680;9106;Markt Erlbach;false
+4681;9107;Trautskirchen;false
+4682;911;Nürnberg;false
+4683;9120;Leinburg;false
+4684;9122;Schwabach;false
+4685;9123;Lauf a d Pegnitz;false
+4686;9126;Eckental;false
+4687;9127;Rosstal Mittelfr;false
+4688;9128;Feucht;false
+4689;9129;Wendelstein;false
+4690;9131;Erlangen;false
+4691;9132;Herzogenaurach;false
+4692;9133;Baiersdorf Mittelfr;false
+4693;9134;Neunkirchen a Brand;false
+4694;9135;Heßdorf Mittelfr;false
+4695;9141;Weißenburg i Bay;false
+4696;9142;Treuchtlingen;false
+4697;9143;Pappenheim Mittelfr;false
+4698;9144;Pleinfeld;false
+4699;9145;Solnhofen;false
+4700;9146;Markt Berolzheim;false
+4701;9147;Nennslingen;false
+4702;9148;Ettenstatt;false
+4703;9149;Weissenburg-Suffersheim;false
+4704;9151;Hersbruck;false
+4705;9152;Hartenstein Mittelfr;false
+4706;9153;Schnaittach;false
+4707;9154;Pommelsbrunn;false
+4708;9155;Simmelsdorf;false
+4709;9156;Neuhaus a d Pegnitz;false
+4710;9157;Alfeld Mittelfr;false
+4711;9158;Offenhausen Mittelfr;false
+4712;9161;Neustadt a d Aisch;false
+4713;9162;Scheinfeld;false
+4714;9163;Dachsbach;false
+4715;9164;Langenfeld Mittelfr;false
+4716;9165;Sugenheim;false
+4717;9166;Münchsteinach;false
+4718;9167;Oberscheinfeld;false
+4719;9170;Schwanstetten;false
+4720;9171;Roth Mittelfr;false
+4721;9172;Georgensgmünd;false
+4722;9173;Thalmässing;false
+4723;9174;Hilpoltstein;false
+4724;9175;Spalt;false
+4725;9176;Allersberg;false
+4726;9177;Heideck;false
+4727;9178;Abenberg Mittelfr;false
+4728;9179;Freystadt;false
+4729;9180;Pyrbaum;false
+4730;9181;Neumarkt i d Opf;false
+4731;9182;Velburg;false
+4732;9183;Burgthann;false
+4733;9184;Deining Oberpf;false
+4734;9185;Mühlhausen Oberpf;false
+4735;9186;Lauterhofen Oberpf;false
+4736;9187;Altdorf b Nürnberg;false
+4737;9188;Postbauer-Heng;false
+4738;9189;Berg b Neumarkt i d Opf;false
+4739;9190;Heroldsbach;false
+4740;9191;Forchheim Oberfr;false
+4741;9192;Gräfenberg;false
+4742;9193;Höchstadt a d Aisch;false
+4743;9194;Ebermannstadt;false
+4744;9195;Adelsdorf Mittelfr;false
+4745;9196;Wiesenttal;false
+4746;9197;Egloffstein;false
+4747;9198;Heiligenstadt i Ofr;false
+4748;9199;Kunreuth;false
+4749;9201;Gesees;false
+4750;9202;Waischenfeld;false
+4751;9203;Neudrossenfeld;false
+4752;9204;Plankenfels;false
+4753;9205;Vorbach;false
+4754;9206;Mistelgau-Obernsees;false
+4755;9207;Königsfeld Oberfr;false
+4756;9208;Bindlach;false
+4757;9209;Emtmannsberg;false
+4758;921;Bayreuth;false
+4759;9220;Kasendorf-Azendorf;false
+4760;9221;Kulmbach;false
+4761;9222;Presseck;false
+4762;9223;Rugendorf;false
+4763;9225;Stadtsteinach;false
+4764;9227;Neuenmarkt;false
+4765;9228;Thurnau;false
+4766;9229;Mainleus;false
+4767;9231;Marktredwitz;false
+4768;9232;Wunsiedel;false
+4769;9233;Arzberg Oberfr;false
+4770;9234;Neusorg;false
+4771;9235;Thierstein;false
+4772;9236;Nagel;false
+4773;9238;Röslau;false
+4774;9241;Pegnitz;false
+4775;9242;Gößweinstein;false
+4776;9243;Pottenstein;false
+4777;9244;Betzenstein;false
+4778;9245;Obertrubach;false
+4779;9246;Pegnitz-Trockau;false
+4780;9251;Münchberg;false
+4781;9252;Helmbrechts;false
+4782;9253;Weissenstadt;false
+4783;9254;Gefrees;false
+4784;9255;Marktleugast;false
+4785;9256;Stammbach;false
+4786;9257;Zell Oberfr;false
+4787;9260;Wilhelmsthal Oberfr;false
+4788;9261;Kronach;false
+4789;9262;Wallenfels;false
+4790;9263;Ludwigsstadt;false
+4791;9264;Küps;false
+4792;9265;Pressig;false
+4793;9266;Mitwitz;false
+4794;9267;Nordhalben;false
+4795;9268;Teuschnitz;false
+4796;9269;Tettau Kr Kronach;false
+4797;9270;Creussen;false
+4798;9271;Thurnau-Alladorf;false
+4799;9272;Fichtelberg;false
+4800;9273;Bad Berneck i Fichtelgebirge;false
+4801;9274;Hollfeld;false
+4802;9275;Speichersdorf;false
+4803;9276;Bischofsgrün;false
+4804;9277;Warmensteinach;false
+4805;9278;Weidenberg;false
+4806;9279;Mistelgau;false
+4807;9280;Selbitz Oberfr;false
+4808;9281;Hof Saale;false
+4809;9282;Naila;false
+4810;9283;Rehau;false
+4811;9284;Schwarzenbach a d Saale;false
+4812;9285;Kirchenlamitz;false
+4813;9286;Oberkotzau;false
+4814;9287;Selb;false
+4815;9288;Bad Steben;false
+4816;9289;Schwarzenbach a Wald;false
+4817;9292;Konradsreuth;false
+4818;9293;Berg Oberfr;false
+4819;9294;Regnitzlosau;false
+4820;9295;Töpen;false
+4821;9302;Rottendorf Unterfr;false
+4822;9303;Eibelstadt;false
+4823;9305;Estenfeld;false
+4824;9306;Kist;false
+4825;9307;Altertheim;false
+4826;931;Würzburg;false
+4827;9321;Kitzingen;false
+4828;9323;Iphofen;false
+4829;9324;Dettelbach;false
+4830;9325;Kleinlangheim;false
+4831;9326;Markt Einersheim;false
+4832;9331;Ochsenfurt;false
+4833;9332;Marktbreit;false
+4834;9333;Sommerhausen;false
+4835;9334;Giebelstadt;false
+4836;9335;Aub Kr Würzburg;false
+4837;9336;Bütthard;false
+4838;9337;Gaukönigshofen;false
+4839;9338;Röttingen Unterfr;false
+4840;9339;Ippesheim;false
+4841;9340;Königheim-Brehmen;false
+4842;9341;Tauberbischofsheim;false
+4843;9342;Wertheim;false
+4844;9343;Lauda-Königshofen;false
+4845;9344;Gerchsheim;false
+4846;9345;Külsheim Baden;false
+4847;9346;Grünsfeld;false
+4848;9347;Wittighausen;false
+4849;9348;Werbach-Gamburg;false
+4850;9349;Werbach-Wenkheim;false
+4851;9350;Eussenheim-Hundsbach;false
+4852;9351;Gemünden a Main;false
+4853;9352;Lohr a Main;false
+4854;9353;Karlstadt;false
+4855;9354;Rieneck;false
+4856;9355;Frammersbach;false
+4857;9356;Burgsinn;false
+4858;9357;Gräfendorf Bay;false
+4859;9358;Gössenheim;false
+4860;9359;Karlstadt-Wiesenfeld;false
+4861;9360;Thüngen;false
+4862;9363;Arnstein Unterfr;false
+4863;9364;Zellingen;false
+4864;9365;Rimpar;false
+4865;9366;Geroldshausen Unterfr;false
+4866;9367;Unterpleichfeld;false
+4867;9369;Uettingen;false
+4868;9371;Miltenberg;false
+4869;9372;Klingenberg a Main;false
+4870;9373;Amorbach;false
+4871;9374;Eschau;false
+4872;9375;Freudenberg Baden;false
+4873;9376;Collenberg;false
+4874;9377;Freudenberg-Boxtal;false
+4875;9378;Eichenbühl-Riedern;false
+4876;9381;Volkach;false
+4877;9382;Gerolzhofen;false
+4878;9383;Wiesentheid;false
+4879;9384;Schwanfeld;false
+4880;9385;Kolitzheim;false
+4881;9386;Prosselsheim;false
+4882;9391;Marktheidenfeld;false
+4883;9392;Faulbach Unterfr;false
+4884;9393;Rothenfels Unterfr;false
+4885;9394;Esselbach;false
+4886;9395;Triefenstein;false
+4887;9396;Urspringen b Lohr;false
+4888;9397;Wertheim-Dertingen;false
+4889;9398;Birkenfeld b Würzburg;false
+4890;9401;Neutraubling;false
+4891;9402;Regenstauf;false
+4892;9403;Donaustauf;false
+4893;9404;Nittendorf;false
+4894;9405;Bad Abbach;false
+4895;9406;Mintraching;false
+4896;9407;Wenzenbach;false
+4897;9408;Altenthann;false
+4898;9409;Pielenhofen;false
+4899;941;Regensburg;false
+4900;9420;Feldkirchen Niederbay;false
+4901;9421;Straubing;false
+4902;9422;Bogen Niederbay;false
+4903;9423;Geiselhöring;false
+4904;9424;Strasskirchen;false
+4905;9426;Oberschneiding;false
+4906;9427;Leiblfing;false
+4907;9428;Kirchroth;false
+4908;9429;Rain Niederbay;false
+4909;9431;Schwandorf;false
+4910;9433;Nabburg;false
+4911;9434;Bodenwöhr;false
+4912;9435;Schwarzenfeld;false
+4913;9436;Nittenau;false
+4914;9438;Fensterbach;false
+4915;9439;Neunburg-Kemnath;false
+4916;9441;Kelheim;false
+4917;9442;Riedenburg;false
+4918;9443;Abensberg;false
+4919;9444;Siegenburg;false
+4920;9445;Neustadt a d Donau;false
+4921;9446;Altmannstein;false
+4922;9447;Essing;false
+4923;9448;Hausen Niederbay;false
+4924;9451;Schierling;false
+4925;9452;Langquaid;false
+4926;9453;Thalmassing;false
+4927;9454;Aufhausen Oberpf;false
+4928;9461;Roding;false
+4929;9462;Falkenstein Oberpf;false
+4930;9463;Wald Oberpf;false
+4931;9464;Walderbach;false
+4932;9465;Neukirchen-Balbini;false
+4933;9466;Stamsried;false
+4934;9467;Michelsneukirchen;false
+4935;9468;Zell Oberpf;false
+4936;9469;Roding-Neubäu;false
+4937;9471;Burglengenfeld;false
+4938;9472;Hohenfels Oberpf;false
+4939;9473;Kallmünz;false
+4940;9474;Schmidmühlen;false
+4941;9480;Sünching;false
+4942;9481;Pfatter;false
+4943;9482;Wörth a d Donau;false
+4944;9484;Brennberg;false
+4945;9491;Hemau;false
+4946;9492;Parsberg;false
+4947;9493;Beratzhausen;false
+4948;9495;Breitenbrunn Oberpf;false
+4949;9497;Seubersdorf i d Opf;false
+4950;9498;Laaber;false
+4951;9499;Painten;false
+4952;9502;Frensdorf;false
+4953;9503;Oberhaid Oberfr;false
+4954;9504;Stadelhofen;false
+4955;9505;Litzendorf;false
+4956;951;Bamberg;false
+4957;9521;Hassfurt;false
+4958;9522;Eltmann;false
+4959;9523;Hofheim i Ufr;false
+4960;9524;Zeil a Main;false
+4961;9525;Königsberg i Bay;false
+4962;9526;Riedbach;false
+4963;9527;Knetzgau;false
+4964;9528;Donnersdorf;false
+4965;9529;Oberaurach;false
+4966;9531;Ebern;false
+4967;9532;Maroldsweisach;false
+4968;9533;Untermerzbach;false
+4969;9534;Burgpreppach;false
+4970;9535;Pfarrweisach;false
+4971;9536;Kirchlauter;false
+4972;9542;Schesslitz;false
+4973;9543;Hirschaid;false
+4974;9544;Baunach;false
+4975;9545;Buttenheim;false
+4976;9546;Burgebrach;false
+4977;9547;Zapfendorf;false
+4978;9548;Mühlhausen Mittelfr;false
+4979;9549;Lisberg;false
+4980;9551;Burgwindheim;false
+4981;9552;Burghaslach;false
+4982;9553;Ebrach Oberfr;false
+4983;9554;Untersteinbach Unterfr;false
+4984;9555;Schlüsselfeld-Aschbach;false
+4985;9556;Geiselwind;false
+4986;9560;Grub a Forst;false
+4987;9561;Coburg;false
+4988;9562;Sonnefeld;false
+4989;9563;Rödental;false
+4990;9564;Bad Rodach;false
+4991;9565;Untersiemau;false
+4992;9566;Meeder;false
+4993;9567;Seßlach-Gemünda;false
+4994;9568;Neustadt b Coburg;false
+4995;9569;Sesslach;false
+4996;9571;Lichtenfels Bay;false
+4997;9572;Burgkunstadt;false
+4998;9573;Staffelstein Oberfr;false
+4999;9574;Marktzeuln;false
+5000;9575;Weismain;false
+5001;9576;Lichtenfels-Isling;false
+5002;9602;Neustadt a d Waldnaab;false
+5003;9603;Floss;false
+5004;9604;Wernberg-Köblitz;false
+5005;9605;Weiherhammer;false
+5006;9606;Pfreimd;false
+5007;9607;Luhe-Wildenau;false
+5008;9608;Kohlberg Oberpf;false
+5009;961;Weiden i d Opf;false
+5010;9621;Amberg Oberpf;false
+5011;9622;Hirschau Oberpf;false
+5012;9624;Ensdorf Oberpf;false
+5013;9625;Kastl b Amberg;false
+5014;9626;Hohenburg;false
+5015;9627;Freudenberg Oberpf;false
+5016;9628;Ursensollen;false
+5017;9631;Tirschenreuth;false
+5018;9632;Waldsassen;false
+5019;9633;Mitterteich;false
+5020;9634;Wiesau;false
+5021;9635;Bärnau;false
+5022;9636;Plößberg;false
+5023;9637;Falkenberg Oberpf;false
+5024;9638;Neualbenreuth;false
+5025;9639;Mähring;false
+5026;9641;Grafenwöhr;false
+5027;9642;Kemnath Stadt;false
+5028;9643;Auerbach i d Opf;false
+5029;9644;Pressath;false
+5030;9645;Eschenbach i d Opf;false
+5031;9646;Freihung;false
+5032;9647;Kirchenthumbach;false
+5033;9648;Neustadt a Kulm;false
+5034;9651;Vohenstrauss;false
+5035;9652;Waidhaus;false
+5036;9653;Eslarn;false
+5037;9654;Pleystein;false
+5038;9655;Tännesberg;false
+5039;9656;Moosbach b Vohenstrauß;false
+5040;9657;Waldthurn;false
+5041;9658;Georgenberg;false
+5042;9659;Leuchtenberg;false
+5043;9661;Sulzbach-Rosenberg;false
+5044;9662;Vilseck;false
+5045;9663;Neukirchen b Sulzbach-Rosenberg;false
+5046;9664;Hahnbach;false
+5047;9665;Königstein Oberpf;false
+5048;9666;Illschwang;false
+5049;9671;Oberviechtach;false
+5050;9672;Neunburg vorm Wald;false
+5051;9673;Tiefenbach Oberpf;false
+5052;9674;Schönsee;false
+5053;9675;Altendorf a Nabburg;false
+5054;9676;Winklarn;false
+5055;9677;Oberviechtach-Pullenried;false
+5056;9681;Windischeschenbach;false
+5057;9682;Erbendorf;false
+5058;9683;Friedenfels;false
+5059;9701;Sandberg Unterfr;false
+5060;9704;Euerdorf;false
+5061;9708;Bad Bocklet;false
+5062;971;Bad Kissingen;false
+5063;9720;Üchtelhausen;false
+5064;9721;Schweinfurt;false
+5065;9722;Werneck;false
+5066;9723;Röthlein;false
+5067;9724;Stadtlauringen;false
+5068;9725;Poppenhausen Unterfr;false
+5069;9726;Euerbach;false
+5070;9727;Schonungen-Marktsteinach;false
+5071;9728;Wülfershausen Unterfr;false
+5072;9729;Grettstadt;false
+5073;9732;Hammelburg;false
+5074;9733;Münnerstadt;false
+5075;9734;Burkardroth;false
+5076;9735;Massbach;false
+5077;9736;Oberthulba;false
+5078;9737;Wartmannsroth;false
+5079;9738;Rottershausen;false
+5080;9741;Bad Brückenau;false
+5081;9742;Kalbach Rhön;false
+5082;9744;Zeitlofs-Detter;false
+5083;9745;Wildflecken;false
+5084;9746;Zeitlofs;false
+5085;9747;Geroda Bay;false
+5086;9748;Motten;false
+5087;9749;Oberbach Unterfr;false
+5088;9761;Bad Königshofen i Grabfeld;false
+5089;9762;Saal a d Saale;false
+5090;9763;Sulzdorf a d Lederhecke;false
+5091;9764;Höchheim;false
+5092;9765;Trappstadt;false
+5093;9766;Grosswenkheim;false
+5094;9771;Bad Neustadt a d Saale;false
+5095;9772;Bischofsheim a d Rhön;false
+5096;9773;Unsleben;false
+5097;9774;Oberelsbach;false
+5098;9775;Schönau a d Brend;false
+5099;9776;Mellrichstadt;false
+5100;9777;Ostheim v d Rhön;false
+5101;9778;Fladungen;false
+5102;9779;Nordheim v d Rhön;false
+5103;9802;Ansbach-Katterbach;false
+5104;9803;Colmberg;false
+5105;9804;Aurach;false
+5106;9805;Burgoberbach;false
+5107;981;Ansbach;false
+5108;9820;Lehrberg;false
+5109;9822;Bechhofen a d Heide;false
+5110;9823;Leutershausen;false
+5111;9824;Dietenhofen;false
+5112;9825;Herrieden;false
+5113;9826;Weidenbach Mittelfr;false
+5114;9827;Lichtenau Mittelfr;false
+5115;9828;Rügland;false
+5116;9829;Flachslanden;false
+5117;9831;Gunzenhausen;false
+5118;9832;Wassertrüdingen;false
+5119;9833;Heidenheim Mittelfr;false
+5120;9834;Theilenhofen;false
+5121;9835;Ehingen Mittelfr;false
+5122;9836;Gunzenhausen-Cronheim;false
+5123;9837;Haundorf;false
+5124;9841;Bad Windsheim;false
+5125;9842;Uffenheim;false
+5126;9843;Burgbernheim;false
+5127;9844;Obernzenn;false
+5128;9845;Oberdachstetten;false
+5129;9846;Ipsheim;false
+5130;9847;Ergersheim;false
+5131;9848;Simmershofen;false
+5132;9851;Dinkelsbühl;false
+5133;9852;Feuchtwangen;false
+5134;9853;Wilburgstetten;false
+5135;9854;Wittelshofen;false
+5136;9855;Dentlein a Forst;false
+5137;9856;Dürrwangen;false
+5138;9857;Schopfloch Mittelfr;false
+5139;9861;Rothenburg ob der Tauber;false
+5140;9865;Adelshofen Mittelfr;false
+5141;9867;Geslau;false
+5142;9868;Schillingsfürst;false
+5143;9869;Wettringen Mittelfr;false
+5144;9871;Windsbach;false
+5145;9872;Heilsbronn;false
+5146;9873;Abenberg-Wassermungenau;false
+5147;9874;Neuendettelsau;false
+5148;9875;Wolframs-Eschenbach;false
+5149;9876;Rohr Mittelfr;false
+5150;9901;Hengersberg Bay;false
+5151;9903;Schöllnach;false
+5152;9904;Lalling;false
+5153;9905;Bernried Niederbay;false
+5154;9906;Mariaposching;false
+5155;9907;Zenting;false
+5156;9908;Schöfweg;false
+5157;991;Deggendorf;false
+5158;9920;Bischofsmais;false
+5159;9921;Regen;false
+5160;9922;Zwiesel;false
+5161;9923;Teisnach;false
+5162;9924;Bodenmais;false
+5163;9925;Bayerisch Eisenstein;false
+5164;9926;Frauenau;false
+5165;9927;Kirchberg Wald;false
+5166;9928;Kirchdorf i Wald;false
+5167;9929;Ruhmannsfelden;false
+5168;9931;Plattling;false
+5169;9932;Osterhofen;false
+5170;9933;Wallersdorf;false
+5171;9935;Stephansposching;false
+5172;9936;Wallerfing;false
+5173;9937;Oberpöring;false
+5174;9938;Moos Niederbay;false
+5175;9941;Kötzting;false
+5176;9942;Viechtach;false
+5177;9943;Lam Oberpf;false
+5178;9944;Miltach;false
+5179;9945;Arnbruck;false
+5180;9946;Hohenwarth b Kötzing;false
+5181;9947;Neukirchen b Hl Blut;false
+5182;9948;Eschlkam;false
+5183;9951;Landau a d Isar;false
+5184;9952;Eichendorf;false
+5185;9953;Pilsting;false
+5186;9954;Simbach Niederbay;false
+5187;9955;Mamming;false
+5188;9956;Eichendorf-Aufhausen;false
+5189;9961;Mitterfels;false
+5190;9962;Schwarzach Niederbay;false
+5191;9963;Konzell;false
+5192;9964;Stallwang;false
+5193;9965;Sankt Englmar;false
+5194;9966;Wiesenfelden;false
+5195;9971;Cham;false
+5196;9972;Waldmünchen;false
+5197;9973;Furth i Wald;false
+5198;9974;Traitsching;false
+5199;9975;Waldmünchen-Geigant;false
+5200;9976;Rötz;false
+5201;9977;Arnschwang;false
+5202;9978;Schönthal Oberpf;false

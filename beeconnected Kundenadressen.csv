@@ -1,0 +1,78 @@
+﻿Operator ;Lex;Str. ;Straßennummer;PLZ;Ort;Hausname;Vorwahl;Data S;Bewohner Nr.;Kundenname
+162493;50000;Sigelindstr.;3;55232;Alzey;Haus Tabea;6731;9909796;49628-0;Alzey Haus Tabea
+162498;50240;An den drei Mühlen;5;67098;Bad Dürkheim;;6322;9472309;910787-0;Bad Dürkheim An den 3 Mühlen
+162278;50010;Saline Theodorshalle;22;55543;Bad Kreuznach;;671;79626891;920017 000-299;AWO Rheinland e.V.Seniorenzentrum Bad Kreuznach
+162499;50020;Vierwindenhöhe;14;56170;Bendorf;;2622;9043444;92160 000-299;Bendorf AWO
+162500;50001;Nibelungenstraße;101;64625;Bensheim;Villa Medici;6251;7702210;705630;Bensheim INCURA
+162501;50250;Altenwalder Chaussee;4;27474;Cuxhaven;;4721;3967028;6674 000-499;Cuxhaven
+162503;50014;Borsdorffstraße;40;64289;Darmstadt;Stift;6151;6690682;8600-0;Darmstadt Kranichstein Stift
+162502;50013;Borsdorffstraße;40;64289;Darmstadt;Pflege;6151;6690682;49211-0;Darmstadt Kranichstein Plege
+162504;50012;Humboldstraße;1;76706;Dettenheim;;7247;9542559;88897 000-299;Dettenheim Incura
+162505;50480;Albinistraße;1;64807;Dieburg;Haus Priska;6071;8207742;49979 000-299;Dieburg Haus Priska
+162507;50002;Christiansweg;1;65582;Diez;Oranienstein;6432;9885035;34177-0;Diez Oranienstein
+162506;50030;Christiansweg;3;65582;Diez;Pflege;6432;9889219;92005 000-299;Diez AWO
+162508;50003;Haltener Straße;69;46284;Dorsten;;2362;9950161;78533-0;Dorsten BELLINI
+162509;50510;Speyerer Straße;4;67373;Dudenhofen;;6232;3170828;100117-0;Dudenhofen Incura
+162511;50360;Wingertsäcker;2;68535;Edingen-Neckarhausen;Edi Neckarhaus;6203;9539236;840372-0;Edi Neckarhausen
+162510;50280;St.-Martin-Straße;30;68535;Edingen-Neckarhausen;Edi Wohnpark;6203;9539230;66170-0;Edi Wohnpark
+162512;50310;Ober-Seemer-Straße;12;63688;Gedern;Haus Vogelsberg;6045;9539890;95599-0;Gedern Haus Vogelsberg
+162513;50370;Am Nierspark;21;47608;Geldern;;2831;9736836;91041-0;Geldern Bellini
+162515;50290;Zeppelinstraße;9;69121;Heidelberg;Philippus;6221;6544444;43202 000-999;Heidelberg Philippus
+162514;50330;Plöck;6;69117;Heidelberg;St. Anna;6221;6528005;43412-0;HD St Anna
+162516;50011;Tilsiterstraße;19;69502;Hemsbach;;6201;8731365;256069 000-299;Hemsbach Schneider
+162517;50040;St.-Martin-Weg;9;56203;Höhr-Grenzhausen;;2624;9479277;94993 000-299;Höhr-Grenzhausen AWO
+162518;50090;Turnhallenstraße;1;55743;Idar-Oberstein;;6781;4587661;56213-0;Idar-Oberstein AWO
+162520;50350;Julius-Hirsch-Straße;2;76185;Karlsruhe;Karlsruher Weg;721;79197228;945433 000-299;KA Karlsruher Weg
+162519;50340;Redtenbacherstraße;10;76133;Karlsruhe;KA Friedensheim;721;78316989;957896 000-299;KA Friedensheim
+162522;50380;Oberländerstraße;25;77694;Kehl;Kinzigallee;7851;9948958;70861 200-999;Kehl Kinzigallee
+162521;50390;Iringheimerstraße;51;77694;Kehl;Dr. Friedrich-Geroldt-Haus;7851;4840960;485093 000-999;Kehl Dr. Friedrich-Geroldt-Haus
+162523;50004;Parkstraße;5;68775;Ketsch;;6202;8556966;85604-0;Ketsch Avendi
+162524;50440;Vorstadt;32;67292;Kirchheimbolanden;Wolfsstift;6352;7549697;7062 000-299;KIB Wolfsstift
+162525;50050;Laubach;20;56068;Koblenz;;261;98303988;973346 000-299;Koblenz AWO
+162526;50430;Am Schirkeshof;6;47804;Krefeld;;2151;5304018;41754 000-799;Krefeld Bellini
+162527;50270;Freiensehnerstraße;9;64678;Lindenfels;Parkhöhe;6255;9687612;30078-0;Lindefels Parkhhe
+162533;50080;Bernhard-Winter-Straße;33;55120;Mainz;Ursel-Distehut;6131;2194727;50153-0;Mainz Ursel Distelhut
+162531;50070;Göttelmannstraße;45;55131;Mainz;Rosengarten;6131;9454490;88086-0;Mainz Rosengarten
+162530;50550;Raupelsweg;1;55118;Mainz;Martinsstift;6131;5537033;62247 000-299;Mainz Mission Leben
+162529;50060;Jacob-Goedecker-Straße;3;55122;Mainz;Jockel Fuchs;6131;3044967;55448 000-299;Mainz Jockel Fuchs AWO
+162528;50450;Weintorstraße;12;55116;Mainz;Bruder Konrad;6131;5014634;9728 000-299;Mainz Bruder Konrad
+162534;50560;Schillingerring;6;76316;Malsch;;7246;9432923;94446-0;Malsch
+;50620;Meeräckerplatz;4;68163;Mannheim;Richard-Böttger-Haus;621;48178569;4930864-0;RBH Haus
+;50610;Lessingstr.;4;68167;Mannheim;Pauline-Maier-Haus;621;32488872;4930809-0;PMH Haus
+;50630;Murgstr.;2;68167;Mannheim;Ida-Scipio-Haus;621;81919475;493080-0;ISH Haus
+162538;50460;Wetzlarer Winkel;10;68305;Mannheim;Waldhof;621;15678916;32897-0;Mannheim Waldhof
+162537;50005;Landteilstraße;29;68163;Mannheim;Lanzcarré;621;78896441;429429 100-999;Mannheim Lanzcaree
+162536;50500;Spinnereistraße;8;68307;Mannheim;Sandhofer Stich;621;71782653;976731-0;MA Sandhofer Stich
+162535;50410;Friedrich-Traumann-Straße;21;68169;Mannheim;CentroVerde;621;71846307;17555 100-299;MA Centro Verde
+162192;50570;Meerfeldstr.;71;68163;Mannheim;Lanzgarten;621;71635086;976710-0;avendi Service Wohnen Mannheim
+162539;50110;Pfarrer-Winand-Straße;1;56727;Mayen;;2651;4965422;49102 000-299;Mayen AWO
+162542;50470;Lessingstraße;4;63263;Neu-Isenburg;Platanen rechts;6102;8846839;822464-0;Neu-Isenburg An den Platanen rechts
+162541;50471;Lessingstraße;4;63263;Neu-Isenburg;Platanen links;6102;8155228;815973-0;Neu-Isenburg An den Platanen links
+162540;50490;Ludwigstraße;55;63263;Neu-Isenburg;Königsheide;6102;8167873;81498 000-299;Neu-Isenburg Knigsheide
+162545;50130;Andernacherstraße;52;56564;Neuwied;Haus der Generationen;2631;9466834;939571 000-399;Neuwied Haus der Generationen
+162544;50540;Bahnhofstraße;4;56564;Neuwied;Bellini;2631;9431222;34545 000-999;Neuwied Bellini
+162543;50120;Heddesdorferstraße;18;56564;Neuwied;Alte Glaserei;2631;9437404;82580-0;Neuwied Alte Glaserei
+162191;50150;Vogelsbergstrasse;17;63179;Obertshausen;Haus Jona;6104;6687993;60056-0;Mission Leben im Alter Haus Jona
+162933;50580;Zu den Sportplätzen;33;64319;Pfungstadt;;6157;9877433;9147 9-0;Pfungstadt Misson Leben
+162932;50170;Alte Schlossgärtnerei;4;26180;Rastede;;4402;9723152;91974 000-299;Rastede Avendi
+162934;50200;Talstrasse;184;69198;Schriesheim;;6203;9388125;93033 000-299;Schriesheim Stammberg
+162935;50300;Bodelschwinghstraße;10;68723;Schwetzingen;;6202;9282247;92010 330-359;GRN Schwetzingen
+162190;50160;Sandstrasse;85;64342;Seeheim-Jugenheim;;6257;9916884;94450-0;Mission Leben im Alter Seeheim
+162937;50180;Untergasse;27;61449;Steinbach;;6171;9236905;91688 000-299;Steinbach
+162936;50006;Weinbergstraße;18;74889;Sinsheim;Haus Burgblick;7261;;86281-0;nicht bekannt
+162938;50100;An der Härenwies;31;54298;Trier;;651;99859878;145195 000-299;AWO Trier
+162939;50190;Spitalplatz;3;68519;Viernheim;;6204;7084763;9195 000-299;Viernheimer Forum
+162441;50420;Sophie-Scholl-Str.;1;67165;Waldsee;;6236;4611480;50993-0;Avendi Service Wohnen Waldsee
+162943;50210;Am Schlossberg;12;69469;Weinheim;St. Barbara;6201;9592465;50808 000-699;St. Barbara Weinheim
+162942;50520;Bodelschwinghstraße;2;69469;Weinheim;Bodelschwingh Heim;6201;4725517;8773-0;Bodelschwingh Weinheim
+162941;50230;Hauptstraße;151;69469;Weinheim;Betreutes Wohnen;6201;3902706;84558 000-299;Betreutes Wohnen Weinheim
+162940;50009;Röntgenstraße;5;69469;Weinheim;GRN;6201;;84401 00-99;nicht bekannt
+162944;50530;Johannes-Brahms Str.;15;65193;Wiesbaden;;611;89068997;238879-0;Wiesbaden
+162945;50007;Westliche Zufahrt;15;69168;Wiesloch;;6222;7732607;935994-0;Avendi Wiesloch
+162946;50008;Panoramaweg;12;69259;Wilhelmsfeld;;6220;9155872;52170 000-299;Wilhelmsfeld Erlbr. Höhe
+162947;50140;Remeyerhofstraße;19;67547;Worms;;6241;9367109;933910;AWO Worms
+162947;50140;Remeyerhofstraße;19;67547;Worms;;6241;9367109;933910;AWO Worms
+;;;;;;;621;;493080;ISH Heim
+;;;;;;;6255;;30078;Lindefels Parkhöhe
+;;;;;;;6266;;27499;ASB Haßmersheimer Hausgemeinschaft
+;;;;;;;6252;;;Sankt Katharina
